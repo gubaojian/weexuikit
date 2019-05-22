@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weex C++ UIKit</string>
+    <string name="title_activity_surface">SurfaceActivity</string>
+    <string name="title_activity_scroll_surface">ScrollSurfaceActivity</string>
+    <string name="title_activity_rich_text_demo">Weex C++ UIKit Demo</string>
+    <string name="title_activity_bench_memory">BenchMemoryActivity</string>
+</resources>

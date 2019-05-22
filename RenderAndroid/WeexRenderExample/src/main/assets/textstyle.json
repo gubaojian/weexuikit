@@ -1,0 +1,83 @@
+
+{
+  "type": "div",
+  "ref" : "1",
+  "style": {
+    "height": "1400",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#289898",
+    "paddingLeft":"20",
+    "paddingRight":"20",
+    "paddingBottom":"50",
+    "paddingTop":"50"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref" : "3",
+      "style": {
+        "marginTop": "10",
+        "height": "200",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "div",
+          "ref" : "4",
+          "style": {
+            "fontSize":"32",
+            "backgroundColor" : "#808080"
+          },
+          "children": [
+            {
+              "type": "text",
+              "ref" : "6",
+              "style": {
+                "lines" : "1"
+              },
+              "attr": {
+                "value":"Font Text Normal, Hello Weex UIKit"
+              }
+            },
+            {
+              "type": "text",
+              "ref" : "8",
+              "style": {
+                "lines" : "1",
+                "textDecoration" : "line-through"
+              },
+              "attr": {
+                "value":"Font Text Line-Through, Hello Weex UIKit"
+              }
+            },
+            {
+              "type": "text",
+              "ref" : "8",
+              "style": {
+                "lines" : "1",
+                "color" : "#898989",
+                "textDecoration" : "underline"
+              },
+              "attr": {
+                "value":"Font Text Underline, Hello Weex UIKit"
+              }
+            },
+            {
+              "type": "text",
+              "ref" : "7",
+              "style": {
+                "width":"400",
+                "textOverflow":"ellipsis",
+                "lines" : "1"
+              },
+              "attr": {
+                "value":"Font Text ellipsis, Hello Weex UIKit"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

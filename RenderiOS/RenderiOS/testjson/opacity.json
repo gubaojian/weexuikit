@@ -1,0 +1,85 @@
+
+{
+  "type": "div",
+  "ref": "1",
+  "style": {
+    "height": "1400",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#289898",
+    "paddingLeft":"20",
+    "paddingRight":"20",
+    "paddingBottom":"50",
+    "paddingTop":"50"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref": "2",
+      "style": {
+        "marginTop": "10",
+        "height": "80",
+        "backgroundColor":"#575757",
+        "alignItems":"center",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref": "2",
+          "style": {
+            "fontSize":"30",
+            "textAlign":"center"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref": "3",
+              "style": {
+                "width": "200"
+              },
+              "attr" : {
+                "value" : "opacity test none opacity"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref": "4",
+      "style": {
+        "marginTop": "10",
+        "height": "80",
+        "opacity":"0.3",
+        "backgroundColor":"#575757",
+        "alignItems":"center",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref": "5",
+          "style": {
+            "marginTop":"10",
+            "fontSize":"30",
+            "textAlign":"center"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref": "6",
+              "style": {
+                "width": "200"
+              },
+              "attr" : {
+                "value" : "opacity test, opacity 0.9"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

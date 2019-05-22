@@ -1,0 +1,65 @@
+
+{
+  "type": "div",
+  "ref" : "1",
+  "style": {
+    "height": "1400",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#289898",
+    "paddingLeft":"20",
+    "paddingRight":"20",
+    "paddingBottom":"50",
+    "paddingTop":"50"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref" : "2",
+      "style": {
+        "marginTop": "10",
+        "height": "200",
+        "backgroundColor":"#575757"
+      }
+    },
+    {
+      "type": "div",
+      "ref" : "3",
+      "style": {
+        "marginTop": "10",
+        "height": "200",
+        "zIndex":"10",
+        "backgroundColor":"#00CD00",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref" : "4",
+          "style": {
+            "fontSize":"32",
+            "textAlign":"center"
+          },
+          "children": [
+            {
+              "type": "text",
+              "ref" : "6",
+              "attr": {
+                "value":"Weex C++ UIKit zIndex 10, Green Up"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "60",
+      "style": {
+        "marginTop": "-100",
+        "height": "200",
+        "backgroundColor":"#4876FF"
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+
+{
+  "type": "div",
+  "ref" : "1",
+  "style": {
+    "height": "1400",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#00BDFF",
+    "paddingLeft":"20",
+    "paddingRight":"20",
+    "paddingBottom":"50",
+    "paddingTop":"50",
+    "alignItems":"center"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref" : "116",
+      "style": {
+        "marginTop":"20px",
+        "width": "400",
+        "height": "200",
+        "borderStyle": "dotted",
+        "borderColor": "#EDEDED"
+      },
+      "children": [
+        {
+          "type": "div",
+          "ref" : "117",
+          "style": {
+            "width": "400",
+            "height": "200",
+            "backgroundColor": "#F0F0F0",
+            "transform": "rotate(30deg)",
+            "transformOrigin": "center",
+            "alignItems":"center",
+            "justifyContent":"center"
+          },
+          "children":[
+            {
+              "type": "text",
+              "ref" : "118",
+              "style": {
+                "fontSize":"32px"
+              },
+              "attr": {
+                "value":"transform-origin: center;"
+              }
+            },
+            {
+              "type": "img",
+              "ref" :"119",
+              "style": {
+                "height" : "150",
+                "width" : "150"
+              },
+              "attr" :{
+                "src" : "https://www.firefox.com.cn/media/img/firefox/favicon-196.c6d9abffb769.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "216",
+      "style": {
+        "marginTop":"20px",
+        "width": "400",
+        "height": "200",
+        "borderStyle": "dotted",
+        "borderColor": "#EDEDED"
+      },
+      "children": [
+        {
+          "type": "div",
+          "ref" : "217",
+          "style": {
+            "width": "400",
+            "height": "200",
+            "backgroundColor": "#F0F0F0",
+            "transform": "rotate(30deg)",
+            "transformOrigin": "left top",
+            "alignItems":"center",
+            "justifyContent":"center"
+          },
+          "children":[
+            {
+              "type": "text",
+              "ref" : "218",
+              "style": {
+                "fontSize":"32px"
+              },
+              "attr": {
+                "value":"transform-origin:left top;"
+              }
+            },
+            {
+              "type": "img",
+              "ref" :"219",
+              "style": {
+                "height" : "150",
+                "width" : "150"
+              },
+              "attr" :{
+                "src" : "https://www.firefox.com.cn/media/img/firefox/favicon-196.c6d9abffb769.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "316",
+      "style": {
+        "marginTop":"20px",
+        "width": "400",
+        "height": "200",
+        "borderStyle": "dotted",
+        "borderColor": "#EDEDED"
+      },
+      "children": [
+        {
+          "type": "div",
+          "ref" : "317",
+          "style": {
+            "width": "400",
+            "height": "200",
+            "backgroundColor": "#F0F0F0",
+            "transform": "rotate(30deg)",
+            "transformOrigin": "50px 50px",
+            "alignItems":"center",
+            "justifyContent":"center"
+          },
+          "children":[
+            {
+              "type": "text",
+              "ref" : "318",
+              "style": {
+                "fontSize":"32px"
+              },
+              "attr": {
+                "value":"transform-origin:50px 50px;"
+              }
+            },
+            {
+              "type": "img",
+              "ref" :"319",
+              "style": {
+                "height" : "150",
+                "width" : "150"
+              },
+              "attr" :{
+                "src" : "https://www.firefox.com.cn/media/img/firefox/favicon-196.c6d9abffb769.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "416",
+      "style": {
+        "marginTop":"20px",
+        "width": "400",
+        "height": "200",
+        "borderStyle": "dotted",
+        "borderColor": "#EDEDED"
+      },
+      "children": [
+        {
+          "type": "div",
+          "ref" : "417",
+          "style": {
+            "width": "400",
+            "height": "200",
+            "backgroundColor": "#F0F0F0",
+            "transform": "rotate(30deg)",
+            "transformOrigin": "right bottom 60px",
+            "alignItems":"center",
+            "justifyContent":"center"
+          },
+          "children":[
+            {
+              "type": "text",
+              "ref" : "418",
+              "style": {
+                "fontSize":"32px"
+              },
+              "attr": {
+                "value":"transform-origin:right bottom  60px;"
+              }
+            },
+            {
+              "type": "img",
+              "ref" :"419",
+              "style": {
+                "height" : "150",
+                "width" : "150"
+              },
+              "attr" :{
+                "src" : "https://www.firefox.com.cn/media/img/firefox/favicon-196.c6d9abffb769.png"
+              }
+            }
+          ]
+        }
+      ]
+    }
+
+
+
+  ]
+}

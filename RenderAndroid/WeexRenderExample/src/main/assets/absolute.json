@@ -1,0 +1,191 @@
+
+{
+  "type": "div",
+  "ref" : "1",
+  "style": {
+    "height": "1400",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#289898",
+    "paddingLeft":"20",
+    "paddingRight":"20",
+    "paddingBottom":"50",
+    "paddingTop":"50"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref" : "2",
+      "style": {
+        "marginTop": "10",
+        "height": "200",
+        "backgroundColor":"#575757"
+      }
+    },
+    {
+      "type": "div",
+      "ref" : "3",
+      "style": {
+        "marginTop": "10",
+        "height": "200",
+        "backgroundColor":"#00CD00",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "div",
+          "ref" : "4",
+          "style": {
+            "fontSize":"32",
+            "position":"absolute"
+          },
+          "children": [
+            {
+              "type": "text",
+              "style": {
+                "textAlign":"center"
+              },
+              "ref" : "6",
+              "attr": {
+                "value":"Weex UIKIT Absolute Position Top Center, Calculator"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "6",
+      "style": {
+        "marginTop": "-50",
+        "height": "200",
+        "backgroundColor":"#4876FF"
+      }
+    },
+    {
+      "type": "div",
+      "ref" : "7",
+      "style": {
+        "flexDirection": "row",
+        "alignItems": "stretch"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "8",
+          "style": {
+            "flex": 1,
+            "textAlign": "center",
+            "color": "#333333",
+            "backgroundColor": "#eeeeee",
+            "fontSize": "46",
+            "height": "120",
+            "paddingTop": "35",
+            "paddingRight": "35",
+            "paddingBottom": "35",
+            "paddingLeft": "35",
+            "marginTop": "5",
+            "marginRight": "5",
+            "marginBottom": "5",
+            "marginLeft": "5"
+          },
+          "attr" :{
+            "value" : "0"
+          }
+        },
+        {
+          "type": "text",
+          "ref" : "9",
+          "style": {
+            "flex": 1,
+            "textAlign": "center",
+            "color": "#333333",
+            "backgroundColor": "#eeeeee",
+            "fontSize": "46",
+            "height": "120",
+            "paddingTop": "35",
+            "paddingRight": "35",
+            "paddingBottom": "35",
+            "paddingLeft": "35",
+            "marginTop": "5",
+            "marginRight": "5",
+            "marginBottom": "5",
+            "marginLeft": "5"
+          },
+          "attr" :{
+            "value" : "."
+          }
+        },
+        {
+          "type": "text",
+          "ref" : "10",
+          "style": {
+            "flex": 1,
+            "textAlign": "center",
+            "height": "120",
+            "paddingTop": "35",
+            "paddingRight": "35",
+            "paddingBottom": "35",
+            "paddingLeft": "35",
+            "marginTop": "5",
+            "marginRight": "5",
+            "marginBottom": "5",
+            "marginLeft": "5",
+            "backgroundColor": "#666699",
+            "fontSize": "50",
+            "color": "#FFFFFF"
+          },
+          "attr" :{
+            "value" : "AC"
+          }
+        },
+        {
+          "type": "text",
+          "ref" : "11",
+          "style": {
+            "flex": 1,
+            "textAlign": "center",
+            "color": "#333333",
+            "backgroundColor": "#eeeeee",
+            "fontSize": "46",
+            "height": "120",
+            "paddingTop": "35",
+            "paddingRight": "35",
+            "paddingBottom": "35",
+            "paddingLeft": "35",
+            "marginTop": "5",
+            "marginRight": "5",
+            "marginBottom": "5",
+            "marginLeft": "5"
+          },
+          "attr" :{
+            "value" : "="
+          }
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "ref" : "13",
+      "style": {
+        "textAlign": "right",
+        "backgroundColor": "#666666",
+        "fontSize": "40",
+        "color": "#FFFFFF",
+        "height": "120",
+        "paddingTop": "35",
+        "paddingRight": "35",
+        "paddingBottom": "35",
+        "paddingLeft": "35",
+        "marginTop": "5",
+        "marginRight": "5",
+        "marginBottom": "5",
+        "marginLeft": "5"
+      },
+      "attr" :{
+        "value" : "11111111112222222 + 88888888888888615555555855888888888888888888888888800"
+      }
+    }
+  ]
+}

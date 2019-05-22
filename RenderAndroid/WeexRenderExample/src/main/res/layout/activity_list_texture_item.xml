@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <com.taobao.weex.render.frame.RenderView
+        android:layout_width="match_parent"
+        android:layout_height="400px"
+        android:id="@+id/canvas_container">
+
+    </com.taobao.weex.render.frame.RenderView>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimary"></View>
+</LinearLayout>

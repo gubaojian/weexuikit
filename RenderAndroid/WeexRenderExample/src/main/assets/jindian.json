@@ -1,0 +1,838 @@
+{
+  "attr": {
+    "doctype": "weexrender"
+  },
+  "children": [
+    {
+      "attr": {
+        "@styleScope": "data-v-ab197978",
+        "componentName": "tracker",
+        "trackinfox": "/zebra_module_goldlog.20181111.module-exp-01-----spm=a211oj.12107501.1417467480.0-----POST"
+      },
+      "event": [
+        "appear",
+        "disappear",
+        "click"
+      ],
+      "ref": "88777",
+      "style": {
+        "height": "1",
+        "left": "0",
+        "position": "absolute",
+        "top": "0",
+        "width": "1"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-faaf4374",
+        "appendData": "{}",
+        "config": "{}",
+        "dataSpm": "1417467480",
+        "id": "1417467480",
+        "theme": "{}"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-faaf4374"
+          },
+          "event": [ ],
+          "ref": "88783",
+          "style": {
+            "marginTop": "6"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-faaf4374",
+            "index": "9",
+            "moduleId": "1417467480",
+            "offset": "2000"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-faaf4374"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-faaf4374"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-faaf4374",
+                        "clicktrackinfo": "/sea.common.shop-----$shop_clk$:v4:1007.17612.117330.3007494_0:bde73c69-8878-476d-8784-68553642d3e1:3994766919:0::0:shopcd:4.547:0:0:0:0:0:0:0:0:0:0:$end$-----H1453789852",
+                        "component-name": "link",
+                        "data-spm": "d0",
+                        "href": "https://anelloxb.tmall.com/campaign-10443-8.htm?pos=1&shop_navi=promotion&acm=ak-zebra-31492-95331.1003.1.2584381&shop_origin=https%3A%2F%2Fanelloxb.tmall.com%2Fcampaign-10443-8.htm%3Fuptscode%3D302%26wh_weex%3Dtrue&scm=1007.17612.117330.3007494_0&uptscode=302",
+                        "trackinfox": "/sea.common.shop-----$shop_eps$:v4:1007.17612.117330.3007494_0:bde73c69-8878-476d-8784-68553642d3e1:3994766919:0::0:shopcd:4.547:0:0:0:0:0:0:0:0:0:0:$end$-----H1453789852"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-258b3f50"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-258b3f50"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-4ff29e53"
+                                  },
+                                  "children": [
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-4ff29e53",
+                                        "autoRecycle": "true",
+                                        "src": "//img.alicdn.com/bao/uploaded/i1/TB1OciCk6TpK1RjSZKPSuu3UpXa.jpg"
+                                      },
+                                      "event": [ ],
+                                      "ref": "88808",
+                                      "style": {
+                                        "height": "348",
+                                        "width": "348"
+                                      },
+                                      "type": "image"
+                                    }
+                                  ],
+                                  "event": [ ],
+                                  "ref": "88805",
+                                  "style": { },
+                                  "type": "div"
+                                }
+                              ],
+                              "event": [ ],
+                              "ref": "88800",
+                              "style": {
+                                "position": "relative"
+                              },
+                              "type": "div"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-258b3f50"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-258b3f50",
+                                    "autoRecycle": "true",
+                                    "quality": "normal",
+                                    "src": "//img.alicdn.com/bao/uploaded/i1/TB1Dj9ziFzqK1RjSZFowu2fcXXa.png"
+                                  },
+                                  "event": [ ],
+                                  "ref": "88816",
+                                  "style": {
+                                    "borderRadius": "30",
+                                    "height": "44",
+                                    "width": "104"
+                                  },
+                                  "type": "image"
+                                }
+                              ],
+                              "event": [ ],
+                              "ref": "88813",
+                              "style": {
+                                "backgroundColor": "#ffffff",
+                                "borderColor": "#dddddd",
+                                "borderRadius": "30",
+                                "borderStyle": "solid",
+                                "borderWidth": "1",
+                                "bottom": "0",
+                                "height": "56",
+                                "left": "120",
+                                "overflow": "hidden",
+                                "paddingBottom": "4",
+                                "paddingLeft": "4",
+                                "paddingRight": "4",
+                                "paddingTop": "4",
+                                "position": "absolute",
+                                "width": "116"
+                              },
+                              "type": "div"
+                            }
+                          ],
+                          "event": [ ],
+                          "ref": "88797",
+                          "style": {
+                            "height": "378",
+                            "position": "relative"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-258b3f50"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-258b3f50"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-258b3f50"
+                                  },
+                                  "children": [
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-258b3f50"
+                                      },
+                                      "children": [
+                                        {
+                                          "attr": {
+                                            "@styleScope": "data-v-258b3f50",
+                                            "value": "anello旗舰店"
+                                          },
+                                          "event": [ ],
+                                          "ref": "88834",
+                                          "style": {
+                                            "fontSize": "24",
+                                            "lines": "1",
+                                            "maxWidth": "300",
+                                            "overflow": "hidden",
+                                            "textAlign": "center",
+                                            "textOverflow": "ellipsis",
+                                            "whiteSpace": "nowrap"
+                                          },
+                                          "type": "text"
+                                        }
+                                      ],
+                                      "event": [ ],
+                                      "ref": "88830",
+                                      "style": {
+                                        "alignItems": "center",
+                                        "flexDirection": "row",
+                                        "justifyContent": "center",
+                                        "overflow": "hidden",
+                                        "paddingLeft": "10",
+                                        "width": "308"
+                                      },
+                                      "type": "div"
+                                    }
+                                  ],
+                                  "event": [ ],
+                                  "ref": "88827",
+                                  "style": {
+                                    "alignItems": "center",
+                                    "display": "flex",
+                                    "height": "32",
+                                    "justifyContent": "center",
+                                    "overflow": "hidden",
+                                    "width": "348"
+                                  },
+                                  "type": "div"
+                                },
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-258b3f50"
+                                  },
+                                  "children": [
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-258b3f50",
+                                        "value": "第1小时2件85折"
+                                      },
+                                      "event": [ ],
+                                      "ref": "88839",
+                                      "style": {
+                                        "color": "#FE283A",
+                                        "fontSize": "24",
+                                        "height": "32",
+                                        "lines": "1",
+                                        "overflow": "hidden",
+                                        "textAlign": "center",
+                                        "textOverflow": "ellipsis",
+                                        "whiteSpace": "nowrap",
+                                        "width": "280"
+                                      },
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "event": [ ],
+                                  "ref": "88837",
+                                  "style": {
+                                    "paddingLeft": "16",
+                                    "paddingRight": "16"
+                                  },
+                                  "type": "div"
+                                }
+                              ],
+                              "event": [ ],
+                              "ref": "88824",
+                              "style": {
+                                "alignItems": "center",
+                                "display": "flex",
+                                "flexFlow": "column"
+                              },
+                              "type": "div"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-258b3f50"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-258b3f50",
+                                    "href": "https://taoquan.taobao.com/coupon/unify_apply.htm?activityId=7723207f54944f449edceb09ec166f77&sellerId=3994766919&pos=1&acm=ak-zebra-31492-95331.1003.1.2584381&scm=1007.17612.117330.3007494_0&isCouponNew=1"
+                                  },
+                                  "children": [
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-258b3f50"
+                                      },
+                                      "children": [
+                                        {
+                                          "attr": {
+                                            "@styleScope": "data-v-258b3f50",
+                                            "value": "券"
+                                          },
+                                          "event": [ ],
+                                          "ref": "88850",
+                                          "style": {
+                                            "color": "#FE283A",
+                                            "fontSize": "24",
+                                            "lines": "1",
+                                            "overflow": "hidden",
+                                            "textAlign": "center",
+                                            "textOverflow": "ellipsis",
+                                            "whiteSpace": "nowrap"
+                                          },
+                                          "type": "text"
+                                        },
+                                        {
+                                          "attr": {
+                                            "@styleScope": "data-v-258b3f50"
+                                          },
+                                          "children": [
+                                            {
+                                              "attr": {
+                                                "@styleScope": "data-v-258b3f50"
+                                              },
+                                              "event": [ ],
+                                              "ref": "88856",
+                                              "style": {
+                                                "borderColor": "#FE283A",
+                                                "borderStyle": "dashed",
+                                                "borderWidth": "2",
+                                                "height": "56",
+                                                "width": "40"
+                                              },
+                                              "type": "div"
+                                            }
+                                          ],
+                                          "event": [ ],
+                                          "ref": "88853",
+                                          "style": {
+                                            "height": "56",
+                                            "overflow": "hidden",
+                                            "position": "absolute",
+                                            "right": "0",
+                                            "top": "2",
+                                            "width": "2"
+                                          },
+                                          "type": "div"
+                                        }
+                                      ],
+                                      "event": [ ],
+                                      "ref": "88848",
+                                      "style": {
+                                        "flex": "1",
+                                        "height": "58",
+                                        "justifyContent": "center",
+                                        "position": "relative"
+                                      },
+                                      "type": "div"
+                                    },
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-258b3f50",
+                                        "value": "¥ 30"
+                                      },
+                                      "event": [ ],
+                                      "ref": "88858",
+                                      "style": {
+                                        "color": "#FE283A",
+                                        "flex": "2",
+                                        "fontSize": "24",
+                                        "lines": "1",
+                                        "overflow": "hidden",
+                                        "textAlign": "center",
+                                        "textOverflow": "ellipsis",
+                                        "whiteSpace": "nowrap"
+                                      },
+                                      "type": "text"
+                                    },
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-258b3f50"
+                                      },
+                                      "event": [ ],
+                                      "ref": "88861",
+                                      "style": {
+                                        "backgroundColor": "#FE283A",
+                                        "bottom": "0",
+                                        "left": "0",
+                                        "opacity": "0.100000",
+                                        "position": "absolute",
+                                        "right": "0",
+                                        "top": "0"
+                                      },
+                                      "type": "div"
+                                    }
+                                  ],
+                                  "event": [
+                                    "click"
+                                  ],
+                                  "ref": "88845",
+                                  "style": {
+                                    "alignItems": "center",
+                                    "borderColor": "#FE283A",
+                                    "borderRadius": "4",
+                                    "borderStyle": "dashed",
+                                    "borderWidth": "2",
+                                    "color": "#FE283A",
+                                    "display": "flex",
+                                    "flex": "1",
+                                    "flexDirection": "row",
+                                    "flexFlow": "row wrap",
+                                    "height": "58",
+                                    "marginRight": "6",
+                                    "overflow": "hidden",
+                                    "textAlign": "center"
+                                  },
+                                  "type": "div"
+                                },
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-258b3f50"
+                                  },
+                                  "children": [
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-258b3f50",
+                                        "value": "进店逛逛"
+                                      },
+                                      "event": [ ],
+                                      "ref": "88866",
+                                      "style": {
+                                        "color": "#ffffff",
+                                        "fontSize": "24",
+                                        "lines": "1",
+                                        "overflow": "hidden",
+                                        "textAlign": "center",
+                                        "textOverflow": "ellipsis",
+                                        "whiteSpace": "nowrap"
+                                      },
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "event": [ ],
+                                  "ref": "88864",
+                                  "style": {
+                                    "alignItems": "center",
+                                    "backgroundColor": "#FE283A",
+                                    "borderRadius": "6",
+                                    "color": "#ffffff",
+                                    "flex": "1",
+                                    "height": "60",
+                                    "justifyContent": "center",
+                                    "textAlign": "center"
+                                  },
+                                  "type": "div"
+                                }
+                              ],
+                              "event": [ ],
+                              "ref": "88842",
+                              "style": {
+                                "display": "flex",
+                                "flexDirection": "row",
+                                "justifyContent": "space-between",
+                                "marginTop": "18"
+                              },
+                              "type": "div"
+                            }
+                          ],
+                          "event": [ ],
+                          "ref": "88821",
+                          "style": {
+                            "paddingBottom": "20",
+                            "paddingLeft": "18",
+                            "paddingRight": "18",
+                            "paddingTop": "10"
+                          },
+                          "type": "div"
+                        }
+                      ],
+                      "event": [
+                        "appear",
+                        "click"
+                      ],
+                      "ref": "88794",
+                      "style": {
+                        "backgroundColor": "#ffffff",
+                        "borderRadius": "12",
+                        "overflow": "hidden",
+                        "position": "relative",
+                        "width": "342"
+                      },
+                      "type": "div"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "88791",
+                  "style": { },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-faaf4374"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-faaf4374",
+                        "clicktrackinfo": "/sea.common.shop-----$shop_clk$:v4:1007.17612.117330.3007494_0:bde73c69-8878-476d-8784-68553642d3e1:3527789044:1::0:shopcd:4.571:0:0:0:0:0:0:0:0:0:0:$end$-----H1453789852",
+                        "component-name": "link",
+                        "data-spm": "d1",
+                        "href": "https://flexfit.tmall.com/campaign-10443-11.htm?pos=2&shop_navi=promotion&acm=ak-zebra-31492-95331.1003.1.2584381&shop_origin=https%3A%2F%2Fflexfit.tmall.com%2Fcampaign-10443-11.htm%3Fuptscode%3D302%26wh_weex%3Dtrue&scm=1007.17612.117330.3007494_0&uptscode=302",
+                        "trackinfox": "/sea.common.shop-----$shop_eps$:v4:1007.17612.117330.3007494_0:bde73c69-8878-476d-8784-68553642d3e1:3527789044:1::0:shopcd:4.571:0:0:0:0:0:0:0:0:0:0:$end$-----H1453789852"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-258b3f50"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-258b3f50"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-4ff29e53"
+                                  },
+                                  "children": [
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-4ff29e53",
+                                        "autoRecycle": "true",
+                                        "src": "//img.alicdn.com/bao/uploaded/i1/TB126O0iNYaK1RjSZFnSuu80pXa.jpg"
+                                      },
+                                      "event": [ ],
+                                      "ref": "88886",
+                                      "style": {
+                                        "height": "348",
+                                        "width": "348"
+                                      },
+                                      "type": "image"
+                                    }
+                                  ],
+                                  "event": [ ],
+                                  "ref": "88883",
+                                  "style": { },
+                                  "type": "div"
+                                }
+                              ],
+                              "event": [ ],
+                              "ref": "88878",
+                              "style": {
+                                "position": "relative"
+                              },
+                              "type": "div"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-258b3f50"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-258b3f50",
+                                    "autoRecycle": "true",
+                                    "quality": "normal",
+                                    "src": "//img.alicdn.com/bao/uploaded/i1/TB1GFe7iNnaK1RjSZFtwu2C2VXa.png"
+                                  },
+                                  "event": [ ],
+                                  "ref": "88894",
+                                  "style": {
+                                    "borderRadius": "30",
+                                    "height": "44",
+                                    "width": "104"
+                                  },
+                                  "type": "image"
+                                }
+                              ],
+                              "event": [ ],
+                              "ref": "88891",
+                              "style": {
+                                "backgroundColor": "#ffffff",
+                                "borderColor": "#dddddd",
+                                "borderRadius": "30",
+                                "borderStyle": "solid",
+                                "borderWidth": "1",
+                                "bottom": "0",
+                                "height": "56",
+                                "left": "120",
+                                "overflow": "hidden",
+                                "paddingBottom": "4",
+                                "paddingLeft": "4",
+                                "paddingRight": "4",
+                                "paddingTop": "4",
+                                "position": "absolute",
+                                "width": "116"
+                              },
+                              "type": "div"
+                            }
+                          ],
+                          "event": [ ],
+                          "ref": "88875",
+                          "style": {
+                            "height": "378",
+                            "position": "relative"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-258b3f50"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-258b3f50"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-258b3f50"
+                                  },
+                                  "children": [
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-258b3f50"
+                                      },
+                                      "children": [
+                                        {
+                                          "attr": {
+                                            "@styleScope": "data-v-258b3f50",
+                                            "value": "FLEXFIT旗舰店"
+                                          },
+                                          "event": [ ],
+                                          "ref": "88912",
+                                          "style": {
+                                            "fontSize": "24",
+                                            "lines": "1",
+                                            "maxWidth": "300",
+                                            "overflow": "hidden",
+                                            "textAlign": "center",
+                                            "textOverflow": "ellipsis",
+                                            "whiteSpace": "nowrap"
+                                          },
+                                          "type": "text"
+                                        }
+                                      ],
+                                      "event": [ ],
+                                      "ref": "88908",
+                                      "style": {
+                                        "alignItems": "center",
+                                        "flexDirection": "row",
+                                        "justifyContent": "center",
+                                        "overflow": "hidden",
+                                        "paddingLeft": "10",
+                                        "width": "308"
+                                      },
+                                      "type": "div"
+                                    }
+                                  ],
+                                  "event": [ ],
+                                  "ref": "88905",
+                                  "style": {
+                                    "alignItems": "center",
+                                    "display": "flex",
+                                    "height": "32",
+                                    "justifyContent": "center",
+                                    "overflow": "hidden",
+                                    "width": "348"
+                                  },
+                                  "type": "div"
+                                },
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-258b3f50"
+                                  },
+                                  "children": [
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-258b3f50",
+                                        "value": "全店满400减50"
+                                      },
+                                      "event": [ ],
+                                      "ref": "88917",
+                                      "style": {
+                                        "color": "#FE283A",
+                                        "fontSize": "24",
+                                        "height": "32",
+                                        "lines": "1",
+                                        "overflow": "hidden",
+                                        "textAlign": "center",
+                                        "textOverflow": "ellipsis",
+                                        "whiteSpace": "nowrap",
+                                        "width": "280"
+                                      },
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "event": [ ],
+                                  "ref": "88915",
+                                  "style": {
+                                    "paddingLeft": "16",
+                                    "paddingRight": "16"
+                                  },
+                                  "type": "div"
+                                }
+                              ],
+                              "event": [ ],
+                              "ref": "88902",
+                              "style": {
+                                "alignItems": "center",
+                                "display": "flex",
+                                "flexFlow": "column"
+                              },
+                              "type": "div"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-258b3f50"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-258b3f50"
+                                  },
+                                  "children": [
+                                    {
+                                      "attr": {
+                                        "@styleScope": "data-v-258b3f50",
+                                        "value": "进店逛逛"
+                                      },
+                                      "event": [ ],
+                                      "ref": "88927",
+                                      "style": {
+                                        "color": "#ffffff",
+                                        "fontSize": "24",
+                                        "lines": "1",
+                                        "overflow": "hidden",
+                                        "textAlign": "center",
+                                        "textOverflow": "ellipsis",
+                                        "whiteSpace": "nowrap"
+                                      },
+                                      "type": "text"
+                                    }
+                                  ],
+                                  "event": [ ],
+                                  "ref": "88925",
+                                  "style": {
+                                    "alignItems": "center",
+                                    "backgroundColor": "#FE283A",
+                                    "borderRadius": "6",
+                                    "color": "#ffffff",
+                                    "flex": "1",
+                                    "height": "60",
+                                    "justifyContent": "center",
+                                    "textAlign": "center"
+                                  },
+                                  "type": "div"
+                                }
+                              ],
+                              "event": [ ],
+                              "ref": "88920",
+                              "style": {
+                                "display": "flex",
+                                "flexDirection": "row",
+                                "justifyContent": "space-between",
+                                "marginTop": "18"
+                              },
+                              "type": "div"
+                            }
+                          ],
+                          "event": [ ],
+                          "ref": "88899",
+                          "style": {
+                            "backgroundColor":"green",
+                            "paddingBottom": "20",
+                            "flexDirection": "column",
+                            "marginRight": "100",
+                            "paddingTop": "10"
+                          },
+                          "type": "div"
+                        }
+                      ],
+                      "event": [
+                        "appear",
+                        "click"
+                      ],
+                      "ref": "88872",
+                      "style": {
+                        "backgroundColor": "#ffffff",
+                        "borderRadius": "12",
+                        "overflow": "hidden",
+                        "position": "relative",
+                        "width": "342"
+                      },
+                      "type": "div"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "88869",
+                  "style": { },
+                  "type": "div"
+                }
+              ],
+              "event": [ ],
+              "ref": "88788",
+              "style": {
+                "display": "flex",
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "justifyContent": "space-between",
+                "marginBottom": "18",
+                "marginLeft": "24",
+                "marginRight": "24",
+                "width": "750"
+              },
+              "type": "div"
+            }
+          ],
+          "event": [
+            "doReq"
+          ],
+          "ref": "88785",
+          "style": { },
+          "type": "lazyCtn"
+        }
+      ],
+      "event": [ ],
+      "ref": "88780",
+      "style": { },
+      "type": "div"
+    }
+  ],
+  "event": [ ],
+  "ref": "88774",
+  "style": {
+    "position": "relative"
+  },
+  "type": "div"
+}

@@ -1,0 +1,119 @@
+
+{
+  "type": "div",
+  "ref" : "1",
+  "style": {
+    "height": "1400",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#289898",
+    "paddingLeft":"20",
+    "paddingRight":"20",
+    "paddingBottom":"50",
+    "paddingTop":"50"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref" : "2",
+      "style": {
+        "marginTop": "10",
+        "height": "200",
+        "flexDirection":"row",
+        "alignItems":"center",
+        "justifyContent":"center",
+        "backgroundColor":"#575757"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref" : "3",
+          "style": {
+            "fontSize":"30",
+            "textAlign":"center",
+            "textShadow":"5 5 5 5 #FF4500",
+            "backgroundColor" : "#222222"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref" : "4",
+              "style": {
+                "backgroundColor" : "#888888"
+              },
+              "attr" : {
+                "value" : "textshadow test"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "5",
+      "style": {
+        "marginTop": "10",
+        "height": "200",
+        "alignItems":"center",
+        "justifyContent":"center",
+        "backgroundColor":"#575757"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref" : "6",
+          "style": {
+            "fontSize":"40",
+            "textAlign":"center",
+            "textShadow":"5 5 5 5 #9400D3"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref" : "7",
+              "style": {
+              },
+              "attr" : {
+                "value" : "textshadow test"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "8",
+      "style": {
+        "marginTop": "10",
+        "height": "200",
+        "alignItems":"center",
+        "justifyContent":"center",
+        "backgroundColor":"#575757"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref" : "10",
+          "style": {
+            "fontSize":"60",
+            "textAlign":"center",
+            "textShadow":"5 5 5 5 #00CD00"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref" : "11",
+              "style": {
+              },
+              "attr" :{
+                "value" : "textshadow test"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

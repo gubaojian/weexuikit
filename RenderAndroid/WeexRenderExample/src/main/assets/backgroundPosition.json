@@ -1,0 +1,259 @@
+{
+  "attr": {
+    "@styleScope": "data-v-5d062348",
+    "doctype": "weexrender"
+  },
+  "children": [
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348",
+            "value": "Background Position Left"
+          },
+          "event": [ ],
+          "ref": "1072",
+          "style": {
+            "color": "#FFFFFF",
+            "fontSize": "32"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [ ],
+      "ref": "1070",
+      "style": {
+        "alignItems": "center",
+        "backgroundImage": "url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/codepen.png)",
+        "backgroundRepeat":"no-repeat",
+        "backgroundSize":"100px 100px",
+        "backgroundPosition":"left",
+        "background" :"red",
+        "borderWidth": "2",
+        "borderStyle": "solid",
+        "borderRadius": "10",
+        "height": "160",
+        "justifyContent": "center",
+        "marginBottom": "10",
+        "marginLeft": "10",
+        "marginRight": "10",
+        "marginTop": "10",
+        "width": "730"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348",
+            "value": "Background Position Right"
+          },
+          "event": [ ],
+          "ref": "2072",
+          "style": {
+            "color": "#FFFFFF",
+            "fontSize": "32"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [ ],
+      "ref": "2070",
+      "style": {
+        "alignItems": "center",
+        "backgroundImage": "url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/codepen.png)",
+        "backgroundRepeat":"no-repeat",
+        "backgroundSize":"100px 100px",
+        "backgroundPosition":"right",
+        "background" :"red",
+        "borderWidth": "2",
+        "borderStyle": "solid",
+        "borderRadius": "10",
+        "height": "160",
+        "justifyContent": "center",
+        "marginBottom": "10",
+        "marginLeft": "10",
+        "marginRight": "10",
+        "marginTop": "10",
+        "width": "730"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348",
+            "value": "Background Position Top"
+          },
+          "event": [ ],
+          "ref": "3072",
+          "style": {
+            "color": "#FFFFFF",
+            "fontSize": "32"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [ ],
+      "ref": "3070",
+      "style": {
+        "alignItems": "center",
+        "backgroundImage": "url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/codepen.png)",
+        "backgroundRepeat":"no-repeat",
+        "backgroundSize":"100px 100px",
+        "backgroundPosition":"top",
+        "background" :"red",
+        "borderWidth": "2",
+        "borderStyle": "solid",
+        "borderRadius": "10",
+        "height": "160",
+        "justifyContent": "center",
+        "marginBottom": "10",
+        "marginLeft": "10",
+        "marginRight": "10",
+        "marginTop": "10",
+        "width": "730"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348",
+            "value": "Background Position Bottom"
+          },
+          "event": [ ],
+          "ref": "4072",
+          "style": {
+            "color": "#FFFFFF",
+            "fontSize": "32"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [ ],
+      "ref": "4070",
+      "style": {
+        "alignItems": "center",
+        "backgroundImage": "url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/codepen.png)",
+        "backgroundRepeat":"no-repeat",
+        "backgroundSize":"100px 100px",
+        "backgroundPosition":"bottom",
+        "background" :"red",
+        "borderWidth": "2",
+        "borderStyle": "solid",
+        "borderRadius": "10",
+        "height": "160",
+        "justifyContent": "center",
+        "marginBottom": "10",
+        "marginLeft": "10",
+        "marginRight": "10",
+        "marginTop": "10",
+        "width": "730"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348",
+            "value": "Background Position Center"
+          },
+          "event": [ ],
+          "ref": "5072",
+          "style": {
+            "color": "#FFFFFF",
+            "fontSize": "32"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [ ],
+      "ref": "5070",
+      "style": {
+        "alignItems": "center",
+        "backgroundImage": "url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/codepen.png)",
+        "backgroundRepeat":"no-repeat",
+        "backgroundSize":"100px 100px",
+        "backgroundPosition":"center",
+        "background" :"red",
+        "borderWidth": "2",
+        "borderStyle": "solid",
+        "borderRadius": "10",
+        "height": "160",
+        "justifyContent": "center",
+        "marginBottom": "10",
+        "marginLeft": "10",
+        "marginRight": "10",
+        "marginTop": "10",
+        "width": "730"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348",
+            "value": "Background Position 80%  30%"
+          },
+          "event": [ ],
+          "ref": "6072",
+          "style": {
+            "color": "#FFFFFF",
+            "fontSize": "32"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [ ],
+      "ref": "6070",
+      "style": {
+        "alignItems": "center",
+        "backgroundImage": "url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/codepen.png)",
+        "backgroundRepeat":"no-repeat",
+        "backgroundSize":"100px 100px",
+        "backgroundPosition":"80%  30%",
+        "background" :"red",
+        "borderWidth": "2",
+        "borderStyle": "solid",
+        "borderRadius": "10",
+        "height": "160",
+        "justifyContent": "center",
+        "marginBottom": "10",
+        "marginLeft": "10",
+        "marginRight": "10",
+        "marginTop": "10",
+        "width": "730"
+      },
+      "type": "div"
+    }
+  ],
+  "event": [ ],
+  "ref": "4067",
+  "style": {
+  },
+  "type": "div"
+}

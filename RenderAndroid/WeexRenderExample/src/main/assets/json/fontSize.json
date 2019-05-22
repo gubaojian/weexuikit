@@ -1,0 +1,117 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "attr": {
+            "value": "北面高端UE保暖棉防水三合一女士冲锋衣"
+          },
+          "ref": "403",
+          "style": {
+            "color": "rgb(51,51,51)",
+            "fontSize": "32px",
+            "fontWeight": "800",
+            "lines": "1",
+            "overflow": "hidden",
+            "textOverflow": "ellipsis",
+            "whiteSpace": "nowrap",
+            "width": "366px"
+          },
+          "type": "text"
+        }
+      ],
+      "ref": "399",
+      "style": {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": "62px",
+        "marginTop": "10px",
+        "position": "relative",
+        "width": "750px"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "value": "防水排1100湿耐磨三效合一全压胶外壳"
+      },
+      "ref": "409",
+      "style": {
+        "color": "rgb(153,153,153)",
+        "fontSize": "28px",
+        "fontWeight": "100",
+        "height": "120px",
+        "lineHeight": "42px",
+        "lines": "3",
+        "overflow": "hidden",
+        "textOverflow": "ellipsis",
+        "width": "372px"
+      },
+      "type": "text"
+    },
+    {
+      "attr": {
+        "preventMoveEvent": "true"
+      },
+      "children": [
+        {
+          "attr": {
+            "fallbackSource": "{}",
+            "src": "//gw.alicdn.com/bao/uploaded/TB1dRI.OFXXXXaQapXXXXXXXXXX-36-36.png"
+          },
+          "event": [
+            "load",
+            "error"
+          ],
+          "ref": "421",
+          "style": {
+            "display": "flex",
+            "height": "36px",
+            "marginRight": "9px",
+            "opacity": "1",
+            "transform": "scale(1)",
+            "width": "36px"
+          },
+          "type": "image"
+        },
+        {
+          "attr": {
+            "value": "2462人说好"
+          },
+          "ref": "423",
+          "style": {
+            "color": "rgb(34,170,255)",
+            "fontSize": "24px",
+            "fontWeight": "200"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [
+        "appear",
+        "horizontalpan",
+        "disappear",
+        "click"
+      ],
+      "ref": "418",
+      "style": {
+        "alignItems": "center",
+        "bottom": "0px",
+        "flexDirection": "row",
+        "height": "108px",
+        "paddingLeft": "30px",
+        "position": "absolute",
+        "right": "0px"
+      },
+      "type": "div"
+    }
+  ],
+  "ref": "396",
+  "style": {
+    "marginLeft": "30px",
+    "marginRight": "24px",
+    "position": "relative",
+    "width": "372px"
+  },
+  "type": "div"
+}

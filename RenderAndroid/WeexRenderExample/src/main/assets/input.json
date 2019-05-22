@@ -1,0 +1,23 @@
+
+{
+  "type": "div",
+  "ref" : "1",
+  "style": {
+    "height": "800",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#289898"
+  },
+  "children": [
+    {
+      "type": "input",
+      "ref" : "2",
+      "style": {
+        "marginTop": "10",
+        "height": "200",
+        "width" : "750",
+        "backgroundColor":"#575757"
+      }
+    }
+  ]
+}

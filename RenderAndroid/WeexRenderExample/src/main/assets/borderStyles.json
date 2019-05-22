@@ -1,0 +1,305 @@
+
+{
+  "type": "div",
+  "ref" : "1",
+  "style": {
+    "height": "1400",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#289898",
+    "paddingLeft":"50",
+    "paddingRight":"50",
+    "paddingBottom":"50",
+    "paddingTop":"20"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref" : "2",
+      "style": {
+        "marginTop": "30",
+        "height": "100",
+        "justifyContent":"center",
+        "borderTopColor": "#EDEDED",
+        "borderTopWidth": "5",
+        "borderTopStyle": "solid",
+        "borderLeftColor": "#EDEDED",
+        "borderLeftWidth": "5",
+        "borderLeftStyle": "solid",
+        "borderRightColor": "#EDEDED",
+        "borderRightWidth": "5",
+        "borderRightStyle": "solid",
+        "borderBottomColor": "#EDEDED",
+        "borderBottomWidth": "5",
+        "borderBottomStyle": "solid"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "3",
+          "style": {
+            "textAlign":"center",
+            "fontSize":"32",
+            "color":"white",
+            "lineHeight":"40"
+          },
+          "attr": {
+            "value" : "Weex UIKit Border Solid Style"
+          }
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "20",
+      "style": {
+        "marginTop": "30",
+        "height": "100",
+        "justifyContent":"center",
+        "borderTopColor": "#98fb98",
+        "borderTopWidth": "10",
+        "borderTopStyle": "dotted",
+        "borderLeftColor": "#98fb98",
+        "borderLeftWidth": "10",
+        "borderLeftStyle": "dotted",
+        "borderRightColor": "#98fb98",
+        "borderRightWidth": "10",
+        "borderRightStyle": "dotted",
+        "borderBottomColor": "#98fb98",
+        "borderBottomWidth": "10",
+        "borderBottomStyle": "dotted"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "23",
+          "style": {
+            "textAlign":"center",
+            "fontSize":"32",
+            "color":"white",
+            "lineHeight":"40"
+          },
+          "attr": {
+            "value" : "Weex UIKit Border Dotted Style"
+          }
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "30",
+      "style": {
+        "marginTop": "30",
+        "height": "100",
+        "justifyContent":"center",
+        "borderTopColor": "#DC143C",
+        "borderTopWidth": "10",
+        "borderTopStyle": "dashed",
+        "borderLeftColor": "#DC143C",
+        "borderLeftWidth": "10",
+        "borderLeftStyle": "dashed",
+        "borderRightColor": "#DC143C",
+        "borderRightWidth": "10",
+        "borderRightStyle": "dashed",
+        "borderBottomColor": "#DC143C",
+        "borderBottomWidth": "10",
+        "borderBottomStyle": "dashed"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "33",
+          "style": {
+            "textAlign":"center",
+            "fontSize":"32",
+            "color":"white",
+            "lineHeight":"40"
+          },
+          "attr": {
+            "value" : "Weex UIKit Border Dashed Style"
+          }
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "40",
+      "style": {
+        "marginTop": "30",
+        "height": "100",
+        "justifyContent":"center",
+        "borderTopColor": "#00FFFF",
+        "borderTopWidth": "10",
+        "borderTopStyle": "double",
+        "borderLeftColor": "#00FFFF",
+        "borderLeftWidth": "10",
+        "borderLeftStyle": "double",
+        "borderRightColor": "#00FFFF",
+        "borderRightWidth": "10",
+        "borderRightStyle": "double",
+        "borderBottomColor": "#00FFFF",
+        "borderBottomWidth": "10",
+        "borderBottomStyle": "double"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "43",
+          "style": {
+            "textAlign":"center",
+            "fontSize":"32",
+            "color":"white",
+            "lineHeight":"40"
+          },
+          "attr": {
+            "value" : "Weex UIKit Border Double Style"
+          }
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "50",
+      "style": {
+        "marginTop": "30",
+        "height": "100",
+        "justifyContent":"center",
+        "borderTopColor": "#2E8B57",
+        "borderTopWidth": "10",
+        "borderTopStyle": "groove",
+        "borderLeftColor": "#2E8B57",
+        "borderLeftWidth": "10",
+        "borderLeftStyle": "groove",
+        "borderRightColor": "#2E8B57",
+        "borderRightWidth": "10",
+        "borderRightStyle": "groove",
+        "borderBottomColor": "#2E8B57",
+        "borderBottomWidth": "10",
+        "borderBottomStyle": "groove"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "53",
+          "style": {
+            "textAlign":"center",
+            "fontSize":"32",
+            "color":"white",
+            "lineHeight":"40"
+          },
+          "attr": {
+            "value" : "Weex UIKit Border Groove Style"
+          }
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "60",
+      "style": {
+        "marginTop": "30",
+        "height": "100",
+        "justifyContent":"center",
+        "borderTopColor": "#7CFC00",
+        "borderTopWidth": "10",
+        "borderTopStyle": "ridge",
+        "borderLeftColor": "#7CFC00",
+        "borderLeftWidth": "10",
+        "borderLeftStyle": "ridge",
+        "borderRightColor": "#7CFC00",
+        "borderRightWidth": "10",
+        "borderRightStyle": "ridge",
+        "borderBottomColor": "#7CFC00",
+        "borderBottomWidth": "10",
+        "borderBottomStyle": "ridge"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "63",
+          "style": {
+            "textAlign":"center",
+            "fontSize":"32",
+            "color":"white",
+            "lineHeight":"40"
+          },
+          "attr": {
+            "value" : "Weex UIKit Border Ridge Style"
+          }
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "70",
+      "style": {
+        "marginTop": "30",
+        "height": "100",
+        "justifyContent":"center",
+        "borderTopColor": "#FF8C00",
+        "borderTopWidth": "10",
+        "borderTopStyle": "inset",
+        "borderLeftColor": "#FF8C00",
+        "borderLeftWidth": "10",
+        "borderLeftStyle": "inset",
+        "borderRightColor": "#FF8C00",
+        "borderRightWidth": "10",
+        "borderRightStyle": "inset",
+        "borderBottomColor": "#FF8C00",
+        "borderBottomWidth": "10",
+        "borderBottomStyle": "inset"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "73",
+          "style": {
+            "textAlign":"center",
+            "fontSize":"32",
+            "color":"white",
+            "lineHeight":"40"
+          },
+          "attr": {
+            "value" : "Weex UIKit Border Inset Style"
+          }
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "80",
+      "style": {
+        "marginTop": "30",
+        "height": "100",
+        "justifyContent":"center",
+        "borderTopColor": "#FF8C00",
+        "borderTopWidth": "10",
+        "borderTopStyle": "outset",
+        "borderLeftColor": "#FF8C00",
+        "borderLeftWidth": "10",
+        "borderLeftStyle": "outset",
+        "borderRightColor": "#FF8C00",
+        "borderRightWidth": "10",
+        "borderRightStyle": "outset",
+        "borderBottomColor": "#FF8C00",
+        "borderBottomWidth": "10",
+        "borderBottomStyle": "outset"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "83",
+          "style": {
+            "textAlign":"center",
+            "fontSize":"32",
+            "color":"white",
+            "lineHeight":"40"
+          },
+          "attr": {
+            "value" : "Weex UIKit Border Outset Style"
+          }
+        }
+      ]
+    }
+  ]
+}

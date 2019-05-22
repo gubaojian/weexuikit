@@ -1,0 +1,246 @@
+{
+  "attr": {
+    "@styleScope": "data-v-5d062348",
+    "doctype": "weexrender"
+  },
+  "children": [
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348",
+            "value": "to right"
+          },
+          "event": [ ],
+          "ref": "4072",
+          "style": {
+            "color": "#FFFFFF",
+            "fontSize": "40"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [ ],
+      "ref": "4070",
+      "style": {
+        "alignItems": "center",
+        "backgroundImage": "linear-gradient(to right,#a80077,#66ff00)",
+        "borderWidth": "2",
+        "borderStyle": "solid",
+        "borderRadius": "10",
+        "height": "200",
+        "justifyContent": "center",
+        "marginBottom": "10",
+        "marginLeft": "10",
+        "marginRight": "10",
+        "marginTop": "10",
+        "width": "730"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348",
+            "value": "to left"
+          },
+          "event": [ ],
+          "ref": "4077",
+          "style": {
+            "color": "#FFFFFF",
+            "fontSize": "40"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [ ],
+      "ref": "4075",
+      "style": {
+        "alignItems": "center",
+        "backgroundImage": "linear-gradient(to left,#a80077,#66ff00)",
+        "border": "solid",
+        "borderRadius": "10",
+        "height": "200",
+        "justifyContent": "center",
+        "marginBottom": "10",
+        "marginLeft": "10",
+        "marginRight": "10",
+        "marginTop": "10",
+        "width": "730"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348",
+            "value": "to bottom"
+          },
+          "event": [ ],
+          "ref": "4082",
+          "style": {
+            "color": "#FFFFFF",
+            "fontSize": "40"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [ ],
+      "ref": "4080",
+      "style": {
+        "alignItems": "center",
+        "backgroundImage": "linear-gradient(to bottom,#a80077,#66ff00)",
+        "border": "solid",
+        "borderRadius": "10",
+        "height": "200",
+        "justifyContent": "center",
+        "marginBottom": "10",
+        "marginLeft": "10",
+        "marginRight": "10",
+        "marginTop": "10",
+        "width": "730"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348",
+            "value": "to top"
+          },
+          "event": [ ],
+          "ref": "4087",
+          "style": {
+            "color": "#FFFFFF",
+            "fontSize": "40"
+          },
+          "type": "text"
+        }
+      ],
+      "event": [ ],
+      "ref": "4085",
+      "style": {
+        "alignItems": "center",
+        "backgroundImage": "linear-gradient(to top,#a80077,#66ff00)",
+        "border": "solid",
+        "borderRadius": "10",
+        "height": "200",
+        "justifyContent": "center",
+        "marginBottom": "10",
+        "marginLeft": "10",
+        "marginRight": "10",
+        "marginTop": "10",
+        "width": "730"
+      },
+      "type": "div"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-5d062348"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-5d062348",
+                "value": "to bottom right"
+              },
+              "event": [ ],
+              "ref": "4095",
+              "style": {
+                "color": "#FFFFFF",
+                "fontSize": "40"
+              },
+              "type": "text"
+            }
+          ],
+          "event": [ ],
+          "ref": "4093",
+          "style": {
+            "alignItems": "center",
+            "backgroundImage": "linear-gradient(to bottom right,#a80077,#66ff00)",
+            "border": "solid",
+            "borderRadius": "10",
+            "height": "300",
+            "justifyContent": "center",
+            "marginBottom": "10",
+            "marginLeft": "10",
+            "marginRight": "10",
+            "marginTop": "10",
+            "width": "300"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-5d062348"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-5d062348",
+                "value": "to top left"
+              },
+              "event": [ ],
+              "ref": "4100",
+              "style": {
+                "color": "#FFFFFF",
+                "fontSize": "40"
+              },
+              "type": "text"
+            }
+          ],
+          "event": [ ],
+          "ref": "4098",
+          "style": {
+            "alignItems": "center",
+            "backgroundImage": "linear-gradient(to top left,#a80077,#66ff00)",
+            "border": "solid",
+            "borderColor": "black",
+            "borderRadius": "10",
+            "height": "300",
+            "justifyContent": "center",
+            "marginBottom": "10",
+            "marginLeft": "10",
+            "marginRight": "10",
+            "marginTop": "10",
+            "width": "300"
+          },
+          "type": "div"
+        }
+      ],
+      "event": [ ],
+      "ref": "4090",
+      "style": {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center"
+      },
+      "type": "div"
+    }
+  ],
+  "event": [ ],
+  "ref": "4067",
+  "style": {
+  },
+  "type": "div"
+}

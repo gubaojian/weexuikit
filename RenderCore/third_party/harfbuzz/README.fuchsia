@@ -1,0 +1,20 @@
+Name: harfbuzz
+Short Name: harfbuzz
+URL: http://harfbuzz.org
+Version: 1.5.0
+Date: 20170823
+Security Critical: yes
+License: MIT
+License File: COPYING
+
+Description:
+This is harfbuzz, a text shaping engine.
+
+- Added some files from release tarball to avoid needing to generate them
+  (tarball at http://www.freedesktop.org/software/harfbuzz/release/)
+  src/hb-buffer-deserialize-json.hh
+  src/hb-buffer-deserialize-text.hh
+  src/hb-ot-shape-complex-*.hh
+  src/hb-version.h
+- Added BUILD.gn and README.fuchsia
+- Removed files not built or referenced by the BUILD.gn

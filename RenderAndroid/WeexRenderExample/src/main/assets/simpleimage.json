@@ -1,0 +1,48 @@
+
+{
+  "type": "div",
+  "ref" :"1",
+  "style": {
+    "display":"flex",
+    "flexDirection":"column",
+    "paddingLeft":"30",
+    "paddingRight":"30",
+    "paddingBottom":"50",
+    "paddingTop":"30",
+    "color":"#ffffff",
+    "height":"340"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref" :"2",
+      "style": {
+        "marginTop": "10",
+        "height": "320",
+        "width":"1020",
+        "flexDirection":"row",
+        "backgroundColor":"#ff5000",
+        "boxShadow":"15 15 15 15 #ff5000",
+        "justifyContent":"spaceBetween"
+      },
+      "children": [
+        {
+          "type": "img",
+          "ref" :"3",
+          "style": {
+            "flex" : "1",
+            "height" : "200",
+            "paddingLeft":"20",
+            "paddingRight":"20",
+            "paddingTop":"20",
+            "paddingBottom":"20",
+            "alignItems":"center"
+          },
+          "attr" :{
+            "src" : "https://img.alicdn.com/tfs/TB1_X.6Gb9YBuNjy0FgXXcxcXXa-520-280.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

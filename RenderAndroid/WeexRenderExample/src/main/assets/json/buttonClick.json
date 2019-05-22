@@ -1,0 +1,67 @@
+
+{
+  "type": "div",
+  "ref" : "1",
+  "style": {
+    "height": "1400",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#289898",
+    "paddingLeft":"20",
+    "alignItems":"center",
+    "paddingRight":"20",
+    "paddingBottom":"50",
+    "paddingTop":"50",
+    "color":"white"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref" : "4",
+      "style": {
+        "marginTop":"50px",
+        "fontSize":"32",
+        "textAlign":"center",
+        "width": "700",
+        "height": "82",
+        "backgroundColor": "#FF0000",
+        "width:active": "600",
+        "height:active": "82",
+        "backgroundColor:active": "#008000",
+        "lineHeight" : "82"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "6",
+          "attr": {
+            "value":"Weex UIKit Click Active Style Test"
+          }
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "40",
+      "style": {
+        "marginTop":"50px",
+        "fontSize":"32",
+        "textAlign":"center",
+        "width": "700",
+        "height": "82",
+        "backgroundColor": "#888888",
+        "backgroundColor:active": "#00BDFF",
+        "lineHeight" : "82"
+      },
+      "children": [
+        {
+          "type": "text",
+          "ref" : "60",
+          "attr": {
+            "value":"Weex Render Touch Active Test"
+          }
+        }
+      ]
+    }
+  ]
+}

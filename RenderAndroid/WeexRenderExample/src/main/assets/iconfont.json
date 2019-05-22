@@ -1,0 +1,26 @@
+{
+  "type": "div",
+  "ref": "1",
+  "style": {
+    "display": "flex",
+    "flexDirection": "column",
+    "backgroundColor": "#289898",
+    "paddingLeft": "20",
+    "paddingRight": "20",
+    "paddingBottom": "50",
+    "paddingTop": "50"
+  },
+  "children": [{
+    "type": "text",
+    "ref": "2",
+    "style": {
+      "fontFamily" :"iconfont",
+      "fontSize" : "32px",
+      "lineHeight" : "100px"
+    },
+    "attr":{
+      "value":"\uE603 Search Icon",
+      "src" : "http://at.alicdn.com/t/font_lf2urtr9li110pb9.ttf"
+    }
+  }]
+}

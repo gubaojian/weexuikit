@@ -1,0 +1,2631 @@
+{
+  "attr": {
+    "@styleScope": "data-v-2e89e492"
+  },
+  "children" : [
+    {
+      "type":"div",
+      "ref":"1",
+      "style":{
+        "backgroundImage": "url(https://gw.alicdn.com/tfs/TB1mXo7kcbpK1RjSZFyXXX_qFXa-750-666.jpg_q30_.webp)",
+        "backgroundRepeat": "no-repeat",
+        "backgroundSize": "750px 660px",
+        "height": "1800"
+      },
+      "children" : [
+        {
+          "type":"div",
+          "ref":"2",
+          "style":{
+            "width": "750",
+            "height": "1800",
+            "position": "relative",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexFlow": "column nowrap"
+          },
+          "children":[
+            {
+              "type":"div",
+              "ref":"4",
+              "style":{
+                "width": "750",
+                "height": "476"
+              }
+            },
+            {
+              "type":"div",
+              "ref":"5",
+              "style":{
+                "display": "flex",
+                "flexDirection": "column",
+                "flex": 1,
+                "width": "750",
+                "transitionProperty": "transform",
+                "transitionTimingFunction": "ease-in-out",
+                "transitionDuration": "800",
+                "position":"relative"
+              },
+              "children":[
+                {
+                  "type":"scroller",
+                  "ref":"200",
+                  "style":{
+                    "flex": 1,
+                    "width": "750",
+                    "background":"#f7f7f7",
+                    "overflow":"hidden",
+                    "flexDirection": "column",
+                    "height": "800"
+                  },
+                  "attr" :{
+                    "type" :"starBucks"
+                  },
+                  "children":[
+                    {
+                      "type":"div",
+                      "ref":"201",
+                      "style":{
+                        "height": "320",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginLeft": 0
+                      }
+                    },
+                    {
+                      "type":"div",
+                      "ref":"202",
+                      "style":{
+                        "height": "384",
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginLeft": 0
+                      },
+                      "children":[
+                        {
+                          "type":"div",
+                          "ref":"203",
+                          "style":{
+                            "width": "750",
+                            "marginTop": "24"
+                          },
+                          "children":[
+                            {
+                              "type":"div",
+                              "ref":"204",
+                              "style":{
+                                "width": "702",
+                                "marginLeft": "24",
+                                "borderRadius": "24"
+                              },
+                              "children":[
+                                {
+                                  "type":"video",
+                                  "ref":"205",
+                                  "style":{
+                                    "width": "702",
+                                    "height": "360"
+                                  },
+                                  "attr":{
+                                    "poster": "https://gw.alicdn.com/imgextra/i3/4183853032/O1CN01rUHLjt1YGhMEzmTnp_!!4183853032-0-beehive-scenes.jpg_720x720q75_.webp",
+                                    "src": "https://cloud.video.taobao.com//play/u/2634283647/p/1/e/6/t/1/215235817090.mp4"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type":"div",
+                      "ref":"401",
+                      "style":{
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginLeft": 0,
+                        "height":"660"
+                      },
+                      "children":[
+                        {
+                          "type":"div",
+                          "ref":"402",
+                          "style":{
+                            "marginTop": "24",
+                            "marginRight": "24",
+                            "marginBottom": 0,
+                            "marginLeft": "24",
+                            "width": "702",
+                            "borderRadius": "24",
+                            "backgroundColor":"#fff",
+                            "overflow":"hidden"
+                          },
+                          "children":[
+                            {
+                              "type":"div",
+                              "ref":"403",
+                              "style":{
+                                "display": "flex",
+                                "flexDirection": "row",
+                                "flexWrap": "no-wrap",
+                                "height": "83",
+                                "paddingTop": 0,
+                                "paddingRight": "24",
+                                "paddingBottom": 0,
+                                "paddingLeft": "24",
+                                "backgroundColor": "rgb(0, 168, 98)",
+                                "alignItems": "center"
+                              },
+                              "children":[
+                                {
+                                  "type":"text",
+                                  "ref":"404",
+                                  "style":{
+                                    "fontSize": "40",
+                                    "color": "#ffffff",
+                                    "fontWeight": "bold"
+                                  },
+                                  "attr":{
+                                    "value":"专星送"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"405",
+                                  "style":{
+                                    "fontSize": "24",
+                                    "lineHeight": "36",
+                                    "color": "#ffffff",
+                                    "flex": 1,
+                                    "marginTop": "16",
+                                    "marginRight": "18",
+                                    "marginBottom": 0,
+                                    "marginLeft": "18",
+                                    "whiteSpace": "nowrap",
+                                    "textOverflow": "ellipsis"
+                                  },
+                                  "attr":{
+                                    "value":"星巴克官方线上订餐服务"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"502",
+                              "style":{
+                                "display": "flex",
+                                "flexDirection": "column"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"504",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "702",
+                                    "height": "300"
+                                  },
+                                  "attr":{
+                                    "src": "https://gw.alicdn.com/imgextra/i1/4244604999/O1CN01CKaLhz1mnaPpZV9rL_!!4244604999-0-beehive-scenes.jpg_720x720q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"506",
+                                  "style":{
+                                    "display": "flex",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"img",
+                                      "ref":"508",
+                                      "style":{
+                                        "display": "block",
+                                        "width": "227",
+                                        "height": "227",
+                                        "marginTop": "9",
+                                        "marginRight": "9"
+                                      },
+                                      "attr":{
+                                        "src": "https://gw.alicdn.com/imgextra/i2/4244604999/O1CN01epiRO51mnaPyW2EV4_!!4244604999-0-beehive-scenes.jpg_240x240q75_.webp"
+                                      }
+                                    },
+                                    {
+                                      "type":"img",
+                                      "ref":"509",
+                                      "style":{
+                                        "display": "block",
+                                        "width": "227",
+                                        "height": "227",
+                                        "marginTop": "9",
+                                        "marginRight": "9"
+                                      },
+                                      "attr":{
+                                        "src": "https://gw.alicdn.com/imgextra/i4/4244604999/O1CN019Fr53Y1mnaPxWNAAE_!!4244604999-0-beehive-scenes.jpg_240x240q75_.webp"
+                                      }
+                                    },
+                                    {
+                                      "type":"img",
+                                      "ref":"510",
+                                      "style":{
+                                        "display": "block",
+                                        "width": "227",
+                                        "height": "227",
+                                        "marginTop": "9",
+                                        "marginRight": "9"
+                                      },
+                                      "attr":{
+                                        "src": "https://gw.alicdn.com/imgextra/i3/4244604999/O1CN01OXLhCS1mnaPwnZkga_!!4244604999-0-beehive-scenes.jpg_240x240q75_.webp"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type":"div",
+                      "ref":"601",
+                      "style":{
+                        "height":"660"
+                      },
+                      "children":[
+                        {
+                          "type":"div",
+                          "ref":"602",
+                          "style":{
+                            "marginTop": "24",
+                            "marginRight": "24",
+                            "marginBottom": 0,
+                            "marginLeft": "24",
+                            "width": "702",
+                            "borderRadius": "24",
+                            "backgroundColor":"#ffffff",
+                            "overflow":"hidden"
+                          },
+                          "children":[
+                            {
+                              "type":"div",
+                              "ref":"603",
+                              "style":{
+                                "display": "flex",
+                                "flexDirection": "row",
+                                "flexWrap": "no-wrap",
+                                "height": "84",
+                                "paddingRight": "24",
+                                "paddingLeft": "24",
+                                "backgroundColor": "rgb(136, 80, 18)",
+                                "alignItems": "center"
+                              },
+                              "children":[
+                                {
+                                  "type":"text",
+                                  "ref":"604",
+                                  "style":{
+                                    "fontSize": "40",
+                                    "color": "#ffffff",
+                                    "fontWeight": "bold"
+                                  },
+                                  "attr":{
+                                    "value":"用星说"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"605",
+                                  "style":{
+                                    "fontSize": "24",
+                                    "lineHeight": "36",
+                                    "color": "#ffffff",
+                                    "flex": 1,
+                                    "marginTop": "16",
+                                    "marginRight": "18",
+                                    "marginBottom": 0,
+                                    "marginLeft": "18",
+                                    "whiteSpace": "nowrap",
+                                    "textOverflow": "ellipsis"
+                                  },
+                                  "attr":{
+                                    "value":"传递咖啡心意的礼品平台"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"612",
+                              "style":{
+                                "display": "flex",
+                                "flexDirection": "column"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"614",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "702",
+                                    "height": "300"
+                                  },
+                                  "attr":{
+                                    "src": "https://gw.alicdn.com/imgextra/i1/4244604999/O1CN01TRocYr1mnaPgzDLZq_!!4244604999-0-beehive-scenes.jpg_720x720q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"616",
+                                  "style":{
+                                    "display": "flex",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"img",
+                                      "ref":"618",
+                                      "style":{
+                                        "display": "block",
+                                        "width": "227",
+                                        "height": "227",
+                                        "marginTop": "9",
+                                        "marginRight": "9"
+                                      },
+                                      "attr":{
+                                        "src": "https://gw.alicdn.com/imgextra/i2/4244604999/O1CN015KxWXy1mnaPzRlmV6_!!4244604999-0-beehive-scenes.jpg_240x240q75_.webp"
+                                      }
+                                    },
+                                    {
+                                      "type":"img",
+                                      "ref":"619",
+                                      "style":{
+                                        "display": "block",
+                                        "width": "227",
+                                        "height": "227",
+                                        "marginTop": "9",
+                                        "marginRight": "9"
+                                      },
+                                      "attr":{
+                                        "src": "https://gw.alicdn.com/imgextra/i4/4244604999/O1CN01iSREz51mnaPy3bo66_!!4244604999-0-beehive-scenes.jpg_240x240q75_.webp"
+                                      }
+                                    },
+                                    {
+                                      "type":"img",
+                                      "ref":"620",
+                                      "style":{
+                                        "display": "block",
+                                        "width": "227",
+                                        "height": "227",
+                                        "marginTop": "9",
+                                        "marginRight": "9"
+                                      },
+                                      "attr":{
+                                        "src": "https://gw.alicdn.com/imgextra/i2/4244604999/O1CN01ajkXHq1mnaPw8zwzW_!!4244604999-0-beehive-scenes.jpg_240x240q75_.webp"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type":"div",
+                      "ref":"701",
+                      "style":{
+                        "marginTop": 0,
+                        "marginRight": 0,
+                        "marginLeft": 0,
+                        "height":"660"
+                      },
+                      "children":[
+                        {
+                          "type":"div",
+                          "ref":"702",
+                          "style":{
+                            "marginTop": "24",
+                            "marginRight": "24",
+                            "marginBottom": 0,
+                            "marginLeft": "24",
+                            "width": "702",
+                            "borderRadius": "24",
+                            "backgroundColor":"#fff",
+                            "overflow":"hidden"
+                          },
+                          "children":[
+                            {
+                              "type":"div",
+                              "ref":"703",
+                              "style":{
+                                "display": "flex",
+                                "flexDirection": "row",
+                                "flexWrap": "no-wrap",
+                                "height": "83",
+                                "paddingTop": 0,
+                                "paddingRight": "24",
+                                "paddingBottom": 0,
+                                "paddingLeft": "24",
+                                "backgroundColor": "rgb(0, 168, 98)",
+                                "alignItems": "center"
+                              },
+                              "children":[
+                                {
+                                  "type":"text",
+                                  "ref":"704",
+                                  "style":{
+                                    "fontSize": "40",
+                                    "color": "#ffffff",
+                                    "fontWeight": "bold"
+                                  },
+                                  "attr":{
+                                    "value":"旗舰店"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"705",
+                                  "style":{
+                                    "fontSize": "24",
+                                    "lineHeight": "36",
+                                    "color": "#ffffff",
+                                    "flex": 1,
+                                    "marginTop": "16",
+                                    "marginRight": "18",
+                                    "marginBottom": 0,
+                                    "marginLeft": "18",
+                                    "whiteSpace": "nowrap",
+                                    "textOverflow": "ellipsis"
+                                  },
+                                  "attr":{
+                                    "value":"咖啡星礼官方店"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"712",
+                              "style":{
+                                "display": "flex",
+                                "flexDirection": "column"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"714",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "702",
+                                    "height": "300"
+                                  },
+                                  "attr":{
+                                    "src": "https://gw.alicdn.com/imgextra/i4/4244604999/O1CN01ujxs3o1mnaQBP5MCN_!!4244604999-0-beehive-scenes.jpg_720x720q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"716",
+                                  "style":{
+                                    "display": "flex",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"img",
+                                      "ref":"718",
+                                      "style":{
+                                        "display": "block",
+                                        "width": "227",
+                                        "height": "227",
+                                        "marginTop": "9",
+                                        "marginRight": "9"
+                                      },
+                                      "attr":{
+                                        "src": "https://gw.alicdn.com/imgextra/i2/4244604999/O1CN01kZO3661mnaQCa98IY_!!4244604999-0-beehive-scenes.jpg_240x240q75_.webp"
+                                      }
+                                    },
+                                    {
+                                      "type":"img",
+                                      "ref":"719",
+                                      "style":{
+                                        "display": "block",
+                                        "width": "227",
+                                        "height": "227",
+                                        "marginTop": "9",
+                                        "marginRight": "9"
+                                      },
+                                      "attr":{
+                                        "src": "https://gw.alicdn.com/imgextra/i3/4244604999/O1CN0191uPHO1mnaPvjlFF6_!!4244604999-0-beehive-scenes.jpg_240x240q75_.webp"
+                                      }
+                                    },
+                                    {
+                                      "type":"img",
+                                      "ref":"720",
+                                      "style":{
+                                        "display": "block",
+                                        "width": "227",
+                                        "height": "227",
+                                        "marginTop": "9",
+                                        "marginRight": "9"
+                                      },
+                                      "attr":{
+                                        "src": "https://gw.alicdn.com/imgextra/i1/4244604999/O1CN01sVv9PJ1mnaPqlimb7_!!4244604999-0-beehive-scenes.jpg_240x240q75_.webp"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type":"div",
+                      "ref":"1001",
+                      "style":{
+                      },
+                      "children":[
+                        {
+                          "type":"div",
+                          "ref":"1002",
+                          "style":{
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "flexWrap": "wrap",
+                            "flexFlow": "row wrap",
+                            "marginTop": "6",
+                            "paddingTop": 0,
+                            "paddingRight": "24",
+                            "paddingBottom": 0,
+                            "paddingLeft": "24"
+                          },
+                          "children":[
+                            {
+                              "type":"div",
+                              "ref":"1004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"1006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i2/2634283647/O1CN01GShQl01coMwF53qd9_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"1008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"绿色波点星礼卡"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"1010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"1016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥200.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"1018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"6人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"2004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff",
+                                "marginLeft": "18"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"2006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i2/2634283647/O1CN01FjfLBB1coMwClNLal_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"2008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"新年快乐2019星礼卡"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"2010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"2016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥300.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"2018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"57人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"3004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"3006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i4/2634283647/O1CN01yt8TsJ1coMvolq9gJ_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"3008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"特制款星礼卡"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"3010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"3016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥1000.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"3018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"42人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"4004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff",
+                                "marginLeft": "18"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"4006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i3/2634283647/O1CN019AylU11coMvyeryCF_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"4008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"圣诞快乐星礼卡"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"4010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"4016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥500.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"4018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"35人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"5004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"5006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i2/2634283647/O1CN01YOaHIU1coMvyeTGgL_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"5008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"圣诞礼物星礼卡"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"5010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"5016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥200.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"5018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"66人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"6004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff",
+                                "marginLeft": "18"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"6006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i1/2634283647/O1CN011coMv3hyMgYMv6v_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"6008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"感谢星礼卡"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"6010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"6016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥200.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"6018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"3人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"7004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"7006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i1/2634283647/O1CN011coMvQfUVcrUbgA_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"7008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"拿铁大杯 电子饮品券"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"7010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"7016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥32.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"7018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"159人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"8004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff",
+                                "marginLeft": "18"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"8006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i2/2634283647/O1CN010ZIWxw1coMvSPhg5n_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"8008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"馥芮白大杯 电子饮品券"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"8010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"8016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥37.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"8018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"50人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"20004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"20006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i3/2634283647/O1CN01EruwNb1coMvRc4hW1_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"20008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"美式咖啡大杯 电子饮品券"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"20010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"20016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥28.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"20018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"50人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"21004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff",
+                                "marginLeft": "18"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"21006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i1/2634283647/O1CN011coMvQnawVd3t18_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"21008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"经典巧克力 大杯 电子饮品券"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"21010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"21016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥32.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"21018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"46人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"22004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"22006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i2/2634283647/O1CN011coMv4xv6RBRlgo_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"22008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"比心 电子星礼卡"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"22010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"22016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥100.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"22018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"153人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"23004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff",
+                                "marginLeft": "18"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"23006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i3/2634283647/O1CN011coMv5ov7fhZNca_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"23008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"兄弟你懂的 电子星礼卡"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"23010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"23016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥100.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"23018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"32人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"24004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"24006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i1/2634283647/O1CN011coMv5H2AA6Sy8F_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"24008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"生日快乐 电子星礼卡"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"24010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"24016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥100.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"24018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"110人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"25004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff",
+                                "marginLeft": "18"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"25006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i1/2634283647/O1CN011coMv5W0pw1z1JS_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"25008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"爱你哟 电子星礼卡"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"25010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"25016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥100.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"25018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"153人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"34004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"34006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i2/2634283647/O1CN011coMvSMdTrSt2O5_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"34008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"圣诞专享 咖啡豆星巴克臻选"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"34010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"34016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥198.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"34018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"0人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"45004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff",
+                                "marginLeft": "18"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"45006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i1/2634283647/O1CN010r6bzR1coMvSOOExo_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"45008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"夏威夷卡乌 咖啡豆星巴克臻选"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"45010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"45016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥308.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"45018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"0人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"54004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"54006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i4/2634283647/O1CN01aB0ECc1coMwHKmlRx_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"54008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"6片装星拼悦蛋糕礼盒"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"54010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"54016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥183.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"54018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"3人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type":"div",
+                              "ref":"65004",
+                              "style":{
+                                "width": "342",
+                                "height": "491",
+                                "marginTop": "18",
+                                "boxSizing": "border-box",
+                                "borderRadius": "12",
+                                "overflow": "hidden",
+                                "backgroundColor": "#ffffff",
+                                "marginLeft": "18"
+                              },
+                              "children":[
+                                {
+                                  "type":"img",
+                                  "ref":"65006",
+                                  "style":{
+                                    "display": "block",
+                                    "width": "342",
+                                    "height": "342"
+                                  },
+                                  "attr":{
+                                    "src":"https://gw.alicdn.com/https://gw.alicdn.com/imgextra/i2/2634283647/O1CN01O7kzX21coMw8xGye4_!!0-item_pic.jpg_360x360q75_.webp"
+                                  }
+                                },
+                                {
+                                  "type":"text",
+                                  "ref":"65008",
+                                  "style":{
+                                    "display": "block",
+                                    "height": "76",
+                                    "marginTop": "7",
+                                    "marginRight": 0,
+                                    "marginBottom": "7",
+                                    "marginLeft": 0,
+                                    "paddingTop": 0,
+                                    "paddingRight": "24",
+                                    "paddingBottom": 0,
+                                    "paddingLeft": "24",
+                                    "color": "#444444",
+                                    "fontSize": "26",
+                                    "lineHeight": "38",
+                                    "overflow": "hidden"
+                                  },
+                                  "attr":{
+                                    "value":"浓醇三重黑巧克力蛋糕"
+                                  }
+                                },
+                                {
+                                  "type":"div",
+                                  "ref":"65010",
+                                  "style":{
+                                    "alignItems": "center",
+                                    "justifyContent": "space-between",
+                                    "flexDirection": "row"
+                                  },
+                                  "children":[
+                                    {
+                                      "type":"text",
+                                      "ref":"65016",
+                                      "style":{
+                                        "paddingLeft": "24",
+                                        "fontSize": "32",
+                                        "lineHeight": "48",
+                                        "color": "#00A862"
+                                      },
+                                      "attr":{
+                                        "value":"￥32.00"
+                                      }
+                                    },
+                                    {
+                                      "type":"text",
+                                      "ref":"65018",
+                                      "style":{
+                                        "marginLeft": "12",
+                                        "fontSize": "22",
+                                        "lineHeight": "48",
+                                        "color": "#999999",
+                                        "marginRight": "24"
+                                      },
+                                      "attr":{
+                                        "value":"9人付款"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type":"div",
+                      "ref":"3000201",
+                      "style":{
+                        "height":"800"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type" : "div",
+                  "ref" : "6",
+                  "style":{
+                    "position": "absolute",
+                    "boxSizing": "border-box",
+                    "width": "702",
+                    "height": "380",
+                    "borderRadius": "24",
+                    "backgroundColor": "#ffffff",
+                    "boxShadow": "0 6px 10px 0 rgba(27, 187, 120, .1), 0 12px 20px 0 rgba(47, 152, 105, .04)",
+                    "marginTop": "-85",
+                    "marginRight": "24",
+                    "marginBottom": 0,
+                    "marginLeft": "24",
+                    "overflow":"hidden",
+                    "transitionProperty": "height",
+                    "transitionTimingFunction": "ease-in-out",
+                    "transitionDuration": 800
+                  },
+                  "children":[
+                    {
+                      "ref":"7",
+                      "type":"div",
+                      "style":{
+                      },
+                      "children":[
+                        {
+                          "ref":"8",
+                          "type":"div",
+                          "style":{
+                            "display": "flex",
+                            "height": "180",
+                            "paddingTop": 0,
+                            "paddingRight": "24",
+                            "paddingBottom": 0,
+                            "paddingLeft": "24",
+                            "flexDirection": "row",
+                            "flexFlow": "row",
+                            "flexWrap": "nowrap",
+                            "alignItems": "center"
+                          },
+                          "children":[
+                            {
+                              "ref":"9",
+                              "type":"div",
+                              "style":{
+                                "flexDirection": "column"
+                              },
+                              "children":[
+                                {
+                                  "ref":"10",
+                                  "type":"text",
+                                  "style":{
+                                    "fontSize": "48",
+                                    "fontWeight": "bold",
+                                    "color": "#333333"
+                                  },
+                                  "attr":{
+                                    "value" : "立即加入星享俱乐部"
+                                  }
+                                },
+                                {
+                                  "ref":"11",
+                                  "type":"text",
+                                  "style":{
+                                    "fontSize": "24",
+                                    "fontWeight": "bold",
+                                    "lineHeight": "24",
+                                    "color": "#666666",
+                                    "marginTop": "32"
+                                  },
+                                  "attr":{
+                                    "value" : "用星星 换你所享"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "ref":"13",
+                              "type":"div",
+                              "style":{
+                                "alignSelf": "center",
+                                "fontSize": "24",
+                                "fontWeight": "bold",
+                                "width": "180",
+                                "height": "60",
+                                "marginLeft": "30",
+                                "justifyContent": "space-around",
+                                "flexFirection": "column"
+                              },
+                              "children":[
+                                {
+                                  "ref":"14",
+                                  "type":"text",
+                                  "style":{
+                                    "textAlign": "center",
+                                    "fontSize": "24",
+                                    "fontWeight": "bold",
+                                    "height": "60",
+                                    "lineHeight":"60",
+                                    "color": "#ffffff",
+                                    "backgroundColor": "#333333",
+                                    "borderRadius": "32"
+                                  },
+                                  "attr":{
+                                    "value" : "一键注册"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type" : "div",
+                      "ref" : "26",
+                      "style":{
+                        "display": "flex",
+                        "flexDirection": "row",
+                        "flexFlow": "row nowrap",
+                        "position": "absolute",
+                        "left": 0,
+                        "right": 0,
+                        "boxSizing": "border-box",
+                        "width": 750,
+                        "transitionProperty": "opacity",
+                        "transitionTimingFunction": "ease-in-out",
+                        "transitionDuration": 400,
+                        "height": "198",
+                        "bottom": 0
+                      },
+                      "children":[
+                        {
+                          "type" : "div",
+                          "ref" : "27",
+                          "style":{
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "alignItems": "center",
+                            "flexWrap": "nowrap",
+                            "flexFlow": "column nowrap",
+                            "flex": 1,
+                            "height": "198",
+                            "justifyContent": "center"
+                          },
+                          "children":[
+                            {
+                              "type" : "img",
+                              "ref" : "28",
+                              "style":{
+                                "display": "block",
+                                "width": "96",
+                                "height": "96",
+                                "marginTop": 0,
+                                "marginBottom": 0
+                              },
+                              "attr":{
+                                "src":"https://gw.alicdn.com/tfs/TB17b49rYvpK1RjSZPiXXbmwXXa-135-135.png_100x100q75_.webp"
+                              }
+                            },
+                            {
+                              "type" : "text",
+                              "ref" : "29",
+                              "style":{
+                                "display": "block",
+                                "marginTop": "6",
+                                "textAlign": "center",
+                                "fontSize": "28",
+                                "fontWeight": "bold",
+                                "lineHeight": "32",
+                                "color": "#00A862"
+                              },
+                              "attr":{
+                                "value" : "专星送"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type" : "div",
+                          "ref" : "37",
+                          "style":{
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "alignItems": "center",
+                            "flexWrap": "nowrap",
+                            "flexFlow": "column nowrap",
+                            "flex": 1,
+                            "height": "198",
+                            "justifyContent": "center"
+                          },
+                          "children":[
+                            {
+                              "type" : "img",
+                              "ref" : "38",
+                              "style":{
+                                "display": "block",
+                                "width": "96",
+                                "height": "96",
+                                "marginTop": 0,
+                                "marginBottom": 0
+                              },
+                              "attr":{
+                                "src":"https://gw.alicdn.com/tfs/TB1dq88rW6qK1RjSZFmXXX0PFXa-135-135.png_100x100q75_.webp"
+                              }
+                            },
+                            {
+                              "type" : "text",
+                              "ref" : "39",
+                              "style":{
+                                "display": "block",
+                                "marginTop": "6",
+                                "textAlign": "center",
+                                "fontSize": "28",
+                                "fontWeight": "bold",
+                                "lineHeight": "32",
+                                "color": "#00A862"
+                              },
+                              "attr":{
+                                "value" : "用星说"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type" : "div",
+                          "ref" : "47",
+                          "style":{
+                            "display": "flex",
+                            "flexDirection": "column",
+                            "alignItems": "center",
+                            "flexWrap": "nowrap",
+                            "flexFlow": "column nowrap",
+                            "flex": 1,
+                            "height": "198",
+                            "justifyContent": "center"
+                          },
+                          "children":[
+                            {
+                              "type" : "img",
+                              "ref" : "48",
+                              "style":{
+                                "display": "block",
+                                "width": "96",
+                                "height": "96",
+                                "marginTop": 0,
+                                "marginBottom": 0
+                              },
+                              "attr":{
+                                "src":"https://gw.alicdn.com/tfs/TB1OGd5r5rpK1RjSZFhXXXSdXXa-135-135.png_100x100q75_.webp"
+                              }
+                            },
+                            {
+                              "type" : "text",
+                              "ref" : "49",
+                              "style":{
+                                "display": "block",
+                                "marginTop": "6",
+                                "textAlign": "center",
+                                "fontSize": "28",
+                                "fontWeight": "bold",
+                                "lineHeight": "32",
+                                "color": "#00A862"
+                              },
+                              "attr":{
+                                "value" : "旗舰店"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type" : "div",
+                      "ref" : "1028926",
+                      "style":{
+                        "display": "flex",
+                        "flexDirection": "row",
+                        "flexFlow": "row nowrap",
+                        "position": "absolute",
+                        "left": 0,
+                        "right": 0,
+                        "boxSizing": "border-box",
+                        "width": 750,
+                        "transitionProperty": "opacity",
+                        "transitionTimingFunction": "ease-in-out",
+                        "transitionDuration": 400,
+                        "backgroundColor": "#ffffff",
+                        "height": "108",
+                        "paddingTop": 0,
+                        "paddingRight": "20",
+                        "paddingBottom": 0,
+                        "paddingLeft": "20",
+                        "opacity" : "0",
+                        "bottom": 0,
+                        "alignItems": "center"
+                      },
+                      "children":[
+                        {
+                          "type" : "div",
+                          "ref" : "1028927",
+                          "style":{
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "flexFlow": "row nowrap",
+                            "flex": 1,
+                            "height": "108",
+                            "justifyContent": "center",
+                            "alignItems": "center"
+                          },
+                          "children":[
+                            {
+                              "type" : "img",
+                              "ref" : "1028928",
+                              "style":{
+                                "display": "block",
+                                "width": "60",
+                                "height": "60"
+                              },
+                              "attr":{
+                                "src":"https://gw.alicdn.com/tfs/TB17b49rYvpK1RjSZPiXXbmwXXa-135-135.png_100x100q75_.webp"
+                              }
+                            },
+                            {
+                              "type" : "text",
+                              "ref" : "1028929",
+                              "style":{
+                                "marginLeft": "12",
+                                "fontSize": "22",
+                                "fontWeight": "bold",
+                                "lineHeight": "48",
+                                "color": "#00A862"
+                              },
+                              "attr":{
+                                "value":"专星送"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type" : "div",
+                          "ref" : "2028927",
+                          "style":{
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "flexFlow": "row nowrap",
+                            "flex": 1,
+                            "height": "108",
+                            "justifyContent": "center",
+                            "alignItems": "center"
+                          },
+                          "children":[
+                            {
+                              "type" : "img",
+                              "ref" : "2028928",
+                              "style":{
+                                "display": "block",
+                                "width": "60",
+                                "height": "60"
+                              },
+                              "attr":{
+                                "src":"https://gw.alicdn.com/tfs/TB1dq88rW6qK1RjSZFmXXX0PFXa-135-135.png_100x100q75_.webp"
+                              }
+                            },
+                            {
+                              "type" : "text",
+                              "ref" : "2028929",
+                              "style":{
+                                "marginLeft": "12",
+                                "fontSize": "22",
+                                "fontWeight": "bold",
+                                "lineHeight": "48",
+                                "color": "#00A862"
+                              },
+                              "attr":{
+                                "value":"用星说"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type" : "div",
+                          "ref" : "3028927",
+                          "style":{
+                            "display": "flex",
+                            "flexDirection": "row",
+                            "flexFlow": "row nowrap",
+                            "flex": 1,
+                            "height": "108",
+                            "justifyContent": "center",
+                            "alignItems": "center"
+                          },
+                          "children":[
+                            {
+                              "type" : "img",
+                              "ref" : "3028928",
+                              "style":{
+                                "display": "block",
+                                "width": "60",
+                                "height": "60"
+                              },
+                              "attr":{
+                                "src":"https://gw.alicdn.com/tfs/TB1OGd5r5rpK1RjSZFhXXXSdXXa-135-135.png_100x100q75_.webp"
+                              }
+                            },
+                            {
+                              "type" : "text",
+                              "ref" : "3028929",
+                              "style":{
+                                "marginLeft": "12",
+                                "fontSize": "22",
+                                "fontWeight": "bold",
+                                "lineHeight": "48",
+                                "color": "#00A862"
+                              },
+                              "attr":{
+                                "value":"旗舰店"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ref": "_root",
+  "type": "div"
+}

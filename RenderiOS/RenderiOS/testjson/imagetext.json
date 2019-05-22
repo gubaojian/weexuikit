@@ -1,0 +1,235 @@
+
+{
+  "type": "div",
+  "ref": "1",
+  "style": {
+    "display":"flex",
+    "flexDirection":"column",
+    "paddingLeft":"30",
+    "paddingRight":"30",
+    "paddingBottom":"50",
+    "paddingTop":"30",
+    "color":"#ffffff"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref": "2",
+      "style": {
+        "marginTop": "10",
+        "height": "320",
+        "width":"1020",
+        "flexDirection":"row",
+        "backgroundColor":"#ff5000",
+        "boxShadow":"15 15 15 15 #ff5000",
+        "justifyContent":"spaceBetween"
+      },
+      "children": [
+        {
+          "type": "div",
+          "ref": "3",
+          "style": {
+            "paddingLeft":"20",
+            "paddingRight":"20",
+            "paddingTop":"20",
+            "paddingBottom":"20",
+            "alignItems":"center"
+          },
+          "children":[
+            {
+              "type": "img",
+              "ref": "4",
+              "style": {
+                "width": "200",
+                "height":"200",
+                "verticalAlign":"middle"
+              },
+              "attr" : {
+                "placeholder":"https://img.alicdn.com/tps/TB1wQDAPXXXXXXgaFXXXXXXXXXX-62-35.png",
+                "src" : "https://gw.alicdn.com/tfs/TB1L5upaH_I8KJjy1XaXXbsxpXa-140-140.png_150x10000.jpg"
+              }
+            },
+            {
+              "type": "p",
+              "ref": "5",
+              "style": {
+                "marginTop":"10",
+                "textAlign":"center",
+                "fontSize": "38"
+              },
+              "children":[
+                {
+                  "type": "text",
+                  "ref": "6",
+                  "attr": {
+                    "value":"热门女装"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "ref": "7",
+          "style": {
+            "paddingLeft":"20",
+            "paddingRight":"20",
+            "paddingTop":"20",
+            "paddingBottom":"20",
+            "alignItems":"center"
+          },
+          "children":[
+            {
+              "type": "img",
+              "ref": "8",
+              "style": {
+                "width": "200",
+                "height":"200",
+                "verticalAlign":"middle"
+              },
+              "attr":{
+                "placeholder":"https://img.alicdn.com/tps/TB1wQDAPXXXXXXgaFXXXXXXXXXX-62-35.png",
+                "src" : "https://gw.alicdn.com/tfs/TB1oM1qaMvD8KJjy0FlXXagBFXa-140-140.png_150x10000.jpg"
+              }
+            },
+            {
+              "type": "p",
+              "ref": "9",
+              "style": {
+                "marginTop":"10",
+                "textAlign":"center",
+                "fontSize": "38"
+              },
+              "children":[
+                {
+                  "type": "text",
+                  "ref": "10",
+                  "style": {
+                  },
+                  "attr" :{
+                    "value":"网红大衣"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "ref": "11",
+          "style": {
+            "paddingLeft":"20",
+            "paddingRight":"20",
+            "paddingTop":"20",
+            "paddingBottom":"20",
+            "alignItems":"center"
+          },
+          "children":[
+            {
+              "type": "img",
+              "ref": "12",
+              "style": {
+                "width": "200",
+                "height":"200",
+                "verticalAlign":"middle"
+              },
+              "attr" : {
+                "placeholder":"https://img.alicdn.com/tps/TB1wQDAPXXXXXXgaFXXXXXXXXXX-62-35.png",
+                "src" : "https://gw.alicdn.com/tfs/TB1Oiz0b22H8KJjy0FcXXaDlFXa-140-140.png_150x10000.jpg"
+              }
+            },
+            {
+              "type": "p",
+              "ref": "13",
+              "style": {
+                "marginTop":"10",
+                "textAlign":"center",
+                "fontSize": "38"
+              },
+              "children":[
+                {
+                  "type": "text",
+                  "ref": "14",
+                  "attr": {
+                    "value":"剑白测试"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "ref": "15",
+          "style": {
+            "paddingLeft":"20",
+            "paddingRight":"20",
+            "paddingTop":"20",
+            "paddingBottom":"20",
+            "alignItems":"center"
+          },
+          "childs":[
+            {
+              "type": "img",
+              "ref": "16",
+              "style": {
+                "width": "200",
+                "height":"200",
+                "verticalAlign":"middle"
+              },
+              "attr" : {
+                "placeholder":"https://img.alicdn.com/tps/TB1wQDAPXXXXXXgaFXXXXXXXXXX-62-35.png",
+                "src" : "https://gw.alicdn.com/tfs/TB1LhJzQFXXXXabXXXXXXXXXXXX-140-140.png_150x10000.jpg"
+              }
+            },
+            {
+              "type": "p",
+              "ref": "17",
+              "style": {
+                "marginTop":"10",
+                "textAlign":"center",
+                "fontSize": "38"
+              },
+              "children":[
+                {
+                  "type": "text",
+                  "ref": "18",
+                  "attr": {
+                    "value":"剑白测试"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref": "19",
+      "style":{
+        "width": "750",
+        "height": "750",
+        "borderWidth": "370",
+        "borderStyle": "solid",
+        "borderColor": "#888898",
+        "boxSizing" : "borderBox",
+        "borderRadius": "375"
+      }
+    },
+    {
+      "type": "div",
+      "ref": "20",
+      "style":{
+        "width": "500",
+        "height": "500",
+        "borderWidth": "40",
+        "borderStyle": "solid",
+        "borderColor": "#888898",
+        "boxSizing" : "contentBox",
+        "borderRadius": "250"
+      }
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+
+{
+  "type": "div",
+  "ref" : "1",
+  "style": {
+    "height": "1400",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#289898",
+    "paddingLeft":"20",
+    "paddingRight":"20",
+    "paddingBottom":"50",
+    "paddingTop":"50",
+    "alignItems":"center"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref" : "2",
+      "style": {
+        "marginTop": "10",
+        "height": "200",
+        "width" : "710",
+        "flexDirection":"row",
+        "justifyContent":"spaceAround",
+        "alignItems":"center",
+        "backgroundColor":"#00BDFF",
+        "borderRadius": "20",
+        "boxShadow": "20px 20px 20px rgba(0, 0, 0, 0.5)"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref" : "3",
+          "style": {
+            "width": "100",
+            "height":"100",
+            "marginLeft":"10",
+            "marginTop":"5",
+            "marginBottom":"5",
+            "marginRight":"5",
+            "backgroundColor" :"#A020F0",
+            "textAlign":"center",
+            "lineHeight":"50",
+            "boxShadow":"5 5 5 5 #FFD700"
+          },
+          "children":[
+            {
+              "type": "text",
+              "ref" : "4",
+              "style": {
+              },
+              "attr" : {
+                "value":"手机淘宝\n想淘就淘"
+              }
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "ref" : "5",
+          "style": {
+            "width": "100",
+            "height":"100",
+            "marginLeft":"40",
+            "marginTop":"5",
+            "marginBottom":"5",
+            "marginRight":"5",
+            "backgroundColor" :"#A020F0",
+            "textAlign":"center",
+            "lineHeight":"50",
+            "boxShadow":"5 5 5 5 #FFD700"
+          },
+          "children":[
+            {
+              "type": "text",
+              "ref" : "6",
+              "style": {
+              },
+              "attr" : {
+                "value":"手机淘宝\n想淘就淘"
+              }
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "ref" : "7",
+          "style": {
+            "width": "100",
+            "height":"100",
+            "marginLeft":"40",
+            "marginTop":"5",
+            "marginBottom":"5",
+            "marginRight":"5",
+            "backgroundColor" :"#A020F0",
+            "textAlign":"center",
+            "lineHeight":"50",
+            "boxShadow":"5 5 5 5 #FFD700"
+          },
+          "children":[
+            {
+              "type": "text",
+              "ref" : "8",
+              "style": {
+              },
+              "attr" : {
+                "value":"手机淘宝\n想淘就淘"
+              }
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "ref" : "9",
+          "style": {
+            "width": "100",
+            "height":"100",
+            "marginLeft":"40",
+            "marginTop":"5",
+            "marginBottom":"5",
+            "marginRight":"5",
+            "backgroundColor" :"#A020F0",
+            "textAlign":"center",
+            "lineHeight":"50",
+            "boxShadow":"5 5 5 5 #FFD700"
+          },
+          "children":[
+            {
+              "type": "text",
+              "ref" : "9",
+              "style": {
+              },
+              "attr" : {
+                "value":"手机淘宝\n想淘就淘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref" : "17",
+      "style": {
+        "marginTop":"40px",
+        "width": "500",
+        "height": "200",
+        "backgroundColor": "#F0F0F0",
+        "boxShadow": "0 15px 30px rgba(0, 0, 0, 0.8)"
+      }
+    },
+    {
+      "type": "div",
+      "ref" : "18",
+      "style": {
+        "marginTop":"40px",
+        "width": "500",
+        "height": "200",
+        "backgroundColor": "#F0F0F0",
+        "boxShadow": "inset 0 8px 20px rgba(0, 0, 0, 0.6)"
+      }
+    },
+    {
+      "type": "div",
+      "ref" : "19",
+      "style": {
+        "marginTop":"40px",
+        "width": "500",
+        "height": "200",
+        "backgroundColor": "#F0F0F0",
+        "boxShadow": "10px 10px 10px red, -10px 0 20px olive"
+      }
+    }
+
+
+  ]
+}

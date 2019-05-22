@@ -1,0 +1,4380 @@
+{
+  "attr": {
+    "@styleScope": "data-v-cc7f36b2",
+    "doctype": "weexrender"
+  },
+  "children": [
+    {
+      "attr": {
+        "@styleScope": "data-v-cc7f36b2"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB19YESOVXXXXaNaXXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "8298",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "首页"
+                  },
+                  "ref": "8300",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8295",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "cell"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1I2E9OVXXXXbFXVXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "8306",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "耍帅"
+                  },
+                  "ref": "8308",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8303",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "cell"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1gUhyPXXXXXX5XXXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "8314",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "旅行"
+                  },
+                  "ref": "8316",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8311",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "cell"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tfs/TB1D4RzQFXXXXcoXpXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "8322",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "潮玩"
+                  },
+                  "ref": "8324",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8319",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "cell"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1N1.6OVXXXXXqaXXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "8330",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "穿搭"
+                  },
+                  "ref": "8332",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8327",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8292",
+          "style": {
+            "backgroundColor": "#f51438",
+            "flexDirection": "row"
+          },
+          "type": "cell"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2",
+                "src": "https://gw.alicdn.com/imgextra/TB2cF.xfTnI8KJjSszbXXb4KFXa_!!112-0-lubanu.jpg_q50.jpg"
+              },
+              "ref": "8350",
+              "style": {
+                "height": "235",
+                "width": "750"
+              },
+              "type": "image"
+            }
+          ],
+          "ref": "8347",
+          "type": "cell"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tfs/TB1fRVASpXXXXXdXXXXXXXXXXXX-140-140.png"
+                  },
+                  "ref": "8371",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "潮流穿搭"
+                  },
+                  "ref": "8373",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8368",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tfs/TB1_TkdPVXXXXcJXXXXXXXXXXXX-140-140.png"
+                  },
+                  "ref": "8379",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "暖心好物"
+                  },
+                  "ref": "8381",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8376",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tps/TB1goZhPXXXXXXfXpXXXXXXXXXX-118-118.png_170x120Q50s50.jpg"
+                  },
+                  "ref": "8387",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "明星面膜"
+                  },
+                  "ref": "8389",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8384",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tps/TB1zUTQPXXXXXaZaXXXXXXXXXXX-118-118.png_170x120Q50s50.jpg"
+                  },
+                  "ref": "8395",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "彩妆香氛"
+                  },
+                  "ref": "8397",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8392",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8365",
+          "style": {
+            "backgroundColor": "#FFFFFF",
+            "flexDirection": "row"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1L5upaH_I8KJjy1XaXXbsxpXa-140-140.png_150x10000.jpg"
+                  },
+                  "ref": "8416",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "红人新品"
+                  },
+                  "ref": "8418",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8413",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1w.ocb3DD8KJjy0FdXXcjvXXa-140-140.png_150x10000.jpg"
+                  },
+                  "ref": "8424",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "网红拖鞋"
+                  },
+                  "ref": "8426",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8421",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tfs/TB1sWLoRVXXXXbdXXXXXXXXXXXX-140-140.png"
+                  },
+                  "ref": "8432",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "腔调掌柜"
+                  },
+                  "ref": "8434",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8429",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB10.R_SpXXXXbtXXXXXXXXXXXX-140-140.png"
+                  },
+                  "ref": "8440",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "时尚新品"
+                  },
+                  "ref": "8442",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8437",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8410",
+          "style": {
+            "backgroundColor": "#FFFFFF",
+            "flexDirection": "row"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2",
+                "src": "https://img.alicdn.com/imgextra/i1/174/TB2xzb0eOqAXuNjy1XdXXaYcVXa_!!174-0-luban.jpg_q50.jpg"
+              },
+              "ref": "8456",
+              "style": {
+                "height": "235",
+                "width": "750"
+              },
+              "type": "image"
+            }
+          ],
+          "ref": "8453",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "//img.alicdn.com/tfs/TB1moeURFXXXXasXXXXXXXXXXXX-390-105.png"
+                      },
+                      "ref": "8482",
+                      "style": {
+                        "height": "60",
+                        "width": "222"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "8479",
+                  "style": {
+                    "height": "60px",
+                    "paddingLeft": "30"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2",
+                            "src": "https://gw.alicdn.com/tps/i2/0/TB2i25DgN6I8KJjSszfXXaZVXXa_!!0-juitemmedia.jpg_320x320q80s150.jpg"
+                          },
+                          "ref": "8491",
+                          "style": {
+                            "height": "230",
+                            "marginRight": "20",
+                            "width": "230"
+                          },
+                          "type": "image"
+                        }
+                      ],
+                      "ref": "8488",
+                      "style": {
+                        "paddingBottom": "20",
+                        "paddingLeft": "20",
+                        "paddingRight": "20",
+                        "paddingTop": "20"
+                      },
+                      "type": "div"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2",
+                            "value": "王小二高山脐橙，酸甜如初恋"
+                          },
+                          "ref": "8496",
+                          "style": {
+                            "color": "#666666",
+                            "fontSize": "26",
+                            "marginTop": "10",
+                            "paddingBottom": "6"
+                          },
+                          "type": "text"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "src": "//ossgw.alicdn.com/img/upload/0a4946e164acd1f81e97ddbc048afcc5/Group13-69-69.png@22w_22h_80Q.png"
+                              },
+                              "ref": "8502",
+                              "style": {
+                                "height": "36",
+                                "marginRight": "8",
+                                "width": "36"
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "前3分钟半价"
+                              },
+                              "ref": "8504",
+                              "style": {
+                                "color": "#07152a",
+                                "fontSize": "28"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "8499",
+                          "style": {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "paddingBottom": "5",
+                            "paddingTop": "5"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "src": "//ossgw.alicdn.com/img/upload/0a4946e164acd1f81e97ddbc048afcc5/Group13-69-69.png@22w_22h_80Q.png"
+                              },
+                              "ref": "8510",
+                              "style": {
+                                "height": "36",
+                                "marginRight": "8",
+                                "width": "36"
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "VC仓库，酸甜如初恋"
+                              },
+                              "ref": "8512",
+                              "style": {
+                                "color": "#07152a",
+                                "fontSize": "28"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "8507",
+                          "style": {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "paddingBottom": "5",
+                            "paddingTop": "5"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2"
+                              },
+                              "ref": "8518",
+                              "style": {
+                                "backgroundColor": "#ff3c32",
+                                "borderRadius": "20",
+                                "height": "30",
+                                "left": "0",
+                                "position": "absolute",
+                                "width": "96.600000"
+                              },
+                              "type": "div"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "已抢 598 件"
+                              },
+                              "ref": "8520",
+                              "style": {
+                                "color": "#FFFFFF",
+                                "fontSize": "22",
+                                "left": "8",
+                                "lineHeight": "30",
+                                "position": "absolute"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "42 %"
+                              },
+                              "ref": "8522",
+                              "style": {
+                                "color": "#FFFFFF",
+                                "fontSize": "22",
+                                "lineHeight": "30",
+                                "position": "absolute",
+                                "right": "8"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "8515",
+                          "style": {
+                            "alignItems": "center",
+                            "backgroundColor": "#FEC1C1",
+                            "borderRadius": "20",
+                            "flexDirection": "row",
+                            "height": "30",
+                            "marginBottom": "10",
+                            "marginTop": "10",
+                            "width": "230"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "¥ 29.8"
+                              },
+                              "ref": "8527",
+                              "style": {
+                                "color": "#ff3c32",
+                                "fontSize": "52",
+                                "marginBottom": "-10",
+                                "marginRight": "8",
+                                "marginTop": "10"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "¥ 56.1"
+                              },
+                              "ref": "8529",
+                              "style": {
+                                "color": "#999999",
+                                "fontSize": "28",
+                                "textDecoration": "line-through"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-cc7f36b2",
+                                    "value": "马上抢"
+                                  },
+                                  "ref": "8534",
+                                  "style": {
+                                    "color": "#FFFFFF",
+                                    "fontSize": "32",
+                                    "textAlign": "center"
+                                  },
+                                  "type": "text"
+                                }
+                              ],
+                              "ref": "8532",
+                              "style": {
+                                "backgroundColor": "#ff5d62",
+                                "borderRadius": "8",
+                                "bottom": "0",
+                                "height": "52",
+                                "justifyContent": "center",
+                                "position": "absolute",
+                                "right": "0",
+                                "width": "125"
+                              },
+                              "type": "div"
+                            }
+                          ],
+                          "ref": "8525",
+                          "style": {
+                            "alignItems": "flex-end",
+                            "flexDirection": "row",
+                            "width": "400"
+                          },
+                          "type": "div"
+                        }
+                      ],
+                      "ref": "8494",
+                      "type": "div"
+                    }
+                  ],
+                  "ref": "8485",
+                  "style": {
+                    "flexDirection": "row",
+                    "paddingBottom": "18px"
+                  },
+                  "type": "div"
+                }
+              ],
+              "ref": "8476",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "15",
+                "marginBottom": "20",
+                "marginLeft": "20",
+                "marginRight": "20",
+                "marginTop": "20",
+                "width": "710"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8473",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "酒鬼到了意大利，收不住的红酒心"
+                  },
+                  "ref": "8554",
+                  "style": {
+                    "fontSize": "40",
+                    "paddingBottom": "25",
+                    "paddingTop": "35",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "lines": "2",
+                    "value": "意大利是一个集古典与艺术于一身的国度，这里是艺术的发源地之一，也是欧洲最早种植葡萄的国家之一。意大利的酿酒历史超过4000年，本地葡萄品种过千不止，古希腊人称其为“葡萄酒之国”"
+                  },
+                  "ref": "8556",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "lines": "2",
+                    "paddingLeft": "30",
+                    "paddingRight": "30"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/2872639756/TB21lwtXjihSKJjy0FiXXcuiFXa_!!2872639756-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8562",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/2872639756/TB2zgRJdwMPMeJjy1XdXXasrXXa_!!2872639756-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8565",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i2/2872639756/TB2Ki0NdBUSMeJjSspfXXX0VFXa_!!2872639756-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8568",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "8559",
+                  "style": {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                    "marginTop": "20"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "182 人说好"
+                  },
+                  "ref": "8570",
+                  "style": {
+                    "color": "#52bfe6",
+                    "fontSize": "32",
+                    "marginBottom": "20",
+                    "marginTop": "25",
+                    "paddingRight": "50",
+                    "textAlign": "right"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8552",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "marginBottom": "15"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8549",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "睡袍穿不对，脱光也不媚！"
+                  },
+                  "ref": "8588",
+                  "style": {
+                    "fontSize": "40",
+                    "paddingBottom": "25",
+                    "paddingTop": "35",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "lines": "2",
+                    "value": "“Ihatemynightgown（我讨厌我的睡袍）.”经典电影《罗马假日》中，赫本饰演的安妮公主躺在梦幻的宫廷大床上，抱怨她身上那华丽的大睡袍臃肿不便，为公主的浪漫逃逸埋下伏笔。想象一下，男朋友刚刚"
+                  },
+                  "ref": "8590",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "lines": "2",
+                    "paddingLeft": "30",
+                    "paddingRight": "30"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i3/3044653839/TB2a_nAXgsSMeJjSspdXXXZ4pXa_!!3044653839-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8596",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/3044653839/TB2qrPCXiERMeJjSspiXXbZLFXa_!!3044653839-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8599",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/3044653839/TB2ySjuXgsSMeJjSspeXXa77VXa_!!3044653839-0-beehive-scenes.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8602",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "8593",
+                  "style": {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                    "marginTop": "20"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "876 人说好"
+                  },
+                  "ref": "8604",
+                  "style": {
+                    "color": "#52bfe6",
+                    "fontSize": "32",
+                    "marginBottom": "20",
+                    "marginTop": "25",
+                    "paddingRight": "50",
+                    "textAlign": "right"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8586",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "marginBottom": "15"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8583",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB19YESOVXXXXaNaXXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "8615",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "首页"
+                  },
+                  "ref": "8617",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8612",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1I2E9OVXXXXbFXVXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "8623",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "耍帅"
+                  },
+                  "ref": "8625",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8620",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1gUhyPXXXXXX5XXXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "8631",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "旅行"
+                  },
+                  "ref": "8633",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8628",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tfs/TB1D4RzQFXXXXcoXpXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "8639",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "潮玩"
+                  },
+                  "ref": "8641",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8636",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1N1.6OVXXXXXqaXXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "8647",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "穿搭"
+                  },
+                  "ref": "8649",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8644",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8609",
+          "style": {
+            "backgroundColor": "#f51438",
+            "flexDirection": "row"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tfs/TB1fRVASpXXXXXdXXXXXXXXXXXX-140-140.png"
+                  },
+                  "ref": "8672",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "潮流穿搭"
+                  },
+                  "ref": "8674",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8669",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tfs/TB1_TkdPVXXXXcJXXXXXXXXXXXX-140-140.png"
+                  },
+                  "ref": "8680",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "暖心好物"
+                  },
+                  "ref": "8682",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8677",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tps/TB1goZhPXXXXXXfXpXXXXXXXXXX-118-118.png_170x120Q50s50.jpg"
+                  },
+                  "ref": "8688",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "明星面膜"
+                  },
+                  "ref": "8690",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8685",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tps/TB1zUTQPXXXXXaZaXXXXXXXXXXX-118-118.png_170x120Q50s50.jpg"
+                  },
+                  "ref": "8696",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "彩妆香氛"
+                  },
+                  "ref": "8698",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8693",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8666",
+          "style": {
+            "backgroundColor": "#FFFFFF",
+            "flexDirection": "row"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tfs/TB1fRVASpXXXXXdXXXXXXXXXXXX-140-140.png"
+                  },
+                  "ref": "8717",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "潮流穿搭"
+                  },
+                  "ref": "8719",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8714",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tfs/TB1_TkdPVXXXXcJXXXXXXXXXXXX-140-140.png"
+                  },
+                  "ref": "8725",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "暖心好物"
+                  },
+                  "ref": "8727",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8722",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tps/TB1goZhPXXXXXXfXpXXXXXXXXXX-118-118.png_170x120Q50s50.jpg"
+                  },
+                  "ref": "8733",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "明星面膜"
+                  },
+                  "ref": "8735",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8730",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tps/TB1zUTQPXXXXXaZaXXXXXXXXXXX-118-118.png_170x120Q50s50.jpg"
+                  },
+                  "ref": "8741",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "彩妆香氛"
+                  },
+                  "ref": "8743",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8738",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8711",
+          "style": {
+            "backgroundColor": "#FFFFFF",
+            "flexDirection": "row"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2",
+                "src": "https://gw.alicdn.com/imgextra/TB2uQAFhb_I8KJjy1XaXXbsxpXa_!!89-0-lubanu.jpg_q50.jpg"
+              },
+              "ref": "8757",
+              "style": {
+                "height": "235",
+                "width": "750"
+              },
+              "type": "image"
+            }
+          ],
+          "ref": "8754",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "//img.alicdn.com/tfs/TB1moeURFXXXXasXXXXXXXXXXXX-390-105.png"
+                      },
+                      "ref": "8783",
+                      "style": {
+                        "height": "60",
+                        "width": "222"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "8780",
+                  "style": {
+                    "height": "60px",
+                    "paddingLeft": "30"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2",
+                            "src": "http://gw.alicdn.com/tps/i3/902257410/TB2pzypfU3IL1JjSZFMXXajrFXa_!!0-juitemmedia.jpg_320x320q80s150.jpg"
+                          },
+                          "ref": "8792",
+                          "style": {
+                            "height": "230",
+                            "marginRight": "20",
+                            "width": "230"
+                          },
+                          "type": "image"
+                        }
+                      ],
+                      "ref": "8789",
+                      "style": {
+                        "paddingBottom": "20",
+                        "paddingLeft": "20",
+                        "paddingRight": "20",
+                        "paddingTop": "20"
+                      },
+                      "type": "div"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2",
+                            "value": "海宁真皮皮衣男绵羊皮夹克外套"
+                          },
+                          "ref": "8797",
+                          "style": {
+                            "color": "#666666",
+                            "fontSize": "26",
+                            "marginTop": "10",
+                            "paddingBottom": "6"
+                          },
+                          "type": "text"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "src": "//ossgw.alicdn.com/img/upload/0a4946e164acd1f81e97ddbc048afcc5/Group13-69-69.png@22w_22h_80Q.png"
+                              },
+                              "ref": "8803",
+                              "style": {
+                                "height": "36",
+                                "marginRight": "8",
+                                "width": "36"
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "店内领券下单438"
+                              },
+                              "ref": "8805",
+                              "style": {
+                                "color": "#07152a",
+                                "fontSize": "28"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "8800",
+                          "style": {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "paddingBottom": "5",
+                            "paddingTop": "5"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "src": "//ossgw.alicdn.com/img/upload/0a4946e164acd1f81e97ddbc048afcc5/Group13-69-69.png@22w_22h_80Q.png"
+                              },
+                              "ref": "8811",
+                              "style": {
+                                "height": "36",
+                                "marginRight": "8",
+                                "width": "36"
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "限送500双皮手套"
+                              },
+                              "ref": "8813",
+                              "style": {
+                                "color": "#07152a",
+                                "fontSize": "28"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "8808",
+                          "style": {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "paddingBottom": "5",
+                            "paddingTop": "5"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2"
+                              },
+                              "ref": "8819",
+                              "style": {
+                                "backgroundColor": "#ff3c32",
+                                "borderRadius": "20",
+                                "height": "30",
+                                "left": "0",
+                                "position": "absolute",
+                                "width": "36.800000"
+                              },
+                              "type": "div"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "已抢 296 件"
+                              },
+                              "ref": "8821",
+                              "style": {
+                                "color": "#FFFFFF",
+                                "fontSize": "22",
+                                "left": "8",
+                                "lineHeight": "30",
+                                "position": "absolute"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "16 %"
+                              },
+                              "ref": "8823",
+                              "style": {
+                                "color": "#FFFFFF",
+                                "fontSize": "22",
+                                "lineHeight": "30",
+                                "position": "absolute",
+                                "right": "8"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "8816",
+                          "style": {
+                            "alignItems": "center",
+                            "backgroundColor": "#FEC1C1",
+                            "borderRadius": "20",
+                            "flexDirection": "row",
+                            "height": "30",
+                            "marginBottom": "10",
+                            "marginTop": "10",
+                            "width": "230"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "¥ 538"
+                              },
+                              "ref": "8828",
+                              "style": {
+                                "color": "#ff3c32",
+                                "fontSize": "52",
+                                "marginBottom": "-10",
+                                "marginRight": "8",
+                                "marginTop": "10"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "¥ 3080"
+                              },
+                              "ref": "8830",
+                              "style": {
+                                "color": "#999999",
+                                "fontSize": "28",
+                                "textDecoration": "line-through"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-cc7f36b2",
+                                    "value": "马上抢"
+                                  },
+                                  "ref": "8835",
+                                  "style": {
+                                    "color": "#FFFFFF",
+                                    "fontSize": "32",
+                                    "textAlign": "center"
+                                  },
+                                  "type": "text"
+                                }
+                              ],
+                              "ref": "8833",
+                              "style": {
+                                "backgroundColor": "#ff5d62",
+                                "borderRadius": "8",
+                                "bottom": "0",
+                                "height": "52",
+                                "justifyContent": "center",
+                                "position": "absolute",
+                                "right": "0",
+                                "width": "125"
+                              },
+                              "type": "div"
+                            }
+                          ],
+                          "ref": "8826",
+                          "style": {
+                            "alignItems": "flex-end",
+                            "flexDirection": "row",
+                            "width": "400"
+                          },
+                          "type": "div"
+                        }
+                      ],
+                      "ref": "8795",
+                      "type": "div"
+                    }
+                  ],
+                  "ref": "8786",
+                  "style": {
+                    "flexDirection": "row",
+                    "paddingBottom": "18px"
+                  },
+                  "type": "div"
+                }
+              ],
+              "ref": "8777",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "15",
+                "marginBottom": "20",
+                "marginLeft": "20",
+                "marginRight": "20",
+                "marginTop": "20",
+                "width": "710"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8774",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "//img.alicdn.com/tfs/TB1moeURFXXXXasXXXXXXXXXXXX-390-105.png"
+                      },
+                      "ref": "8857",
+                      "style": {
+                        "height": "60",
+                        "width": "222"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "8854",
+                  "style": {
+                    "height": "60px",
+                    "paddingLeft": "30"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2",
+                            "src": "http://gw.alicdn.com/tps/i3/902257410/TB2pzypfU3IL1JjSZFMXXajrFXa_!!0-juitemmedia.jpg_320x320q80s150.jpg"
+                          },
+                          "ref": "8866",
+                          "style": {
+                            "height": "230",
+                            "marginRight": "20",
+                            "width": "230"
+                          },
+                          "type": "image"
+                        }
+                      ],
+                      "ref": "8863",
+                      "style": {
+                        "paddingBottom": "20",
+                        "paddingLeft": "20",
+                        "paddingRight": "20",
+                        "paddingTop": "20"
+                      },
+                      "type": "div"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2",
+                            "value": "海宁真皮皮衣男绵羊皮夹克外套"
+                          },
+                          "ref": "8871",
+                          "style": {
+                            "color": "#666666",
+                            "fontSize": "26",
+                            "marginTop": "10",
+                            "paddingBottom": "6"
+                          },
+                          "type": "text"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "src": "//ossgw.alicdn.com/img/upload/0a4946e164acd1f81e97ddbc048afcc5/Group13-69-69.png@22w_22h_80Q.png"
+                              },
+                              "ref": "8877",
+                              "style": {
+                                "height": "36",
+                                "marginRight": "8",
+                                "width": "36"
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "店内领券下单438"
+                              },
+                              "ref": "8879",
+                              "style": {
+                                "color": "#07152a",
+                                "fontSize": "28"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "8874",
+                          "style": {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "paddingBottom": "5",
+                            "paddingTop": "5"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "src": "//ossgw.alicdn.com/img/upload/0a4946e164acd1f81e97ddbc048afcc5/Group13-69-69.png@22w_22h_80Q.png"
+                              },
+                              "ref": "8885",
+                              "style": {
+                                "height": "36",
+                                "marginRight": "8",
+                                "width": "36"
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "限送500双皮手套"
+                              },
+                              "ref": "8887",
+                              "style": {
+                                "color": "#07152a",
+                                "fontSize": "28"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "8882",
+                          "style": {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "paddingBottom": "5",
+                            "paddingTop": "5"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2"
+                              },
+                              "ref": "8893",
+                              "style": {
+                                "backgroundColor": "#ff3c32",
+                                "borderRadius": "20",
+                                "height": "30",
+                                "left": "0",
+                                "position": "absolute",
+                                "width": "36.800000"
+                              },
+                              "type": "div"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "已抢 296 件"
+                              },
+                              "ref": "8895",
+                              "style": {
+                                "color": "#FFFFFF",
+                                "fontSize": "22",
+                                "left": "8",
+                                "lineHeight": "30",
+                                "position": "absolute"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "16 %"
+                              },
+                              "ref": "8897",
+                              "style": {
+                                "color": "#FFFFFF",
+                                "fontSize": "22",
+                                "lineHeight": "30",
+                                "position": "absolute",
+                                "right": "8"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "8890",
+                          "style": {
+                            "alignItems": "center",
+                            "backgroundColor": "#FEC1C1",
+                            "borderRadius": "20",
+                            "flexDirection": "row",
+                            "height": "30",
+                            "marginBottom": "10",
+                            "marginTop": "10",
+                            "width": "230"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "¥ 538"
+                              },
+                              "ref": "8902",
+                              "style": {
+                                "color": "#ff3c32",
+                                "fontSize": "52",
+                                "marginBottom": "-10",
+                                "marginRight": "8",
+                                "marginTop": "10"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "¥ 3080"
+                              },
+                              "ref": "8904",
+                              "style": {
+                                "color": "#999999",
+                                "fontSize": "28",
+                                "textDecoration": "line-through"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-cc7f36b2",
+                                    "value": "马上抢"
+                                  },
+                                  "ref": "8909",
+                                  "style": {
+                                    "color": "#FFFFFF",
+                                    "fontSize": "32",
+                                    "textAlign": "center"
+                                  },
+                                  "type": "text"
+                                }
+                              ],
+                              "ref": "8907",
+                              "style": {
+                                "backgroundColor": "#ff5d62",
+                                "borderRadius": "8",
+                                "bottom": "0",
+                                "height": "52",
+                                "justifyContent": "center",
+                                "position": "absolute",
+                                "right": "0",
+                                "width": "125"
+                              },
+                              "type": "div"
+                            }
+                          ],
+                          "ref": "8900",
+                          "style": {
+                            "alignItems": "flex-end",
+                            "flexDirection": "row",
+                            "width": "400"
+                          },
+                          "type": "div"
+                        }
+                      ],
+                      "ref": "8869",
+                      "type": "div"
+                    }
+                  ],
+                  "ref": "8860",
+                  "style": {
+                    "flexDirection": "row",
+                    "paddingBottom": "18px"
+                  },
+                  "type": "div"
+                }
+              ],
+              "ref": "8851",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "15",
+                "marginBottom": "20",
+                "marginLeft": "20",
+                "marginRight": "20",
+                "marginTop": "20",
+                "width": "710"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8848",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2",
+                "src": "https://img.alicdn.com/imgextra/i4/61/TB24IbTh3fH8KJjy1zcXXcTzpXa_!!61-0-yamato.jpg_q50.jpg"
+              },
+              "ref": "8921",
+              "style": {
+                "height": "235",
+                "width": "750"
+              },
+              "type": "image"
+            }
+          ],
+          "ref": "8918",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "关于培根的那些事，教你吃得门清"
+                  },
+                  "ref": "8945",
+                  "style": {
+                    "fontSize": "40",
+                    "paddingBottom": "25",
+                    "paddingTop": "35",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "lines": "2",
+                    "value": "培根一直被认为是早餐的头盘，早上烤两片面包，平底锅煎一片培根、一个鸡蛋，和生菜一起夹在面包中，有荤有素，就是一顿丰富美味的西式早餐。培根的英文名是“Bacon”，原意是烟熏的猪肋条肉，或烟熏背脊肉"
+                  },
+                  "ref": "8947",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "lines": "2",
+                    "paddingLeft": "30",
+                    "paddingRight": "30"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i2/603964020/TB24zFbarwTMeJjSszfXXXbtFXa_!!603964020-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8953",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i2/603964020/TB2txtdarsTMeJjy1zcXXXAgXXa_!!603964020-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8956",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/tfscom/i3/1635378022/TB2plKDbFXXXXaTXpXXXXXXXXXX-1635378022.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8959",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "8950",
+                  "style": {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                    "marginTop": "20"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "3576 人说好"
+                  },
+                  "ref": "8961",
+                  "style": {
+                    "color": "#52bfe6",
+                    "fontSize": "32",
+                    "marginBottom": "20",
+                    "marginTop": "25",
+                    "paddingRight": "50",
+                    "textAlign": "right"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8943",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "marginBottom": "15"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8940",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "酒鬼到了意大利，收不住的红酒心"
+                  },
+                  "ref": "8979",
+                  "style": {
+                    "fontSize": "40",
+                    "paddingBottom": "25",
+                    "paddingTop": "35",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "lines": "2",
+                    "value": "意大利是一个集古典与艺术于一身的国度，这里是艺术的发源地之一，也是欧洲最早种植葡萄的国家之一。意大利的酿酒历史超过4000年，本地葡萄品种过千不止，古希腊人称其为“葡萄酒之国”"
+                  },
+                  "ref": "8981",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "lines": "2",
+                    "paddingLeft": "30",
+                    "paddingRight": "30"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/2872639756/TB21lwtXjihSKJjy0FiXXcuiFXa_!!2872639756-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8987",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/2872639756/TB2zgRJdwMPMeJjy1XdXXasrXXa_!!2872639756-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8990",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i2/2872639756/TB2Ki0NdBUSMeJjSspfXXX0VFXa_!!2872639756-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "8993",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "8984",
+                  "style": {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                    "marginTop": "20"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "182 人说好"
+                  },
+                  "ref": "8995",
+                  "style": {
+                    "color": "#52bfe6",
+                    "fontSize": "32",
+                    "marginBottom": "20",
+                    "marginTop": "25",
+                    "paddingRight": "50",
+                    "textAlign": "right"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "8977",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "marginBottom": "15"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "8974",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "提高品质生活，从用好水开始"
+                  },
+                  "ref": "9013",
+                  "style": {
+                    "fontSize": "40",
+                    "paddingBottom": "25",
+                    "paddingTop": "35",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "lines": "2",
+                    "value": "我们生活中每天都要喝水、用水，可是你真的喝到、用到好水了么？为了得到更高品质的生活，我们需要更多的好东西让我们的生活更有档次，那不如就从改变你每天都要亲密接触的水开始吧"
+                  },
+                  "ref": "9015",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "lines": "2",
+                    "paddingLeft": "30",
+                    "paddingRight": "30"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i2/1904229646/TB2dRg4dgoQMeJjy0FpXXcTxpXa_!!1904229646-2-daren.png_250x250.jpg"
+                      },
+                      "ref": "9021",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/1904229646/TB2JtOjfOAKL1JjSZFoXXagCFXa_!!1904229646-2-daren.png_250x250.jpg"
+                      },
+                      "ref": "9024",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/1904229646/TB2BSXjdwsSMeJjSspeXXa77VXa_!!1904229646-2-daren.png_250x250.jpg"
+                      },
+                      "ref": "9027",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "9018",
+                  "style": {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                    "marginTop": "20"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "74 人说好"
+                  },
+                  "ref": "9029",
+                  "style": {
+                    "color": "#52bfe6",
+                    "fontSize": "32",
+                    "marginBottom": "20",
+                    "marginTop": "25",
+                    "paddingRight": "50",
+                    "textAlign": "right"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9011",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "marginBottom": "15"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "9008",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB19YESOVXXXXaNaXXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "9040",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "首页"
+                  },
+                  "ref": "9042",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9037",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1I2E9OVXXXXbFXVXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "9048",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "耍帅"
+                  },
+                  "ref": "9050",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9045",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1gUhyPXXXXXX5XXXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "9056",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "旅行"
+                  },
+                  "ref": "9058",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9053",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://img.alicdn.com/tfs/TB1D4RzQFXXXXcoXpXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "9064",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "潮玩"
+                  },
+                  "ref": "9066",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9061",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1N1.6OVXXXXXqaXXXXXXXXXXX-45-45.png"
+                  },
+                  "ref": "9072",
+                  "style": {
+                    "height": "45",
+                    "width": "45"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "穿搭"
+                  },
+                  "ref": "9074",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "28",
+                    "marginTop": "10"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9069",
+              "style": {
+                "alignItems": "center",
+                "height": "120",
+                "justifyContent": "center",
+                "width": "150"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "9034",
+          "style": {
+            "backgroundColor": "#f51438",
+            "flexDirection": "row"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2",
+                "src": "https://gw.alicdn.com/imgextra/TB2ZweVg9_I8KJjy0FoXXaFnVXa_!!158-0-lubanu.jpg_q50.jpg"
+              },
+              "ref": "9092",
+              "style": {
+                "height": "235",
+                "width": "750"
+              },
+              "type": "image"
+            }
+          ],
+          "ref": "9089",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "//img.alicdn.com/tfs/TB1moeURFXXXXasXXXXXXXXXXXX-390-105.png"
+                      },
+                      "ref": "9118",
+                      "style": {
+                        "height": "60",
+                        "width": "222"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "9115",
+                  "style": {
+                    "height": "60px",
+                    "paddingLeft": "30"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2",
+                            "src": "http://gw.alicdn.com/tps/i2/2838892713/TB2ma39aqmgSKJjSsphXXcy1VXa_!!0-juitemmedia.jpg_320x320q80s150.jpg"
+                          },
+                          "ref": "9127",
+                          "style": {
+                            "height": "230",
+                            "marginRight": "20",
+                            "width": "230"
+                          },
+                          "type": "image"
+                        }
+                      ],
+                      "ref": "9124",
+                      "style": {
+                        "paddingBottom": "20",
+                        "paddingLeft": "20",
+                        "paddingRight": "20",
+                        "paddingTop": "20"
+                      },
+                      "type": "div"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2",
+                            "value": "HUAWEI P10"
+                          },
+                          "ref": "9132",
+                          "style": {
+                            "color": "#666666",
+                            "fontSize": "26",
+                            "marginTop": "10",
+                            "paddingBottom": "6"
+                          },
+                          "type": "text"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "src": "//ossgw.alicdn.com/img/upload/0a4946e164acd1f81e97ddbc048afcc5/Group13-69-69.png@22w_22h_80Q.png"
+                              },
+                              "ref": "9138",
+                              "style": {
+                                "height": "36",
+                                "marginRight": "8",
+                                "width": "36"
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "买赠好礼6期免息"
+                              },
+                              "ref": "9140",
+                              "style": {
+                                "color": "#07152a",
+                                "fontSize": "28"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "9135",
+                          "style": {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "paddingBottom": "5",
+                            "paddingTop": "5"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "src": "//ossgw.alicdn.com/img/upload/0a4946e164acd1f81e97ddbc048afcc5/Group13-69-69.png@22w_22h_80Q.png"
+                              },
+                              "ref": "9146",
+                              "style": {
+                                "height": "36",
+                                "marginRight": "8",
+                                "width": "36"
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "6期免息"
+                              },
+                              "ref": "9148",
+                              "style": {
+                                "color": "#07152a",
+                                "fontSize": "28"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "9143",
+                          "style": {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "paddingBottom": "5",
+                            "paddingTop": "5"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2"
+                              },
+                              "ref": "9154",
+                              "style": {
+                                "backgroundColor": "#ff3c32",
+                                "borderRadius": "20",
+                                "height": "30",
+                                "left": "0",
+                                "position": "absolute",
+                                "width": "204.700000"
+                              },
+                              "type": "div"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "已抢 996 件"
+                              },
+                              "ref": "9156",
+                              "style": {
+                                "color": "#FFFFFF",
+                                "fontSize": "22",
+                                "left": "8",
+                                "lineHeight": "30",
+                                "position": "absolute"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "89 %"
+                              },
+                              "ref": "9158",
+                              "style": {
+                                "color": "#FFFFFF",
+                                "fontSize": "22",
+                                "lineHeight": "30",
+                                "position": "absolute",
+                                "right": "8"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "9151",
+                          "style": {
+                            "alignItems": "center",
+                            "backgroundColor": "#FEC1C1",
+                            "borderRadius": "20",
+                            "flexDirection": "row",
+                            "height": "30",
+                            "marginBottom": "10",
+                            "marginTop": "10",
+                            "width": "230"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "¥ 3488"
+                              },
+                              "ref": "9163",
+                              "style": {
+                                "color": "#ff3c32",
+                                "fontSize": "52",
+                                "marginBottom": "-10",
+                                "marginRight": "8",
+                                "marginTop": "10"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "¥ 3488"
+                              },
+                              "ref": "9165",
+                              "style": {
+                                "color": "#999999",
+                                "fontSize": "28",
+                                "textDecoration": "line-through"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-cc7f36b2",
+                                    "value": "马上抢"
+                                  },
+                                  "ref": "9170",
+                                  "style": {
+                                    "color": "#FFFFFF",
+                                    "fontSize": "32",
+                                    "textAlign": "center"
+                                  },
+                                  "type": "text"
+                                }
+                              ],
+                              "ref": "9168",
+                              "style": {
+                                "backgroundColor": "#ff5d62",
+                                "borderRadius": "8",
+                                "bottom": "0",
+                                "height": "52",
+                                "justifyContent": "center",
+                                "position": "absolute",
+                                "right": "0",
+                                "width": "125"
+                              },
+                              "type": "div"
+                            }
+                          ],
+                          "ref": "9161",
+                          "style": {
+                            "alignItems": "flex-end",
+                            "flexDirection": "row",
+                            "width": "400"
+                          },
+                          "type": "div"
+                        }
+                      ],
+                      "ref": "9130",
+                      "type": "div"
+                    }
+                  ],
+                  "ref": "9121",
+                  "style": {
+                    "flexDirection": "row",
+                    "paddingBottom": "18px"
+                  },
+                  "type": "div"
+                }
+              ],
+              "ref": "9112",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "15",
+                "marginBottom": "20",
+                "marginLeft": "20",
+                "marginRight": "20",
+                "marginTop": "20",
+                "width": "710"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "9109",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1wKS.h8fH8KJjy1XbXXbLdXXa-140-140.png_150x10000.jpg"
+                  },
+                  "ref": "9187",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "热门搭配"
+                  },
+                  "ref": "9189",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9184",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1oM1qaMvD8KJjy0FlXXagBFXa-140-140.png_150x10000.jpg"
+                  },
+                  "ref": "9195",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "网红大衣"
+                  },
+                  "ref": "9197",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9192",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1Oiz0b22H8KJjy0FcXXaDlFXa-140-140.png_150x10000.jpg"
+                  },
+                  "ref": "9203",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "四件套"
+                  },
+                  "ref": "9205",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9200",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "src": "https://gw.alicdn.com/tfs/TB1LhJzQFXXXXabXXXXXXXXXXXX-140-140.png_150x10000.jpg"
+                  },
+                  "ref": "9211",
+                  "style": {
+                    "height": "140",
+                    "marginLeft": "20",
+                    "width": "140"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "人气彩妆"
+                  },
+                  "ref": "9213",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "paddingTop": "15",
+                    "textAlign": "center",
+                    "width": "180"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9208",
+              "style": {
+                "paddingBottom": "15",
+                "paddingLeft": "15",
+                "paddingRight": "15",
+                "paddingTop": "15",
+                "width": "180"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "9181",
+          "style": {
+            "backgroundColor": "#FFFFFF",
+            "flexDirection": "row"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2",
+                "src": "https://img.alicdn.com/imgextra/i4/61/TB24IbTh3fH8KJjy1zcXXcTzpXa_!!61-0-yamato.jpg_q50.jpg"
+              },
+              "ref": "9227",
+              "style": {
+                "height": "235",
+                "width": "750"
+              },
+              "type": "image"
+            }
+          ],
+          "ref": "9224",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "//img.alicdn.com/tfs/TB1moeURFXXXXasXXXXXXXXXXXX-390-105.png"
+                      },
+                      "ref": "9253",
+                      "style": {
+                        "height": "60",
+                        "width": "222"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "9250",
+                  "style": {
+                    "height": "60px",
+                    "paddingLeft": "30"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2",
+                            "src": "http://gw.alicdn.com/tps/i2/2838892713/TB2ma39aqmgSKJjSsphXXcy1VXa_!!0-juitemmedia.jpg_320x320q80s150.jpg"
+                          },
+                          "ref": "9262",
+                          "style": {
+                            "height": "230",
+                            "marginRight": "20",
+                            "width": "230"
+                          },
+                          "type": "image"
+                        }
+                      ],
+                      "ref": "9259",
+                      "style": {
+                        "paddingBottom": "20",
+                        "paddingLeft": "20",
+                        "paddingRight": "20",
+                        "paddingTop": "20"
+                      },
+                      "type": "div"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2",
+                            "value": "HUAWEI P10"
+                          },
+                          "ref": "9267",
+                          "style": {
+                            "color": "#666666",
+                            "fontSize": "26",
+                            "marginTop": "10",
+                            "paddingBottom": "6"
+                          },
+                          "type": "text"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "src": "//ossgw.alicdn.com/img/upload/0a4946e164acd1f81e97ddbc048afcc5/Group13-69-69.png@22w_22h_80Q.png"
+                              },
+                              "ref": "9273",
+                              "style": {
+                                "height": "36",
+                                "marginRight": "8",
+                                "width": "36"
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "买赠好礼6期免息"
+                              },
+                              "ref": "9275",
+                              "style": {
+                                "color": "#07152a",
+                                "fontSize": "28"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "9270",
+                          "style": {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "paddingBottom": "5",
+                            "paddingTop": "5"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "src": "//ossgw.alicdn.com/img/upload/0a4946e164acd1f81e97ddbc048afcc5/Group13-69-69.png@22w_22h_80Q.png"
+                              },
+                              "ref": "9281",
+                              "style": {
+                                "height": "36",
+                                "marginRight": "8",
+                                "width": "36"
+                              },
+                              "type": "image"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "6期免息"
+                              },
+                              "ref": "9283",
+                              "style": {
+                                "color": "#07152a",
+                                "fontSize": "28"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "9278",
+                          "style": {
+                            "alignItems": "center",
+                            "flexDirection": "row",
+                            "paddingBottom": "5",
+                            "paddingTop": "5"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2"
+                              },
+                              "ref": "9289",
+                              "style": {
+                                "backgroundColor": "#ff3c32",
+                                "borderRadius": "20",
+                                "height": "30",
+                                "left": "0",
+                                "position": "absolute",
+                                "width": "204.700000"
+                              },
+                              "type": "div"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "已抢 996 件"
+                              },
+                              "ref": "9291",
+                              "style": {
+                                "color": "#FFFFFF",
+                                "fontSize": "22",
+                                "left": "8",
+                                "lineHeight": "30",
+                                "position": "absolute"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "89 %"
+                              },
+                              "ref": "9293",
+                              "style": {
+                                "color": "#FFFFFF",
+                                "fontSize": "22",
+                                "lineHeight": "30",
+                                "position": "absolute",
+                                "right": "8"
+                              },
+                              "type": "text"
+                            }
+                          ],
+                          "ref": "9286",
+                          "style": {
+                            "alignItems": "center",
+                            "backgroundColor": "#FEC1C1",
+                            "borderRadius": "20",
+                            "flexDirection": "row",
+                            "height": "30",
+                            "marginBottom": "10",
+                            "marginTop": "10",
+                            "width": "230"
+                          },
+                          "type": "div"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-cc7f36b2"
+                          },
+                          "children": [
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "¥ 3488"
+                              },
+                              "ref": "9298",
+                              "style": {
+                                "color": "#ff3c32",
+                                "fontSize": "52",
+                                "marginBottom": "-10",
+                                "marginRight": "8",
+                                "marginTop": "10"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2",
+                                "value": "¥ 3488"
+                              },
+                              "ref": "9300",
+                              "style": {
+                                "color": "#999999",
+                                "fontSize": "28",
+                                "textDecoration": "line-through"
+                              },
+                              "type": "text"
+                            },
+                            {
+                              "attr": {
+                                "@styleScope": "data-v-cc7f36b2"
+                              },
+                              "children": [
+                                {
+                                  "attr": {
+                                    "@styleScope": "data-v-cc7f36b2",
+                                    "value": "马上抢"
+                                  },
+                                  "ref": "9305",
+                                  "style": {
+                                    "color": "#FFFFFF",
+                                    "fontSize": "32",
+                                    "textAlign": "center"
+                                  },
+                                  "type": "text"
+                                }
+                              ],
+                              "ref": "9303",
+                              "style": {
+                                "backgroundColor": "#ff5d62",
+                                "borderRadius": "8",
+                                "bottom": "0",
+                                "height": "52",
+                                "justifyContent": "center",
+                                "position": "absolute",
+                                "right": "0",
+                                "width": "125"
+                              },
+                              "type": "div"
+                            }
+                          ],
+                          "ref": "9296",
+                          "style": {
+                            "alignItems": "flex-end",
+                            "flexDirection": "row",
+                            "width": "400"
+                          },
+                          "type": "div"
+                        }
+                      ],
+                      "ref": "9265",
+                      "type": "div"
+                    }
+                  ],
+                  "ref": "9256",
+                  "style": {
+                    "flexDirection": "row",
+                    "paddingBottom": "18px"
+                  },
+                  "type": "div"
+                }
+              ],
+              "ref": "9247",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "borderRadius": "15",
+                "marginBottom": "20",
+                "marginLeft": "20",
+                "marginRight": "20",
+                "marginTop": "20",
+                "width": "710"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "9244",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "睡袍穿不对，脱光也不媚！"
+                  },
+                  "ref": "9325",
+                  "style": {
+                    "fontSize": "40",
+                    "paddingBottom": "25",
+                    "paddingTop": "35",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "lines": "2",
+                    "value": "“Ihatemynightgown（我讨厌我的睡袍）.”经典电影《罗马假日》中，赫本饰演的安妮公主躺在梦幻的宫廷大床上，抱怨她身上那华丽的大睡袍臃肿不便，为公主的浪漫逃逸埋下伏笔。想象一下，男朋友刚刚"
+                  },
+                  "ref": "9327",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "lines": "2",
+                    "paddingLeft": "30",
+                    "paddingRight": "30"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i3/3044653839/TB2a_nAXgsSMeJjSspdXXXZ4pXa_!!3044653839-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "9333",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/3044653839/TB2qrPCXiERMeJjSspiXXbZLFXa_!!3044653839-0-daren.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "9336",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/3044653839/TB2ySjuXgsSMeJjSspeXXa77VXa_!!3044653839-0-beehive-scenes.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "9339",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "9330",
+                  "style": {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                    "marginTop": "20"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "876 人说好"
+                  },
+                  "ref": "9341",
+                  "style": {
+                    "color": "#52bfe6",
+                    "fontSize": "32",
+                    "marginBottom": "20",
+                    "marginTop": "25",
+                    "paddingRight": "50",
+                    "textAlign": "right"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9323",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "marginBottom": "15"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "9320",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "就造专属感，给孩子寻个座椅好玩伴"
+                  },
+                  "ref": "9359",
+                  "style": {
+                    "fontSize": "40",
+                    "paddingBottom": "25",
+                    "paddingTop": "35",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "lines": "2",
+                    "value": "犹记得儿时的风筝带着斑斓的色彩在天空飘过；那小河里躲迷藏的鱼虾，还待着小伙伴们一起去捕捉，如今的孩童没有了这些简单且纯粹的娱乐项目，生活在高楼城市中的他们，该当怎样度过自己的童年才是美好的？"
+                  },
+                  "ref": "9361",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "lines": "2",
+                    "paddingLeft": "30",
+                    "paddingRight": "30"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/tfscom/i3/48292642/TB29OtIakz_F1JjSZFkXXcCaXXa_!!48292642.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "9367",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i4/706778912/TB2hvwSXBvBIuJjy1zeXXbGBpXa_!!706778912-0-beehive-scenes.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "9370",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i3/706778912/TB2wX.fcxz9F1JjSZFsXXaCGVXa_!!706778912-0-beehive-scenes.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "9373",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "9364",
+                  "style": {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                    "marginTop": "20"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "237 人说好"
+                  },
+                  "ref": "9375",
+                  "style": {
+                    "color": "#52bfe6",
+                    "fontSize": "32",
+                    "marginBottom": "20",
+                    "marginTop": "25",
+                    "paddingRight": "50",
+                    "textAlign": "right"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9357",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "marginBottom": "15"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "9354",
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-cc7f36b2",
+            "append": "tree"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-cc7f36b2"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "轻奢风来袭，皮艺床打造典雅居室"
+                  },
+                  "ref": "9393",
+                  "style": {
+                    "fontSize": "40",
+                    "paddingBottom": "25",
+                    "paddingTop": "35",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "lines": "2",
+                    "value": "对于追求生活高品质感的小伙伴来说，皮艺家具是展现其高格调的途径之一。想要营造出奢华质感的卧室环境，大气庄重的皮床当然是不错的选择。特别是简欧风或是美式古典风格的家居环境，如果配以皮艺床简直就是点睛之笔"
+                  },
+                  "ref": "9395",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "30",
+                    "lines": "2",
+                    "paddingLeft": "30",
+                    "paddingRight": "30"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i2/787557947/TB2erNKawoQMeJjy0FoXXcShVXa_!!787557947-0-beehive-scenes.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "9401",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i1/787557947/TB2KANyaBUSMeJjy1zkXXaWmpXa_!!787557947-0-beehive-scenes.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "9404",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-cc7f36b2",
+                        "src": "https://gw.alicdn.com/imgextra/i3/787557947/TB2lwdGayERMeJjy0FcXXc7opXa_!!787557947-0-beehive-scenes.jpg_250x250q90s200.jpg"
+                      },
+                      "ref": "9407",
+                      "style": {
+                        "height": "245",
+                        "width": "245"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "ref": "9398",
+                  "style": {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                    "marginTop": "20"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-cc7f36b2",
+                    "value": "36 人说好"
+                  },
+                  "ref": "9409",
+                  "style": {
+                    "color": "#52bfe6",
+                    "fontSize": "32",
+                    "marginBottom": "20",
+                    "marginTop": "25",
+                    "paddingRight": "50",
+                    "textAlign": "right"
+                  },
+                  "type": "text"
+                }
+              ],
+              "ref": "9391",
+              "style": {
+                "backgroundColor": "#FFFFFF",
+                "marginBottom": "15"
+              },
+              "type": "div"
+            }
+          ],
+          "ref": "9388",
+          "type": "div"
+        }
+      ],
+      "ref": "8289",
+      "style": {
+        "backgroundColor": "#EFEFEF",
+        "flex": "1",
+        "width": "750",
+        "height": "1300",
+        "overflow": "hidden"
+      },
+      "type": "scroller"
+    }
+  ],
+  "ref": "8286",
+  "style": {
+    "height": "1300"
+  },
+  "type": "div"
+}

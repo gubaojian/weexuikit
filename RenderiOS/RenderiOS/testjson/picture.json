@@ -1,0 +1,95 @@
+{
+  "attr": {
+    "@styleScope": "data-v-039eba6a",
+    "doctype": "weexrender"
+  },
+  "children": [
+    {
+      "attr": {
+        "@styleScope": "data-v-039eba6a",
+        "value": "图片测试"
+      },
+      "ref": "95",
+      "type": "text"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-039eba6a",
+        "src": "https://img.alicdn.com/tfs/TB1AakAXSzqK1RjSZFpXXakSXXa-520-280.jpg"
+      },
+      "ref": "98",
+      "style": {
+        "height": "208",
+        "width": "520"
+      },
+      "type": "image"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-039eba6a",
+        "src": "https://img.alicdn.com/simba/img/TB1Z1CHapzqK1RjSZFvSuwB7VXa.jpg"
+      },
+      "ref": "101",
+      "style": {
+        "height": "208",
+        "width": "520"
+      },
+      "type": "image"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-039eba6a",
+        "src": "https://img.alicdn.com/simba/img/TB1Eqz6xlsmBKNjSZFsSuuXSVXa.jpg"
+      },
+      "ref": "104",
+      "style": {
+        "height": "208",
+        "width": "520"
+      },
+      "type": "image"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-039eba6a",
+        "src": "https://img.alicdn.com/tfs/TB1kJ.6nFooBKNjSZPhXXc2CXXa-520-280.jpg"
+      },
+      "ref": "107",
+      "style": {
+        "height": "208",
+        "width": "520"
+      },
+      "type": "image"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-039eba6a",
+        "src": "https://img.alicdn.com/simba/img/TB1L4c_X3HqK1RjSZFgSuu7JXXa.jpg"
+      },
+      "ref": "110",
+      "style": {
+        "height": "208",
+        "width": "520"
+      },
+      "type": "image"
+    },
+    {
+      "attr": {
+        "@styleScope": "data-v-039eba6a",
+        "src": "https://img.alicdn.com/tfs/TB14O.8mm_I8KJjy0FoXXaFnVXa-790-210.png"
+      },
+      "ref": "113",
+      "style": {
+        "height": "208",
+        "width": "520"
+      },
+      "type": "image"
+    }
+  ],
+  "ref": "93",
+  "style": {
+    "flexDirection": "column",
+    "height": "1500",
+    "width": "750"
+  },
+  "type": "div"
+}

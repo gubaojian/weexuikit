@@ -1,0 +1,98 @@
+set(TXT_HEADERS
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/log/log.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/CmapCoverage.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/Emoji.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/FontCollection.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/FontFamily.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/FontLanguage.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/FontLanguageListCache.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/FontUtils.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/GraphemeBreak.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/HbFontCache.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/Hyphenator.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/Layout.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/LayoutUtils.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/LineBreaker.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/Measurement.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/MinikinFont.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/MinikinInternal.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/SparseBitSet.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/WordBreaker.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/asset_font_manager.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/font_asset_provider.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/font_collection.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/font_skia.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/font_style.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/font_weight.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/paint_record.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/paragraph.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/paragraph_builder.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/paragraph_style.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/platform.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/styled_runs.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/test_font_manager.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/text_baseline.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/text_decoration.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/text_shadow.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/text_style.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/typeface_font_asset_provider.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/utils/JenkinsHash.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/utils/LruCache.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/utils/TypeHelpers.h
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/utils/WindowsUtils.h
+)
+
+set(TXT_SOURCES
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/log/log.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/CmapCoverage.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/Emoji.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/FontCollection.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/FontFamily.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/FontLanguage.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/FontLanguageListCache.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/FontUtils.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/GraphemeBreak.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/HbFontCache.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/Hyphenator.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/Layout.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/LayoutUtils.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/LineBreaker.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/Measurement.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/MinikinFont.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/MinikinInternal.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/SparseBitSet.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/minikin/WordBreaker.cpp
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/asset_font_manager.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/font_asset_provider.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/font_collection.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/font_skia.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/paint_record.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/paragraph.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/paragraph_builder.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/paragraph_style.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/styled_runs.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/test_font_manager.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/text_decoration.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/text_shadow.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/text_style.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/typeface_font_asset_provider.cc
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/utils/JenkinsHash.cpp
+)
+
+if(ANDROID)
+        list (APPEND TXT_SOURCES
+                ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/platform_android.cc
+            )
+elseif(IOS)
+        list(APPEND TXT_SOURCES
+                ${PROJECT_SOURCE_DIR}/third_party/txt/src/txt/platform_mac.mm
+                )
+endif()
+
+include_directories(
+        ${PROJECT_SOURCE_DIR}/third_party/txt/src/
+        ${PROJECT_SOURCE_DIR}/third_party/icu/
+        ${PROJECT_SOURCE_DIR}/
+        )
+add_library(txt  STATIC ${TXT_HEADERS} ${TXT_SOURCES})
+target_link_libraries(txt android log skia icu)

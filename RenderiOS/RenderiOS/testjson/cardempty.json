@@ -1,0 +1,41 @@
+{
+  "attr": {
+    "@styleScope": "data-v-b47d497e",
+    "appendData": "{}",
+    "config": "{}",
+    "dataSpm": "2744941040",
+    "doctype": "weexrender",
+    "id": "2744941040",
+    "theme": "{}"
+  },
+  "children": [
+    {
+      "attr": {
+        "@styleScope": "data-v-b47d497e",
+        "is_document": "true"
+      },
+      "children": [ ],
+      "event": [
+        "appear"
+      ],
+      "ref": "422",
+      "style": {
+        "backgroundColor": "green",
+        "height": "",
+        "marginLeft": "",
+        "width": ""
+      },
+      "type": "div"
+    }
+  ],
+  "event": [
+    "appear",
+    "disappear"
+  ],
+  "ref": "413",
+  "style": {
+    "backgroundColor": "red",
+    "width": "750"
+  },
+  "type": "div"
+}

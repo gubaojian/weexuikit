@@ -1,0 +1,228 @@
+
+{
+  "type": "div",
+  "ref": "1",
+  "style": {
+    "height": "1400",
+    "display":"flex",
+    "flexDirection":"column",
+    "backgroundColor":"#289898",
+    "paddingLeft":"20",
+    "paddingRight":"20",
+    "paddingBottom":"50",
+    "paddingTop":"50"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref": "2",
+      "style": {
+        "marginTop": "10",
+        "height": "80",
+        "opacity":"0.1",
+        "backgroundColor":"#575757",
+        "alignItems":"center",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref": "2",
+          "style": {
+            "fontSize":"30",
+            "textAlign":"center"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref": "3",
+              "style": {
+                "width": "600",
+                "fontSize":"32",
+                "textAlign":"center"
+              },
+              "attr" : {
+                "value" : "Weex C++ UIKit opacity 0.1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref": "14",
+      "style": {
+        "marginTop": "10",
+        "height": "80",
+        "opacity":"0.2",
+        "backgroundColor":"#575757",
+        "alignItems":"center",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref": "15",
+          "style": {
+            "marginTop":"10",
+            "fontSize":"30",
+            "textAlign":"center"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref": "16",
+              "style": {
+                "width": "600"
+              },
+              "attr" : {
+                "value" : "Weex C++ UIKit opacity 0.2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref": "24",
+      "style": {
+        "marginTop": "10",
+        "height": "80",
+        "opacity":"0.4",
+        "backgroundColor":"#575757",
+        "alignItems":"center",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref": "25",
+          "style": {
+            "marginTop":"10",
+            "fontSize":"30",
+            "textAlign":"center"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref": "26",
+              "style": {
+                "width": "600"
+              },
+              "attr" : {
+                "value" : "Weex C++ UIKit opacity 0.4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref": "34",
+      "style": {
+        "marginTop": "10",
+        "height": "80",
+        "opacity":"0.6",
+        "backgroundColor":"#575757",
+        "alignItems":"center",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref": "35",
+          "style": {
+            "marginTop":"10",
+            "fontSize":"30",
+            "textAlign":"center"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref": "36",
+              "style": {
+                "width": "600"
+              },
+              "attr" : {
+                "value" : "Weex C++ UIKit opacity 0.6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref": "44",
+      "style": {
+        "marginTop": "10",
+        "height": "80",
+        "opacity":"0.8",
+        "backgroundColor":"#575757",
+        "alignItems":"center",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref": "45",
+          "style": {
+            "marginTop":"10",
+            "fontSize":"30",
+            "textAlign":"center"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref": "46",
+              "style": {
+                "width": "600"
+              },
+              "attr" : {
+                "value" : "Weex C++ UIKit opacity 0.8"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "div",
+      "ref": "52",
+      "style": {
+        "marginTop": "10",
+        "height": "80",
+        "backgroundColor":"#575757",
+        "alignItems":"center",
+        "justifyContent":"center"
+      },
+      "children": [
+        {
+          "type": "p",
+          "ref": "55",
+          "style": {
+            "fontSize":"30",
+            "textAlign":"center"
+          },
+          "children" : [
+            {
+              "type": "text",
+              "ref": "53",
+              "style": {
+                "width": "600",
+                "fontSize":"32",
+                "textAlign":"center"
+              },
+              "attr" : {
+                "value" : "Weex C++ UIKit opacity 1.0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

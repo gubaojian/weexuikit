@@ -1,0 +1,819 @@
+{
+  "attr": {
+    "@styleScope": "data-v-b47d497e",
+    "appendData": "{}",
+    "config": "{}",
+    "dataSpm": "2744941040",
+    "doctype": "weexrender",
+    "id": "2744941040",
+    "theme": "{}"
+  },
+  "children": [
+    {
+      "attr": {
+        "@styleScope": "data-v-b47d497e",
+        "is_document": "true"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-b47d497e",
+            "is_document": "true"
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "is_document": "true",
+                "src": "https://gju1.alicdn.com/tps/TB1RQFHXwoQMeJjy0FoXXcShVXa?abtest=&pos=1&abbucket=&acm=ak-zebra-21052-59763.1003.1.2548011&scm=1003.1.ak-zebra-21052-59763.null_40993129_2548011"
+              },
+              "event": [ ],
+              "ref": "643",
+              "style": {
+                "height": "63",
+                "left": "12",
+                "position": "absolute",
+                "top": "16",
+                "width": "137"
+              },
+              "type": "image"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "is_document": "true"
+              },
+              "children": [ ],
+              "event": [ ],
+              "ref": "646",
+              "style": {
+                "backgroundColor": "#979797",
+                "height": "50",
+                "left": "162.500000",
+                "opacity": "0.800000",
+                "position": "absolute",
+                "top": "24",
+                "width": "1"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "is_document": "true"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-4caa2caa",
+                    "is_document": "true",
+                    "src": "https://gw.alicdn.com/tfs/TB1kl.tttcnBKNjSZR0XXcFqFXa-72-36.png"
+                  },
+                  "event": [ ],
+                  "ref": "652",
+                  "style": {
+                    "height": "24",
+                    "marginRight": "5",
+                    "marginTop": "3",
+                    "width": "52"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-4caa2caa",
+                    "is_document": "true",
+                    "value": "戴维贝拉商场同款39元起"
+                  },
+                  "event": [ ],
+                  "ref": "654",
+                  "style": {
+                    "color": "#000000",
+                    "fontSize": "26",
+                    "fontWeight": "800",
+                    "height": "30",
+                    "lineHeight": "30",
+                    "lines": "1",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                }
+              ],
+              "event": [ ],
+              "ref": "649",
+              "style": {
+                "display": "flex",
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": "28",
+                "justifyContent": "flex-start",
+                "left": "186",
+                "position": "absolute",
+                "top": "18",
+                "width": "534"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "is_document": "true"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-4caa2caa",
+                    "is_document": "true",
+                    "value": "官方旗舰店"
+                  },
+                  "event": [ ],
+                  "ref": "659",
+                  "style": {
+                    "color": "#999999",
+                    "fontSize": "22",
+                    "height": "28",
+                    "lineHeight": "28",
+                    "lines": "1",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-4caa2caa",
+                    "is_document": "true",
+                    "value": "  |  "
+                  },
+                  "event": [ ],
+                  "ref": "661",
+                  "style": {
+                    "color": "#979797",
+                    "fontSize": "22",
+                    "height": "28",
+                    "lineHeight": "28",
+                    "lines": "1",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-4caa2caa",
+                    "is_document": "true",
+                    "value": "133人想买"
+                  },
+                  "event": [ ],
+                  "ref": "663",
+                  "style": {
+                    "color": "#26A96D",
+                    "fontSize": "22",
+                    "height": "28",
+                    "lineHeight": "28",
+                    "lines": "1",
+                    "textAlign": "center"
+                  },
+                  "type": "text"
+                }
+              ],
+              "event": [ ],
+              "ref": "657",
+              "style": {
+                "display": "flex",
+                "flexDirection": "row",
+                "flexWrap": "wrap",
+                "height": "28",
+                "justifyContent": "flex-start",
+                "left": "186",
+                "position": "absolute",
+                "top": "57",
+                "width": "534"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "is_document": "true"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-4caa2caa",
+                    "is_document": "true",
+                    "src": "https://gw.alicdn.com/tfs/TB15PdXiwMPMeJjy1XbXXcwxVXa-507-264.png"
+                  },
+                  "event": [ ],
+                  "ref": "669",
+                  "style": {
+                    "borderTopRightRadius": "12",
+                    "height": "88",
+                    "left": "0",
+                    "position": "absolute",
+                    "top": "0",
+                    "width": "175"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-4caa2caa",
+                    "is_document": "true",
+                    "value": "9月9日0点开抢"
+                  },
+                  "event": [ ],
+                  "ref": "671",
+                  "style": {
+                    "color": "#FFFFFF",
+                    "fontSize": "18",
+                    "height": "31",
+                    "left": "24",
+                    "lineHeight": "31",
+                    "lines": "1",
+                    "position": "absolute",
+                    "textAlign": "center",
+                    "top": "13",
+                    "width": "155"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-4caa2caa",
+                    "is_document": "true",
+                    "value": "全场29元起"
+                  },
+                  "event": [ ],
+                  "ref": "673",
+                  "style": {
+                    "color": "#ffffff",
+                    "fontSize": "20",
+                    "height": "31",
+                    "left": "24",
+                    "lineHeight": "31",
+                    "lines": "1",
+                    "position": "absolute",
+                    "textAlign": "center",
+                    "top": "48",
+                    "width": "155"
+                  },
+                  "type": "text"
+                }
+              ],
+              "event": [ ],
+              "ref": "666",
+              "style": {
+                "height": "88",
+                "left": "527",
+                "position": "absolute",
+                "top": "0",
+                "width": "175"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "is_document": "true"
+              },
+              "children": [ ],
+              "event": [ ],
+              "ref": "676",
+              "style": {
+                "backgroundColor": "#dbdbdb",
+                "height": "1",
+                "left": "3",
+                "position": "absolute",
+                "top": "102",
+                "width": "696"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "component-name": "link",
+                "data-spm": "",
+                "href": "https://content.tmall.com/wow/pegasus/subject/585/821690375/10134835?wh_weex=true&wh_actSignId=40993129&abtest=&wh_saleSite=1&pos=1&abbucket=&acm=ak-zebra-21052-59763.1003.1.2548011&wh_sellerId=821690375&wh_shopId=70263793&id=10134835&scm=1003.1.ak-zebra-21052-59763.null_40993129_2548011",
+                "is_document": "true",
+                "trackinfox": ""
+              },
+              "children": [ ],
+              "event": [
+                "click"
+              ],
+              "ref": "679",
+              "style": {
+                "height": "100",
+                "left": "0",
+                "position": "absolute",
+                "top": "0",
+                "width": "720"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "component-name": "link",
+                "data-spm": "",
+                "href": "https://content.tmall.com/wow/pegasus/subject/585/821690375/10134835?wh_weex=true&wh_actSignId=40993129&abtest=&wh_saleSite=1&pos=1&abbucket=&acm=ak-zebra-21052-59763.1003.1.2548011&wh_sellerId=821690375&wh_shopId=70263793&id=10134835&scm=1003.1.ak-zebra-21052-59763.null_40993129_2548011&itemIds=560177328211,537927373523,559695390473",
+                "is_document": "true",
+                "trackinfox": ""
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-a41be442",
+                    "is_document": "true",
+                    "src": "//gju3.alicdn.com/tps/i2/TB2.azKsmYTBKNjSZKbXXXJ8pXa_!!0-juitemmedia.jpg"
+                  },
+                  "event": [ ],
+                  "ref": "685",
+                  "style": {
+                    "height": "200",
+                    "marginLeft": "17",
+                    "marginTop": "17",
+                    "width": "200"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-a41be442",
+                    "is_document": "true",
+                    "value": "女宝羽绒服"
+                  },
+                  "event": [ ],
+                  "ref": "687",
+                  "style": {
+                    "color": "#1c1c1c",
+                    "fontSize": "24",
+                    "height": "30",
+                    "left": "0",
+                    "lines": "1",
+                    "marginLeft": "5",
+                    "position": "absolute",
+                    "textAlign": "center",
+                    "textOverflow": "ellipsis",
+                    "top": "227",
+                    "width": "224"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-a41be442",
+                    "is_document": "true"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-a41be442",
+                        "is_document": "true",
+                        "value": "¥"
+                      },
+                      "event": [ ],
+                      "ref": "698",
+                      "style": {
+                        "color": "#26A96D",
+                        "fontSize": "24",
+                        "height": "30",
+                        "lineHeight": "30",
+                        "lines": "1",
+                        "textAlign": "center"
+                      },
+                      "type": "text"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-a41be442",
+                        "is_document": "true",
+                        "value": "399"
+                      },
+                      "event": [ ],
+                      "ref": "700",
+                      "style": {
+                        "color": "#26A96D",
+                        "fontSize": "38",
+                        "fontWeight": "600",
+                        "height": "38",
+                        "lineHeight": "38",
+                        "lines": "1",
+                        "textAlign": "center"
+                      },
+                      "type": "text"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-a41be442",
+                        "is_document": "true",
+                        "value": "¥878"
+                      },
+                      "event": [ ],
+                      "ref": "702",
+                      "style": {
+                        "color": "#5d5d5d",
+                        "fontSize": "24",
+                        "height": "30",
+                        "lineHeight": "30",
+                        "lines": "1",
+                        "marginLeft": "3",
+                        "opacity": "0.340000",
+                        "textAlign": "center",
+                        "textDecoration": "line-through"
+                      },
+                      "type": "text"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "694",
+                  "style": {
+                    "alignItems": "flex-end",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "flexWrap": "wrap",
+                    "height": "40",
+                    "justifyContent": "center",
+                    "left": "0",
+                    "position": "absolute",
+                    "top": "277",
+                    "width": "238"
+                  },
+                  "type": "div"
+                }
+              ],
+              "event": [
+                "click"
+              ],
+              "ref": "682",
+              "style": {
+                "height": "325",
+                "left": "0px",
+                "position": "absolute",
+                "top": "103",
+                "width": "234"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "component-name": "link",
+                "data-spm": "",
+                "href": "https://content.tmall.com/wow/pegasus/subject/585/821690375/10134835?wh_weex=true&wh_actSignId=40993129&abtest=&wh_saleSite=1&pos=1&abbucket=&acm=ak-zebra-21052-59763.1003.1.2548011&wh_sellerId=821690375&wh_shopId=70263793&id=10134835&scm=1003.1.ak-zebra-21052-59763.null_40993129_2548011&itemIds=560177328211,537927373523,559695390473",
+                "is_document": "true",
+                "trackinfox": ""
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-a41be442",
+                    "is_document": "true",
+                    "src": "//gju1.alicdn.com/tps/i1/TB2BA.4rZIrBKNjSZK9XXagoVXa_!!0-juitemmedia.jpg"
+                  },
+                  "event": [ ],
+                  "ref": "708",
+                  "style": {
+                    "height": "200",
+                    "marginLeft": "17",
+                    "marginTop": "17",
+                    "width": "200"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-a41be442",
+                    "is_document": "true",
+                    "value": "保暖轻羽绒服"
+                  },
+                  "event": [ ],
+                  "ref": "710",
+                  "style": {
+                    "color": "#1c1c1c",
+                    "fontSize": "24",
+                    "height": "30",
+                    "left": "0",
+                    "lines": "1",
+                    "marginLeft": "5",
+                    "position": "absolute",
+                    "textAlign": "center",
+                    "textOverflow": "ellipsis",
+                    "top": "227",
+                    "width": "224"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-a41be442",
+                    "is_document": "true"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-a41be442",
+                        "is_document": "true",
+                        "value": "¥"
+                      },
+                      "event": [ ],
+                      "ref": "721",
+                      "style": {
+                        "color": "#26A96D",
+                        "fontSize": "24",
+                        "height": "30",
+                        "lineHeight": "30",
+                        "lines": "1",
+                        "textAlign": "center"
+                      },
+                      "type": "text"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-a41be442",
+                        "is_document": "true",
+                        "value": "289"
+                      },
+                      "event": [ ],
+                      "ref": "723",
+                      "style": {
+                        "color": "#26A96D",
+                        "fontSize": "38",
+                        "fontWeight": "600",
+                        "height": "38",
+                        "lineHeight": "38",
+                        "lines": "1",
+                        "textAlign": "center"
+                      },
+                      "type": "text"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-a41be442",
+                        "is_document": "true",
+                        "value": "¥708"
+                      },
+                      "event": [ ],
+                      "ref": "725",
+                      "style": {
+                        "color": "#5d5d5d",
+                        "fontSize": "24",
+                        "height": "30",
+                        "lineHeight": "30",
+                        "lines": "1",
+                        "marginLeft": "3",
+                        "opacity": "0.340000",
+                        "textAlign": "center",
+                        "textDecoration": "line-through"
+                      },
+                      "type": "text"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "717",
+                  "style": {
+                    "alignItems": "flex-end",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "flexWrap": "wrap",
+                    "height": "40",
+                    "justifyContent": "center",
+                    "left": "0",
+                    "position": "absolute",
+                    "top": "277",
+                    "width": "238"
+                  },
+                  "type": "div"
+                }
+              ],
+              "event": [
+                "click"
+              ],
+              "ref": "705",
+              "style": {
+                "height": "325",
+                "left": "234px",
+                "position": "absolute",
+                "top": "103",
+                "width": "234"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "component-name": "link",
+                "data-spm": "",
+                "href": "https://content.tmall.com/wow/pegasus/subject/585/821690375/10134835?wh_weex=true&wh_actSignId=40993129&abtest=&wh_saleSite=1&pos=1&abbucket=&acm=ak-zebra-21052-59763.1003.1.2548011&wh_sellerId=821690375&wh_shopId=70263793&id=10134835&scm=1003.1.ak-zebra-21052-59763.null_40993129_2548011&itemIds=560177328211,537927373523,559695390473",
+                "is_document": "true",
+                "trackinfox": ""
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-a41be442",
+                    "is_document": "true",
+                    "src": "//gju1.alicdn.com/tps/i2/TB2KsM5rZIrBKNjSZK9XXagoVXa_!!0-juitemmedia.jpg"
+                  },
+                  "event": [ ],
+                  "ref": "731",
+                  "style": {
+                    "height": "200",
+                    "marginLeft": "17",
+                    "marginTop": "17",
+                    "width": "200"
+                  },
+                  "type": "image"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-a41be442",
+                    "is_document": "true",
+                    "value": "男童羽绒服"
+                  },
+                  "event": [ ],
+                  "ref": "733",
+                  "style": {
+                    "color": "#1c1c1c",
+                    "fontSize": "24",
+                    "height": "30",
+                    "left": "0",
+                    "lines": "1",
+                    "marginLeft": "5",
+                    "position": "absolute",
+                    "textAlign": "center",
+                    "textOverflow": "ellipsis",
+                    "top": "227",
+                    "width": "224"
+                  },
+                  "type": "text"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-a41be442",
+                    "is_document": "true"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-a41be442",
+                        "is_document": "true",
+                        "value": "¥"
+                      },
+                      "event": [ ],
+                      "ref": "744",
+                      "style": {
+                        "color": "#26A96D",
+                        "fontSize": "24",
+                        "height": "30",
+                        "lineHeight": "30",
+                        "lines": "1",
+                        "textAlign": "center"
+                      },
+                      "type": "text"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-a41be442",
+                        "is_document": "true",
+                        "value": "339"
+                      },
+                      "event": [ ],
+                      "ref": "746",
+                      "style": {
+                        "color": "#26A96D",
+                        "fontSize": "38",
+                        "fontWeight": "600",
+                        "height": "38",
+                        "lineHeight": "38",
+                        "lines": "1",
+                        "textAlign": "center"
+                      },
+                      "type": "text"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-a41be442",
+                        "is_document": "true",
+                        "value": "¥768"
+                      },
+                      "event": [ ],
+                      "ref": "748",
+                      "style": {
+                        "color": "#5d5d5d",
+                        "fontSize": "24",
+                        "height": "30",
+                        "lineHeight": "30",
+                        "lines": "1",
+                        "marginLeft": "3",
+                        "opacity": "0.340000",
+                        "textAlign": "center",
+                        "textDecoration": "line-through"
+                      },
+                      "type": "text"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "740",
+                  "style": {
+                    "alignItems": "flex-end",
+                    "display": "flex",
+                    "flexDirection": "row",
+                    "flexWrap": "wrap",
+                    "height": "40",
+                    "justifyContent": "center",
+                    "left": "0",
+                    "position": "absolute",
+                    "top": "277",
+                    "width": "238"
+                  },
+                  "type": "div"
+                }
+              ],
+              "event": [
+                "click"
+              ],
+              "ref": "728",
+              "style": {
+                "height": "325",
+                "left": "468px",
+                "position": "absolute",
+                "top": "103",
+                "width": "234"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "is_document": "true"
+              },
+              "children": [ ],
+              "event": [ ],
+              "ref": "751",
+              "style": {
+                "backgroundColor": "#dbdbdb",
+                "height": "330",
+                "left": "234",
+                "position": "absolute",
+                "top": "103",
+                "width": "1"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-4caa2caa",
+                "is_document": "true"
+              },
+              "children": [ ],
+              "event": [ ],
+              "ref": "754",
+              "style": {
+                "backgroundColor": "#dbdbdb",
+                "height": "330",
+                "left": "468",
+                "position": "absolute",
+                "top": "103",
+                "width": "1"
+              },
+              "type": "div"
+            }
+          ],
+          "event": [
+            "appear"
+          ],
+          "ref": "640",
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "12",
+            "height": "434",
+            "left": "24",
+            "position": "absolute",
+            "width": "702"
+          },
+          "type": "div"
+        }
+      ],
+      "event": [ ],
+      "ref": "637",
+      "style": {
+        "height": "434",
+        "marginBottom": "18",
+        "position": "relative",
+        "width": "750"
+      },
+      "type": "div"
+    }
+  ],
+  "event": [
+    "appear",
+    "disappear"
+  ],
+  "ref": "624",
+  "style": {
+    "backgroundColor": "red",
+    "width": "750"
+  },
+  "type": "segment"
+}

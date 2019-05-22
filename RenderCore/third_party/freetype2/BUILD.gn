@@ -1,0 +1,65 @@
+config("freetype_config") {
+  include_dirs = [
+    "include",
+  ]
+}
+
+#TODO(mikejurka): Remove once we've migrated to the freetype2 target everywhere
+group("freetype") {
+  public_deps = [
+    ":freetype2",
+  ]
+}
+
+source_set("freetype2") {
+  sources = [
+    "src/autofit/autofit.c",
+    "src/base/ftbase.c",
+    "src/base/ftbbox.c",
+    "src/base/ftbitmap.c",
+    "src/base/ftfntfmt.c",
+    "src/base/ftfstype.c",
+    "src/base/ftgasp.c",
+    "src/base/ftglyph.c",
+    "src/base/ftinit.c",
+    "src/base/ftlcdfil.c",
+    "src/base/ftmm.c",
+    "src/base/ftstroke.c",
+    "src/base/ftsystem.c",
+    "src/base/fttype1.c",
+    "src/gzip/ftgzip.c",
+    "src/lzw/ftlzw.c",
+    "src/psaux/psaux.c",
+    "src/pshinter/pshinter.c",
+    "src/psnames/psnames.c",
+    "src/raster/raster.c",
+    "src/sfnt/sfnt.c",
+    "src/smooth/smooth.c",
+
+    # Font Drivers. Drivers need to be enabled in ftmodule.h explicitly.
+    "src/bdf/bdf.c",           # Glyph Bitmap Distribution Format
+    "src/cff/cff.c",           # OpenType, (.cff, .cef)
+    "src/cid/type1cid.c",      # Postscript CID-keyed (.pfb, .pfa)
+    "src/pcf/pcf.c",           # Portable Compiled Format
+    "src/pfr/pfr.c",           # Portable Font Resource
+    "src/truetype/truetype.c", # TrueType
+    "src/type1/type1.c",       # Postscript Type 1 (.pfb, .pfa)
+    "src/type42/type42.c",     # Postscript Type 42
+    "src/winfonts/winfnt.c",   # Windows Bitmap Fonts, (.fon, .fnt)
+  ]
+
+  defines = [
+    "FT2_BUILD_LIBRARY",
+    "DARWIN_NO_CARBON",
+    # Long directory name to avoid accidentally using wrong headers.
+    "FT_CONFIG_MODULES_H=<freetype-fuchsia-config/ftmodule.h>",
+    "FT_CONFIG_OPTIONS_H=<freetype-fuchsia-config/ftoption.h>",
+  ]
+
+  public_configs = [ ":freetype_config" ]
+
+  deps = [
+    "//third_party/libpng",
+    "//third_party/zlib",
+  ]
+}

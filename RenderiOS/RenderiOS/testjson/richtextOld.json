@@ -1,0 +1,195 @@
+{
+  "type": "div",
+  "ref": "1",
+  "style": {
+    "display": "flex",
+    "flexDirection": "column",
+    "backgroundColor": "#289898",
+    "paddingLeft": "20",
+    "paddingRight": "20",
+    "paddingBottom": "50",
+    "paddingTop": "50"
+  },
+  "children": [
+    {
+      "type": "div",
+      "ref": "12",
+      "style": {
+        "marginTop": "10",
+        "flexDirection": "row",
+        "alignItems": "center",
+        "backgroundColor": "#575757"
+      },
+      "attr": {
+        "ariaLabel": "这是一个想淘就淘的说明页面吼吼吼吼吼"
+      },
+      "children": [
+        {
+          "type": "div",
+          "ref": "13",
+          "style": {
+            "width": "740",
+            "marginLeft": "5",
+            "marginTop": "5",
+            "marginBottom": "5",
+            "marginRight": "5",
+            "fontSize": "40"
+          },
+          "attr": {
+            "ariaHidden": "true"
+          },
+          "children": [
+            {
+              "type": "text",
+              "ref": "14",
+              "style": {
+                "width": "300",
+                "height": "100"
+              },
+              "attr": {
+                "value": "想淘就淘"
+              }
+            },
+            {
+              "type": "img",
+              "ref": "15",
+              "style": {
+                "width": "100",
+                "display": "inline",
+                "height": "100",
+                "verticalAlign": "middle"
+              },
+              "attr": {
+                "src": "file:///data/local/tmp/ic_launcher_round.png"
+              }
+            },
+            {
+              "type": "text",
+              "ref": "16",
+              "style": {
+                "fontColor": "#EE0000"
+              },
+              "attr": {
+                "value": "我的想淘就淘红色"
+              }
+            },
+            {
+              "type": "span",
+              "ref": "17",
+              "style": {
+                "fontColor": "#32CD32"
+              },
+              "attr": {
+                "value": "span 标签 想淘就淘span想淘就淘span"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "ref": "37",
+      "style": {
+        "borderWidth": "2",
+        "borderStyle": "solid",
+        "borderColor": "#DDDDDD",
+        "fontSize": "26"
+      },
+      "children": [
+        {
+          "type": "span",
+          "ref": "38",
+          "style": {
+          },
+          "attr": {
+            "value": "图片也能加链接"
+          }
+        },
+        {
+          "type": "a",
+          "ref": "39",
+          "style": {
+            "fontColor": "#32CD32"
+          },
+          "children": [
+            {
+              "type": "img",
+              "ref": "40",
+              "style": {
+                "width": "172px",
+                "height": "67px"
+              },
+              "attr": {
+                "src": "http://img.alicdn.com/tps/i2/TB1bNE7LFXXXXaOXFXXwFSA1XXX-292-116.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "span",
+          "ref": "41",
+          "style": {
+            "fontColor": "#32CD32"
+          },
+          "children": [
+            {
+              "type": "img",
+              "ref": "42",
+              "style": {
+                "width": "190px",
+                "height": "100px"
+              },
+              "attr": {
+                "src": "https://img.alicdn.com/tfs/TB1MaLKRXXXXXaWXFXXXXXXXXXX-480-260.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": "span",
+          "ref": "43",
+          "style": {
+            "fontSize": "36px"
+          },
+          "attr": {
+            "value": "图片也能加链接"
+          },
+          "children" :[
+            {
+              "type": "span",
+              "ref": "44",
+              "style": {
+                "fontSize": "36px"
+              },
+              "attr": {
+                "value": "。文字内容也可以是动态更新的，"
+              }
+            },
+            {
+              "type": "span",
+              "ref": "45",
+              "style": {
+                "fontSize": "36px"
+              },
+              "attr": {
+                "value": "输入框里的字"
+              }
+            }
+          ]
+        },
+        {
+          "type": "img",
+          "ref": "46",
+          "style": {
+            "width": "190px",
+            "height": "100px"
+          },
+          "attr": {
+            "src": "https://img.alicdn.com/tfs/TB1MaLKRXXXXXaWXFXXXXXXXXXX-480-260.png"
+          }
+        }
+      ]
+    }
+  ]
+}

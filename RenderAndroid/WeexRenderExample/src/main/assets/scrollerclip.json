@@ -1,0 +1,262 @@
+{
+    "attr": {
+        "@styleScope": "data-v-1f045cf2"
+    },
+    "children": [
+        {
+            "type": "scroller",
+            "ref": "2",
+            "style": {
+                "width": "750px",
+                "height": "1000px"
+            },
+            "attr": { },
+            "children": [
+                {
+                    "type": "div",
+                    "ref": "4",
+                    "style": {
+                        "width": "650px",
+                        "height": "2000px",
+                        "margin": "50px"
+                    },
+                    "attr": { },
+                    "children": [
+                        {
+                            "attr": {
+                                "append": "tree"
+                            },
+                            "children": [
+                                {
+                                    "attr": {
+                                        "accessible": "true",
+                                        "ariaLabel": "锦明水弹枪儿童玩具 单独供电的设计，速度快射程远，塑胶枪身，结实环保不易变形 1136人说好 单指双击了解详情",
+                                        "preventMoveEvent": "true"
+                                    },
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "attr": {
+                                                        "defaultHeight": "750rem",
+                                                        "fallbackSource": "{}",
+                                                        "lazyload": "true",
+                                                        "resize": "cover",
+                                                        "resizeMode": "cover"
+                                                    },
+                                                    "event": [
+                                                        "load",
+                                                        "error"
+                                                    ],
+                                                    "ref": "337",
+                                                    "style": {
+                                                        "borderRadius": "12px",
+                                                        "display": "flex",
+                                                        "height": "300px",
+                                                        "resizeMode": "cover",
+                                                        "width": "300px"
+                                                    },
+                                                    "type": "image"
+                                                },
+                                                {
+                                                    "ref": "340",
+                                                    "style": {
+                                                        "backgroundColor": "rgba(80,80,80,0.5)",
+                                                        "borderRadius": "12px",
+                                                        "height": "300px",
+                                                        "left": "0px",
+                                                        "position": "absolute",
+                                                        "top": "0px",
+                                                        "width": "300px"
+                                                    },
+                                                    "type": "div"
+                                                }
+                                            ],
+                                            "ref": "334",
+                                            "style": {
+                                                "backgroundColor": "red",
+                                                "borderRadius": "12px",
+                                                "height": "300px",
+                                                "marginLeft": "24px",
+                                                "position": "relative",
+                                                "width": "300px"
+                                            },
+                                            "type": "div"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "children": [
+                                                        {
+                                                            "attr": {
+                                                                "value": "锦明水弹枪儿童玩具"
+                                                            },
+                                                            "ref": "352",
+                                                            "style": {
+                                                                "color": "rgb(51,51,51)",
+                                                                "fontSize": "32px",
+                                                                "fontWeight": "800",
+                                                                "lines": "1",
+                                                                "textOverflow": "ellipsis",
+                                                                "whiteSpace": "nowrap",
+                                                                "width": "366px"
+                                                            },
+                                                            "type": "text"
+                                                        }
+                                                    ],
+                                                    "ref": "348",
+                                                    "style": {
+                                                        "alignItems": "center",
+                                                        "flexDirection": "row",
+                                                        "height": "62px",
+                                                        "marginTop": "10px",
+                                                        "position": "relative",
+                                                        "width": "372px"
+                                                    },
+                                                    "type": "div"
+                                                },
+                                                {
+                                                    "attr": {
+                                                        "value": "单独供电的设计，速度快射程远，塑胶枪身，结实环保不易变形"
+                                                    },
+                                                    "ref": "358",
+                                                    "style": {
+                                                        "color": "rgb(153,153,153)",
+                                                        "fontSize": "28px",
+                                                        "fontWeight": "100",
+                                                        "height": "120px",
+                                                        "lineHeight": "42px",
+                                                        "lines": "3",
+                                                        "textOverflow": "ellipsis",
+                                                        "width": "372px"
+                                                    },
+                                                    "type": "text"
+                                                },
+                                                {
+                                                    "attr": {
+                                                        "preventMoveEvent": "true"
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "attr": {
+                                                                "fallbackSource": "{}",
+                                                                "src": "//gw.alicdn.com/bao/uploaded/TB1dRI.OFXXXXaQapXXXXXXXXXX-36-36.png"
+                                                            },
+                                                            "event": [
+                                                                "load",
+                                                                "error"
+                                                            ],
+                                                            "ref": "370",
+                                                            "style": {
+                                                                "display": "flex",
+                                                                "height": "36px",
+                                                                "marginRight": "9px",
+                                                                "opacity": "1",
+                                                                "transform": "scale(1)",
+                                                                "width": "36px"
+                                                            },
+                                                            "type": "image"
+                                                        },
+                                                        {
+                                                            "attr": {
+                                                                "value": "1136人说好"
+                                                            },
+                                                            "ref": "372",
+                                                            "style": {
+                                                                "color": "rgb(34,170,255)",
+                                                                "fontSize": "24px",
+                                                                "fontWeight": "200"
+                                                            },
+                                                            "type": "text"
+                                                        }
+                                                    ],
+                                                    "event": [
+                                                        "appear",
+                                                        "horizontalpan",
+                                                        "disappear",
+                                                        "click"
+                                                    ],
+                                                    "ref": "367",
+                                                    "style": {
+                                                        "alignItems": "center",
+                                                        "bottom": "0px",
+                                                        "flexDirection": "row",
+                                                        "height": "108px",
+                                                        "paddingLeft": "30px",
+                                                        "position": "absolute",
+                                                        "right": "0px"
+                                                    },
+                                                    "type": "div"
+                                                }
+                                            ],
+                                            "ref": "345",
+                                            "style": {
+                                                "background": "green",
+                                                "marginLeft": "30px",
+                                                "marginRight": "24px",
+                                                "position": "relative",
+                                                "width": "372px"
+                                            },
+                                            "type": "div"
+                                        }
+                                    ],
+                                    "event": [
+                                        "appear",
+                                        "longpress",
+                                        "horizontalpan",
+                                        "disappear",
+                                        "click"
+                                    ],
+                                    "ref": "331",
+                                    "style": {
+                                        "backgroundColor": "yellow",
+                                        "flexDirection": "row",
+                                        "height": "320px",
+                                        "paddingTop": "20px",
+                                        "position": "relative",
+                                        "width": "750px"
+                                    },
+                                    "type": "div"
+                                }
+                            ],
+                            "ref": "328",
+                            "style": {
+                                "backgroundColor": "black",
+                                "flexDirection": "row",
+                                "height": "320px",
+                                "paddingTop": "20px",
+                                "overflow": "hidden",
+                                "position": "relative",
+                                "width": "750px"
+                            },
+                            "type": "cell"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "attr": {
+                "value": "Render C++ List&Gesture Demo"
+            },
+            "event": [ ],
+            "ref": "624",
+            "style": {
+                "color": "#ffffff",
+                "fontSize": "32",
+                "textAlign": "center",
+                "width": "750px",
+                "lineHeight": "100px",
+                "height": "100px",
+                "backgroundColor": "#00B4FF"
+            },
+            "type": "text"
+        }
+    ],
+    "event": [ ],
+    "ref": "119",
+    "style": {
+        "backgroundColor": "red"
+    },
+    "type": "div"
+}

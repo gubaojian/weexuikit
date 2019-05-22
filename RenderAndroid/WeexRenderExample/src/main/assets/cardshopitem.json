@@ -1,0 +1,838 @@
+{
+  "attr": {
+    "@styleScope": "data-v-b47d497e",
+    "appendData": "{}",
+    "config": "{}",
+    "dataSpm": "2744941040",
+    "doctype": "weexrender",
+    "id": "2744941040",
+    "theme": "{}"
+  },
+  "children": [
+    {
+      "attr": {
+        "@styleScope": "data-v-b47d497e",
+        "is_document": "true"
+      },
+      "children": [
+        {
+          "attr": {
+            "@styleScope": "data-v-b47d497e",
+            "is_document": "true"
+          },
+          "children": [ ],
+          "event": [
+            "appear"
+          ],
+          "ref": "1246",
+          "style": {
+            "backgroundColor": "rgba(0,0,0,0)",
+            "height": "1",
+            "position": "absolute",
+            "top": "1",
+            "width": "750"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-b47d497e",
+            "is_document": "true"
+          },
+          "children": [ ],
+          "event": [
+            "appear"
+          ],
+          "ref": "1249",
+          "style": {
+            "backgroundColor": "rgba(0,0,0,0)",
+            "height": "1",
+            "position": "absolute",
+            "top": "2",
+            "width": "750"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-b47d497e",
+            "component-name": "link",
+            "data-spm": "",
+            "href": "https://ju.taobao.com/m/jusp/alone/detailwap/mtp.htm?item_id=526979240899",
+            "is_document": "true",
+            "trackinfox": ""
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true",
+                "quality": "normal",
+                "src": "//gju3.alicdn.com/tps/i4/TB25AKfsHZnBKNjSZFKXXcGOVXa_!!0-juitemmedia.jpg"
+              },
+              "event": [ ],
+              "ref": "1255",
+              "style": {
+                "borderTopLeftRadius": "12",
+                "borderTopRightRadius": "12",
+                "height": "342",
+                "left": "0",
+                "position": "absolute",
+                "top": "0",
+                "width": "342"
+              },
+              "type": "image"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true"
+              },
+              "children": [ ],
+              "event": [ ],
+              "ref": "1258",
+              "style": {
+                "backgroundColor": "rgba(0,0,0,0.03)",
+                "borderTopLeftRadius": "12",
+                "borderTopRightRadius": "12",
+                "height": "342",
+                "left": "0",
+                "position": "absolute",
+                "top": "0",
+                "width": "342"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true",
+                    "resize": "cover"
+                  },
+                  "event": [ ],
+                  "ref": "1264",
+                  "style": {
+                    "height": "60",
+                    "position": "absolute",
+                    "width": "60"
+                  },
+                  "type": "image"
+                }
+              ],
+              "event": [ ],
+              "ref": "1261",
+              "style": {
+                "height": "60",
+                "position": "absolute",
+                "right": "0",
+                "top": "13",
+                "width": "60"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true",
+                "src": "https://gw.alicdn.com/tfs/TB1jRw5RFXXXXaLXXXXXXXXXXXX-52-72.png"
+              },
+              "event": [ ],
+              "ref": "1269",
+              "style": {
+                "height": "48",
+                "left": "10",
+                "position": "absolute",
+                "top": "290",
+                "width": "34"
+              },
+              "type": "image"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true",
+                "src": "https://gw.alicdn.com/tfs/TB1e5IgRFXXXXb2aXXXXXXXXXXX-214-72.png"
+              },
+              "event": [ ],
+              "ref": "1272",
+              "style": {
+                "height": "48",
+                "left": "44",
+                "position": "absolute",
+                "top": "290",
+                "width": "126"
+              },
+              "type": "image"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true",
+                "src": "https://gw.alicdn.com/tfs/TB1GC7mRFXXXXXPaXXXXXXXXXXX-34-72.png"
+              },
+              "event": [ ],
+              "ref": "1275",
+              "style": {
+                "height": "48",
+                "left": "170",
+                "position": "absolute",
+                "top": "290",
+                "width": "14"
+              },
+              "type": "image"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true",
+                "value": "低至6折起"
+              },
+              "event": [ ],
+              "ref": "1277",
+              "style": {
+                "color": "#666666",
+                "fontSize": "20",
+                "height": "39",
+                "left": "44",
+                "lineHeight": "39",
+                "position": "absolute",
+                "textAlign": "left",
+                "top": "290"
+              },
+              "type": "text"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-6cda6ed9",
+                        "is_document": "true",
+                        "src": "//gju2.alicdn.com/tps/tfs/TB1sujLq9MmBKNjSZTEXXasKpXa-80-36.png"
+                      },
+                      "event": [ ],
+                      "ref": "1286",
+                      "style": {
+                        "height": "24",
+                        "left": "0",
+                        "position": "absolute",
+                        "top": "6",
+                        "width": "54"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-6cda6ed9",
+                        "is_document": "true",
+                        "value": "          LACOSTE 儿童短裤"
+                      },
+                      "event": [ ],
+                      "ref": "1288",
+                      "style": {
+                        "color": "#333333",
+                        "fontSize": "26",
+                        "height": "70px",
+                        "lineHeight": "35",
+                        "lines": "2",
+                        "paddingLeft": "0",
+                        "textAlign": "left",
+                        "textOverflow": "ellipsis"
+                      },
+                      "type": "text"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "1283",
+                  "style": {
+                    "height": "70",
+                    "position": "absolute",
+                    "top": "10",
+                    "width": "326"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true"
+                  },
+                  "children": [ ],
+                  "event": [ ],
+                  "ref": "1291",
+                  "style": {
+                    "backgroundColor": "rgba(0,0,0,0)",
+                    "height": "40",
+                    "left": "0",
+                    "position": "relative",
+                    "top": "45",
+                    "width": "326"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-6cda6ed9",
+                        "is_document": "true",
+                        "value": "¥690"
+                      },
+                      "event": [ ],
+                      "ref": "1298",
+                      "style": {
+                        "color": "#999999",
+                        "fontSize": "24",
+                        "lineHeight": "35",
+                        "lines": "1",
+                        "textDecoration": "line-through"
+                      },
+                      "type": "text"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "1296",
+                  "style": {
+                    "bottom": "62",
+                    "height": "35",
+                    "position": "absolute",
+                    "width": "326"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-6cda6ed9",
+                        "is_document": "true"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-6cda6ed9",
+                            "is_document": "true",
+                            "value": "¥"
+                          },
+                          "event": [ ],
+                          "ref": "1306",
+                          "style": {
+                            "color": "#26A96D",
+                            "fontSize": "24",
+                            "lines": "1"
+                          },
+                          "type": "text"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-6cda6ed9",
+                            "is_document": "true",
+                            "value": "276"
+                          },
+                          "event": [ ],
+                          "ref": "1308",
+                          "style": {
+                            "color": "#26A96D",
+                            "fontSize": "40",
+                            "lineHeight": "42",
+                            "lines": "1"
+                          },
+                          "type": "text"
+                        }
+                      ],
+                      "event": [ ],
+                      "ref": "1304",
+                      "style": {
+                        "alignItems": "flex-end",
+                        "backgroundColor": "#ffffff",
+                        "display": "flex",
+                        "flexDirection": "row",
+                        "flexWrap": "nowrap",
+                        "height": "42",
+                        "justifyContent": "flex-start",
+                        "width": "165"
+                      },
+                      "type": "div"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "1301",
+                  "style": {
+                    "bottom": "20",
+                    "position": "absolute"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true",
+                    "value": "即将开抢"
+                  },
+                  "event": [ ],
+                  "ref": "1310",
+                  "style": {
+                    "bottom": "20",
+                    "color": "#999999",
+                    "fontSize": "24",
+                    "height": "42",
+                    "lineHeight": "42",
+                    "lines": "1",
+                    "position": "absolute",
+                    "right": "0"
+                  },
+                  "type": "text"
+                }
+              ],
+              "event": [ ],
+              "ref": "1280",
+              "style": {
+                "height": "195",
+                "left": "12",
+                "position": "absolute",
+                "top": "340",
+                "width": "326"
+              },
+              "type": "div"
+            }
+          ],
+          "event": [
+            "click"
+          ],
+          "ref": "1252",
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "12",
+            "height": "524",
+            "left": "24",
+            "position": "absolute",
+            "width": "342"
+          },
+          "type": "div"
+        },
+        {
+          "attr": {
+            "@styleScope": "data-v-b47d497e",
+            "component-name": "link",
+            "data-spm": "",
+            "href": "https://ju.taobao.com/m/jusp/alone/detailwap/mtp.htm?item_id=557505537240",
+            "is_document": "true",
+            "trackinfox": ""
+          },
+          "children": [
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true",
+                "quality": "normal",
+                "src": "//gju1.alicdn.com/tps/i1/TB27etDucUrBKNjSZPxXXX00pXa_!!0-juitemmedia.jpg"
+              },
+              "event": [ ],
+              "ref": "1318",
+              "style": {
+                "borderTopLeftRadius": "12",
+                "borderTopRightRadius": "12",
+                "height": "342",
+                "left": "0",
+                "position": "absolute",
+                "top": "0",
+                "width": "342"
+              },
+              "type": "image"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true"
+              },
+              "children": [ ],
+              "event": [ ],
+              "ref": "1321",
+              "style": {
+                "backgroundColor": "rgba(0,0,0,0.03)",
+                "borderTopLeftRadius": "12",
+                "borderTopRightRadius": "12",
+                "height": "342",
+                "left": "0",
+                "position": "absolute",
+                "top": "0",
+                "width": "342"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true",
+                    "resize": "cover"
+                  },
+                  "event": [ ],
+                  "ref": "1327",
+                  "style": {
+                    "height": "60",
+                    "position": "absolute",
+                    "width": "60"
+                  },
+                  "type": "image"
+                }
+              ],
+              "event": [ ],
+              "ref": "1324",
+              "style": {
+                "height": "60",
+                "position": "absolute",
+                "right": "0",
+                "top": "13",
+                "width": "60"
+              },
+              "type": "div"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true",
+                "src": "https://gw.alicdn.com/tfs/TB1jRw5RFXXXXaLXXXXXXXXXXXX-52-72.png"
+              },
+              "event": [ ],
+              "ref": "1332",
+              "style": {
+                "height": "48",
+                "left": "10",
+                "position": "absolute",
+                "top": "290",
+                "width": "34"
+              },
+              "type": "image"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true",
+                "src": "https://gw.alicdn.com/tfs/TB1e5IgRFXXXXb2aXXXXXXXXXXX-214-72.png"
+              },
+              "event": [ ],
+              "ref": "1335",
+              "style": {
+                "height": "48",
+                "left": "44",
+                "position": "absolute",
+                "top": "290",
+                "width": "196"
+              },
+              "type": "image"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true",
+                "src": "https://gw.alicdn.com/tfs/TB1GC7mRFXXXXXPaXXXXXXXXXXX-34-72.png"
+              },
+              "event": [ ],
+              "ref": "1338",
+              "style": {
+                "height": "48",
+                "left": "240",
+                "position": "absolute",
+                "top": "290",
+                "width": "14"
+              },
+              "type": "image"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true",
+                "value": "每片仅需0.93元"
+              },
+              "event": [ ],
+              "ref": "1340",
+              "style": {
+                "color": "#666666",
+                "fontSize": "20",
+                "height": "39",
+                "left": "44",
+                "lineHeight": "39",
+                "position": "absolute",
+                "textAlign": "left",
+                "top": "290"
+              },
+              "type": "text"
+            },
+            {
+              "attr": {
+                "@styleScope": "data-v-6cda6ed9",
+                "is_document": "true"
+              },
+              "children": [
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-6cda6ed9",
+                        "is_document": "true",
+                        "src": "//gju2.alicdn.com/tps/tfs/TB1sujLq9MmBKNjSZTEXXasKpXa-80-36.png"
+                      },
+                      "event": [ ],
+                      "ref": "1349",
+                      "style": {
+                        "height": "24",
+                        "left": "0",
+                        "position": "absolute",
+                        "top": "6",
+                        "width": "54"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-6cda6ed9",
+                        "is_document": "true",
+                        "value": "          乐而雅超薄卫生巾"
+                      },
+                      "event": [ ],
+                      "ref": "1351",
+                      "style": {
+                        "color": "#333333",
+                        "fontSize": "26",
+                        "height": "70px",
+                        "lineHeight": "35",
+                        "lines": "2",
+                        "paddingLeft": "0",
+                        "textAlign": "left",
+                        "textOverflow": "ellipsis"
+                      },
+                      "type": "text"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "1346",
+                  "style": {
+                    "height": "70",
+                    "position": "absolute",
+                    "top": "10",
+                    "width": "326"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true"
+                  },
+                  "children": [ ],
+                  "event": [ ],
+                  "ref": "1354",
+                  "style": {
+                    "backgroundColor": "rgba(0,0,0,0)",
+                    "height": "40",
+                    "left": "0",
+                    "position": "relative",
+                    "top": "45",
+                    "width": "326"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-6cda6ed9",
+                        "is_document": "true",
+                        "value": "¥108"
+                      },
+                      "event": [ ],
+                      "ref": "1361",
+                      "style": {
+                        "color": "#999999",
+                        "fontSize": "24",
+                        "lineHeight": "35",
+                        "lines": "1",
+                        "textDecoration": "line-through"
+                      },
+                      "type": "text"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "1359",
+                  "style": {
+                    "bottom": "62",
+                    "height": "35",
+                    "position": "absolute",
+                    "width": "326"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true"
+                  },
+                  "children": [
+                    {
+                      "attr": {
+                        "@styleScope": "data-v-6cda6ed9",
+                        "is_document": "true"
+                      },
+                      "children": [
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-6cda6ed9",
+                            "is_document": "true",
+                            "value": "¥"
+                          },
+                          "event": [ ],
+                          "ref": "1369",
+                          "style": {
+                            "color": "#26A96D",
+                            "fontSize": "24",
+                            "lines": "1"
+                          },
+                          "type": "text"
+                        },
+                        {
+                          "attr": {
+                            "@styleScope": "data-v-6cda6ed9",
+                            "is_document": "true",
+                            "value": "78"
+                          },
+                          "event": [ ],
+                          "ref": "1371",
+                          "style": {
+                            "color": "#26A96D",
+                            "fontSize": "40",
+                            "lineHeight": "42",
+                            "lines": "1"
+                          },
+                          "type": "text"
+                        }
+                      ],
+                      "event": [ ],
+                      "ref": "1367",
+                      "style": {
+                        "alignItems": "flex-end",
+                        "backgroundColor": "#ffffff",
+                        "display": "flex",
+                        "flexDirection": "row",
+                        "flexWrap": "nowrap",
+                        "height": "42",
+                        "justifyContent": "flex-start",
+                        "width": "165"
+                      },
+                      "type": "div"
+                    }
+                  ],
+                  "event": [ ],
+                  "ref": "1364",
+                  "style": {
+                    "bottom": "20",
+                    "position": "absolute"
+                  },
+                  "type": "div"
+                },
+                {
+                  "attr": {
+                    "@styleScope": "data-v-6cda6ed9",
+                    "is_document": "true",
+                    "value": "即将开抢"
+                  },
+                  "event": [ ],
+                  "ref": "1373",
+                  "style": {
+                    "bottom": "20",
+                    "color": "#999999",
+                    "fontSize": "24",
+                    "height": "42",
+                    "lineHeight": "42",
+                    "lines": "1",
+                    "position": "absolute",
+                    "right": "0"
+                  },
+                  "type": "text"
+                }
+              ],
+              "event": [ ],
+              "ref": "1343",
+              "style": {
+                "height": "195",
+                "left": "12",
+                "position": "absolute",
+                "top": "340",
+                "width": "326"
+              },
+              "type": "div"
+            }
+          ],
+          "event": [
+            "click"
+          ],
+          "ref": "1315",
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "12",
+            "height": "524",
+            "left": "384",
+            "position": "absolute",
+            "width": "342"
+          },
+          "type": "div"
+        }
+      ],
+      "event": [ ],
+      "ref": "1243",
+      "style": {
+        "height": "524",
+        "marginBottom": "18",
+        "position": "relative",
+        "width": "750"
+      },
+      "type": "div"
+    }
+  ],
+  "event": [
+    "appear",
+    "disappear"
+  ],
+  "ref": "1232",
+  "style": {
+    "backgroundColor": "transparent",
+    "width": "750"
+  },
+  "type": "segment"
+}

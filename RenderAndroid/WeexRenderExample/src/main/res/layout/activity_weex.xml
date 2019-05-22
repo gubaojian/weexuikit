@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.furture.fluttercore.com.test.weex.render.activity.WeexActivity">
+
+ <com.taobao.weex.render.frame.RenderView
+            android:id="@+id/weex_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/add_element"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Element"
+                android:textAllCaps="false"/>
+            <Button
+                android:id="@+id/remove_element"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Remove Element"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:id="@+id/move_element"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Move Element"
+                android:textAllCaps="false"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/add_event"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Event"
+                android:textAllCaps="false"/>
+            <Button
+                android:id="@+id/remove_event"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RemoveEvent"
+                android:textAllCaps="false"/>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

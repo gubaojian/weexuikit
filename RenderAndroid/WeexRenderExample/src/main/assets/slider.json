@@ -1,0 +1,97 @@
+
+{
+  "type": "div",
+  "ref" : "1",
+  "style": {
+    "justifyContent":"center",
+    "backgroundColor":"#289898"
+  },
+  "children": [
+    {
+      "type": "slider",
+      "ref" : "2",
+      "style": {
+        "height": "1080",
+        "width" : "750"
+      },
+      "children": [
+        {
+          "type": "div",
+          "ref" : "10",
+          "style": {
+          },
+          "children": [
+            {
+              "type": "img",
+              "ref" : "11",
+              "style": {
+                "height": "1080",
+                "width" : "750"
+              },
+              "attr":{
+                "src" : "https://gw.alicdn.com/tfs/TB1MqHJkVuWBuNjSszbXXcS7FXa-1080-1574.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "ref" : "20",
+          "style": {
+          },
+          "children": [
+            {
+              "type": "img",
+              "ref" : "21",
+              "style": {
+                "height": "1080",
+                "width" : "750"
+              },
+              "attr":{
+                "src" : "https://gw.alicdn.com/tfs/TB1u1gjkY1YBuNjSszhXXcUsFXa-1080-1518.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "ref" : "30",
+          "style": {
+          },
+          "children": [
+            {
+              "type": "img",
+              "ref" : "31",
+              "style": {
+                "height": "1080",
+                "width" : "750"
+              },
+              "attr":{
+                "src" : "https://gw.alicdn.com/tfs/TB1TKvQk79WBuNjSspeXXaz5VXa-900-1312.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "type": "div",
+          "ref" : "40",
+          "style": {
+          },
+          "children": [
+            {
+              "type": "img",
+              "ref" : "41",
+              "style": {
+                "height": "1080",
+                "width" : "750"
+              },
+              "attr":{
+                "src" : "https://gw.alicdn.com/tfs/TB1nDsrkYSYBuNjSspfXXcZCpXa-1080-1575.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
