@@ -21,4 +21,4 @@ Weex高性能跨平台渲染引擎，性能媲美Flutter和Native，样式能力
   
   ## Demo视频：
   
-  [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+  ![Preview Image](https://raw.githubusercontent.com/gubaojian/weexuikit/master/doc/weex_uikit_preview.jpg)
