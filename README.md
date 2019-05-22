@@ -17,3 +17,8 @@ Weex高性能跨平台渲染引擎，性能媲美Flutter和Native，样式能力
   5、Platform平台对接层
   
   6、Rendering Flexbox布局和样式实现。
+  
+  
+  ## Demo视频：
+  
+  [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
