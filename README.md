@@ -1,6 +1,6 @@
 # Weex UIKit
 
-Weex高性能跨平台UI渲染引擎，性能媲美Flutter和Native，W3C样式(160+)能力远强于Flutter，完美支持W3C子集标准及Flexbox全套规范实现。。 
+Weex高性能跨平台UI渲染引擎，基于SKia轻量级GPU渲染流水线；性能媲美Flutter和Native，W3C样式(160+)能力远强于Flutter，完美支持W3C子集标准及Flexbox全套规范实现。。 
 
 工程简介:
 
