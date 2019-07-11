@@ -5,17 +5,17 @@ Weex高性能跨平台渲染引擎，性能媲美Flutter和Native，样式(160+)
 
 工程简介:
 
-  1、WML 高效跨平台线程库
+  1、WML高效跨平台线程库
   
-  2、Widget高级组件
+  2、Widget高级组件Scroller List Div Image Text等组件设计实现
   
-  3、Gesture 手势识别库 
+  3、Gesture 各种手势识别库实现
   
-  4、Frame渲染线程调度
+  4、Frame轻量级GPU渲染流水线
   
-  5、Platform平台对接层
+  5、Platform平台对接Android/iOS平台层
   
-  6、Rendering Flexbox布局和样式实现。
+  6、完美支持W3C标准及Flexbox布局实现。
   
   
   ## Demo截图
