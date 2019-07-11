@@ -1,8 +1,7 @@
 # Weex UIKit
 This is the Weex UIKit project. cross platform modular high performance render engine for weex and min app
 
-
-Weex高性能跨平台渲染引擎，性能媲美Flutter和Native，样式能力元强于Flutter。 
+Weex高性能跨平台渲染引擎，性能媲美Flutter和Native，样式(160+)能力元强于Flutter。 
 
 工程简介:
 
