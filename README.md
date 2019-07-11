@@ -11,13 +11,17 @@ Weex高性能跨平台渲染引擎，性能媲美Flutter和Native，样式(160+)
   
   3、Gesture 各种手势识别库实现
   
-  4、Frame轻量级GPU渲染流水线
+  4、Frame 轻量级GPU渲染流水线实现
   
   5、Platform平台对接Android/iOS平台层
   
   6、完美支持W3C标准及Flexbox布局实现。
   
+  ## APK视频Demo
   
-  ## Demo截图
+  https://github.com/gubaojian/weexuikit/blob/master/doc/weexuikit.mp4
   
-  <img src="https://raw.githubusercontent.com/gubaojian/weexuikit/master/doc/weex_uikit_preview.jpg" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/gubaojian/weexuikit/master/doc/startbucks.jpg" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/gubaojian/weexuikit/master/doc/youhaohuo.jpg" width="25%" height="25%" /> 
+  
+  ## 简单Demo截图
+  
+<img src="https://raw.githubusercontent.com/gubaojian/weexuikit/master/doc/weex_uikit_preview.jpg" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/gubaojian/weexuikit/master/doc/startbucks.jpg" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/gubaojian/weexuikit/master/doc/youhaohuo.jpg" width="25%" height="25%" /> 
